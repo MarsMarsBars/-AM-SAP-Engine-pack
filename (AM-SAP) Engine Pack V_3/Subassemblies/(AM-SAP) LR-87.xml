@@ -1,0 +1,1017 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DesignerParts>
+  <DesignerPart name="(AM-SAP) LR-87" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: KeraLOX, Thrust: SL=644kn Vac=728kn, Isp: SL=256s Vac=290s" order="1000">
+    <Assembly xmlVersion="8">
+      <Parts>
+        <Part id="2" partType="Strut1" position="0.004815578,1.251844,0.02476755" rotation="0.1405403,0.0001958413,359.8594" name="(AM-SAP) LR-87" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.2500212,0.2431747" area="0,0,0,0,0.2909729,0.2909729" />
+          <Config massScale="0" fuelLine="true" partScale="0.9,0.9,0.9" />
+          <Fuselage bottomScale="1.174807,1.174807" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.867612E-05,0.08972238,-1.113184E-12" topScale="1.174807,1.174807" />
+        </Part>
+        <Part id="3" partType="Strut1" position="0.004362106,1.030106,0.02422509" rotation="0.1405408,0.0001897,179.8593" name="(AM-SAP) LR-87" materials="8,2,2,2,4" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000383843,0.8121056,-2.384158E-05" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="4" partType="Fuselage1" position="0.004334927,1.050005,0.02426949" rotation="0.1405573,0.0001886157,359.8595" name="(AM-SAP) LR-87" materials="8,8,8,8,8" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.08529148,0.08529148" offset="5.01291E-16,0.1496156,2.648254E-09" topScale="0.08529148,0.08529148" />
+          <FuelTank capacity="3.76123786" fuel="3.76123786" />
+        </Part>
+        <Part id="5" partType="Fuselage1" position="0.003667831,0.7786269,0.02360007" rotation="0.1405675,0.0001704645,359.8595" name="(AM-SAP) LR-87" materials="9,8,8,8,8" texture="Fuselage4" textureTiling="1,8">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1059214,0.1059214" offset="6.393467E-16,0.1217386,2.648286E-09" topScale="0.1059214,0.1059214" />
+          <FuelTank capacity="4.71996" fuel="4.71996" />
+        </Part>
+        <Part id="6" partType="Fuselage1" position="0.003069401,0.5351303,0.0229997" rotation="0.1405675,0.0001643997,359.8594" name="(AM-SAP) LR-87" materials="8,8,8,8,8" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.103859,0.103859" offset="6.393467E-16,0.1217386,2.648286E-09" topScale="0.103859,0.103859" />
+          <FuelTank capacity="4.53794432" fuel="4.53794432" />
+        </Part>
+        <Part id="7" partType="Fuselage1" position="0.001828671,-0.08410978,0.02186653" rotation="0.1584723,7.500905,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.01432677,0.03017497" area="0,0,0,0,0.03233032,0.06466064" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1822021,0.1822021" offset="-4.771241E-08,0.1258994,-3.961784E-09" topScale="0.1822021,0.1822021" />
+          <FuelTank capacity="14.4435186" fuel="14.4435186" />
+        </Part>
+        <Part id="8" partType="Fuselage1" position="0.002265453,0.09359884,0.02230409" rotation="0.1584723,7.500905,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="8,1">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1822021,0.1822021" offset="-4.845475E-08,0.05178698,-1.6774E-09" topScale="0.201726,0.201726" />
+          <FuelTank capacity="6.60050535" fuel="6.60050535" />
+        </Part>
+        <Part id="9" partType="Fuselage1" position="0.002425194,0.1586335,0.02246526" rotation="0.1584952,7.500797,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.25,0.25,0.25" />
+          <Fuselage bottomScale="0.9005243,0.9005243" offset="1.408864E-09,0.0529654,9.417903E-11" topScale="0.9005243,0.9005243" />
+          <FuelTank capacity="148.431381" fuel="148.431381" />
+        </Part>
+        <Part id="10" partType="Fuselage1" position="0.001394272,-0.2608147,0.02143055" rotation="0.1584892,7.500909,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1460748,0.1460748" offset="-4.802974E-08,0.05078203,-1.614124E-09" topScale="0.1822021,0.1822021" />
+          <FuelTank capacity="4.7470417" fuel="4.7470417" />
+        </Part>
+        <Part id="11" partType="Fuselage1" position="0.001204491,-0.3380852,0.02124012" rotation="0.158489,7.500906,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.2855662,0.2855662" offset="1.408864E-09,0.0529654,9.417903E-11" topScale="0.291197,0.291197" />
+          <FuelTank capacity="15.2224226" fuel="15.2224226" />
+        </Part>
+        <Part id="12" partType="Fuselage1" position="0.001074314,-0.3910551,0.02110878" rotation="0.158489,7.500906,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.3043134,0.3043134" offset="1.408864E-09,0.0529654,9.417903E-11" topScale="0.3043134,0.3043134" />
+          <FuelTank capacity="16.9502831" fuel="16.9502831" />
+        </Part>
+        <Part id="13" partType="Fuselage1" position="0.0002017021,-0.7460165,0.02023423" rotation="0.158489,7.500906,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1154935,0.1154935" offset="-4.989229E-08,0.3284477,5.026307E-11" topScale="0.1154935,0.1154935" />
+          <FuelTank capacity="15.1399307" fuel="15.1399307" />
+        </Part>
+        <Part id="14" partType="Fuselage1" position="-0.0006380081,-1.087738,0.01938996" rotation="0.1584952,7.500797,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.25,0.25,0.25" />
+          <Fuselage bottomScale="0.5433593,0.5433593" offset="1.408864E-09,0.0529654,9.417903E-11" topScale="0.5433593,0.5433593" />
+          <FuelTank capacity="54.03921" fuel="54.03921" />
+        </Part>
+        <Part id="15" partType="Fuselage1" position="-0.0007033348,-1.114222,0.01932576" rotation="0.1584946,7.500793,359.8788" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.25,0.25,0.25" />
+          <Fuselage bottomScale="0.44792,0.44792" offset="1.408864E-09,0.0529654,9.417903E-11" topScale="0.5433593,0.5433593" />
+          <FuelTank capacity="45.103138" fuel="45.103138" />
+        </Part>
+        <Part id="16" partType="Fuselage1" position="0.1617002,-0.6688828,0.03045067" rotation="359.8592,270.0014,359.8587" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.05004848,0.05004848" offset="-4.989229E-08,0.3284477,5.026307E-11" topScale="0.05004848,0.05004848" />
+          <FuelTank capacity="2.84309" fuel="2.84309" />
+        </Part>
+        <Part id="17" partType="Strut1" position="0.1612587,-0.3335972,0.0312815" rotation="4.859168,269.989,359.8582" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2532498,0.2532498" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2532498,0.2532498" />
+        </Part>
+        <Part id="18" partType="Strut1" position="0.1591153,-0.3140368,0.03133792" rotation="9.859157,269.9763,359.8566" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2532498,0.2532498" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2532498,0.2532498" />
+        </Part>
+        <Part id="19" partType="Strut1" position="0.1550155,-0.2978287,0.03138378" rotation="14.85914,269.9634,359.8539" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2532498,0.2532498" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2532498,0.2532498" />
+        </Part>
+        <Part id="20" partType="Strut1" position="0.1323171,-0.2445359,0.03152695" rotation="24.85915,269.9355,359.8444" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2927849,0.2927849" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.764639E-05,0.2705526,6.752054E-07" topScale="0.2927849,0.2927849" />
+        </Part>
+        <Part id="21" partType="Fuselage1" position="0.1662402,-1.012516,0.02960327" rotation="359.8592,270.0014,359.8587" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.25,0.25,0.25" />
+          <Fuselage bottomScale="0.2516048,0.2516048" offset="3.519138E-09,0.06058741,-5.820259E-09" topScale="0.2516048,0.2516048" />
+          <FuelTank capacity="13.2544832" fuel="13.2544832" />
+        </Part>
+        <Part id="22" partType="Strut1" position="0.1581626,-0.1395292,-0.005917192" rotation="270.1988,44.90807,280.0934" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2927849,0.2927849" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.764639E-05,0.2705526,6.752054E-07" topScale="0.2927849,0.2927849" />
+        </Part>
+        <Part id="23" partType="Strut1" position="0.1832376,-0.1377821,-0.04219472" rotation="270.1988,44.91794,300.0835" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3105682,0.3105682" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.3105682,0.3105682" />
+        </Part>
+        <Part id="24" partType="Strut1" position="0.1958647,-0.1376963,-0.08822247" rotation="270.1988,44.91794,300.0835" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="9,1">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2847899,0.2847899" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.001279539,0.1876764,2.1453E-05" topScale="0.2847899,0.2847899" />
+        </Part>
+        <Part id="25" partType="Strut1" position="0.2084913,-0.1376085,-0.134254" rotation="270.1988,44.91794,300.0835" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3105682,0.3105682" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.3105682,0.3105682" />
+        </Part>
+        <Part id="26" partType="Strut1" position="0.2084961,-0.1375828,-0.1448996" rotation="270.1978,44.90733,310.094" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="27" partType="Strut1" position="0.2081804,-0.1375504,-0.1567818" rotation="270.1988,44.91807,320.0829" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="28" partType="Strut1" position="0.2066059,-0.1375241,-0.1658365" rotation="270.1978,44.90945,330.0918" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.02954104" area="0,0,0,0,0,0.03233032" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="29" partType="Strut1" position="0.2029042,-0.1374903,-0.1750216" rotation="270.1968,44.91015,340.091" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="30" partType="Strut1" position="0.1991372,-0.1374631,-0.1821346" rotation="270.1978,44.90946,350.0919" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="31" partType="Strut1" position="0.1948743,-0.1374373,-0.1877104" rotation="270.1998,44.91431,0.08733059" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="32" partType="Strut1" position="0.09928608,-0.1175165,-0.2437103" rotation="280.1963,54.80656,5.197576" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.01622855,0" area="0,0,0,0,0.03233032,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0004276958,0.6088798,1.417459E-05" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="33" partType="Strut1" position="-0.003573418,-0.09632778,-0.3022319" rotation="280.1963,54.80731,15.19682" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="34" partType="Strut1" position="-0.008010387,-0.0955081,-0.3038733" rotation="280.1964,54.80686,30.19736" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="35" partType="Strut1" position="-0.01353502,-0.09471607,-0.3036486" rotation="280.1964,54.80731,45.19691" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="36" partType="Strut1" position="-0.05450058,-0.09018803,-0.2892177" rotation="280.1964,54.80684,55.1973" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0004264849,0.2169983,2.30964E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="37" partType="Strut1" position="-0.1045046,-0.08475685,-0.2707113" rotation="280.1964,54.80684,55.1973" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.332346,0.332346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.332346,0.332346" />
+        </Part>
+        <Part id="38" partType="Strut1" position="-0.1404452,-0.08084488,-0.2574453" rotation="280.1964,54.80716,55.19695" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="9,1">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3100759,0.3100759" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0004271921,0.1415813,8.5588E-06" topScale="0.3100759,0.3100759" />
+        </Part>
+        <Part id="39" partType="Strut1" position="-0.1763854,-0.07693672,-0.2441754" rotation="280.1964,54.80716,55.19695" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.332346,0.332346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.332346,0.332346" />
+        </Part>
+        <Part id="40" partType="Strut1" position="-0.1831651,-0.07621956,-0.2414628" rotation="280.1964,54.80669,65.19746" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2953298,0.2953298" />
+        </Part>
+        <Part id="41" partType="Strut1" position="-0.2007346,-0.07469606,-0.2312397" rotation="280.1963,54.80729,65.19685" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2953298,0.2953298" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000142235,0.05095924,2.38884E-06" topScale="0.2514752,0.2514752" />
+        </Part>
+        <Part id="42" partType="Strut1" position="-0.2658858,-0.0690589,-0.1932237" rotation="280.1964,54.80682,65.19724" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2549638,0.2549638" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0004265851,0.3272339,4.782329E-06" topScale="0.2549638,0.2549638" />
+        </Part>
+        <Part id="43" partType="Strut1" position="0.002737999,0.4013846,0.02266946" rotation="0.1405675,0.0001620002,359.8594" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.6128224,0.6128224" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.6128224,0.6128224" />
+        </Part>
+        <Part id="44" partType="Fuselage1" position="0.002337456,0.2397535,0.02227178" rotation="0.1405675,0.0001620002,359.8594" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.06313922,0.03169639" area="0,0,0,0,0.06466064,0.03233032" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1532217,0.1532217" offset="5.01291E-16,0.1496156,2.648254E-09" topScale="0.1161523,0.1161523" />
+          <FuelTank capacity="9.438515" fuel="9.438515" />
+        </Part>
+        <Part id="45" partType="FuelAdapter1" position="-0.0343523,0.125675,0.02182755" rotation="359.8587,180.0009,0.1406624" name="(AM-SAP) LR-87" materials="0,1,2,3,4" symmetryId="b8c99ae9-53c5-4eae-b129-8c1c5876ff5c">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+        </Part>
+        <Part id="46" partType="Fuselage1" position="-0.03449488,0.06771994,0.02168366" rotation="270.1978,44.90928,225.0919" name="(AM-SAP) LR-87" materials="8,8,8,8,8" symmetryId="0ec2fdac-c4c7-4359-87ab-9f0cff54bf4a" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07966777,0.07966777" offset="-4.749745E-08,0.07794505,-4.645944E-09" topScale="0.07966777,0.07966777" />
+          <FuelTank capacity="1.70960784" fuel="1.70960784" />
+        </Part>
+        <Part id="47" partType="Fuselage1" position="-0.1170473,0.06792307,0.0216845" rotation="270.1978,44.90928,225.0919" name="(AM-SAP) LR-87" materials="8,8,8,8,8" symmetryId="d891a7bb-f2be-4242-8113-611869c66d60" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.05,0.05,0.05" />
+          <Fuselage bottomScale="0.05,0.05" offset="-2.44936E-07,0.2440695,7.273805E-09" topScale="0.05,0.05" />
+          <FuelTank capacity="2.1086092" fuel="2.1086092" />
+        </Part>
+        <Part id="48" partType="Fuselage1" position="-0.1389947,0.06797647,0.02168551" rotation="359.8593,270.0012,359.8586" name="(AM-SAP) LR-87" materials="8,8,8,8,8" symmetryId="5a6d9a8e-5718-4ba4-848f-986289ae8f9c" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.05,0.05,0.05" />
+          <Fuselage bottomScale="0.06117868,0.06117868" offset="2.193738E-16,0.05139162,2.648379E-09" topScale="0.03188768,0.03188768" />
+          <FuelTank capacity="0.3972543" fuel="0.3972543" />
+        </Part>
+        <Part id="49" partType="Fuselage1" position="-0.5304565,-0.0590663,0.02137536" rotation="359.8593,270.0012,359.8586" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="e7136b61-35d1-458f-9865-c3d8048d9ea2" texture="Fuselage9" textureTiling="9,1">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1236954,0.1236954" offset="1.36858E-17,0.07659908,3.637959E-10" topScale="0.1236954,0.1236954" />
+          <FuelTank capacity="4.05017" fuel="4.05017" />
+        </Part>
+        <Part id="50" partType="Fuselage1" position="-0.5307698,-0.1868281,0.02106455" rotation="359.8593,270.0012,359.8586" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="1462bdca-298a-4932-a36c-56b1b6eef31f" texture="Default">
+          <Drag drag="0,0,0,0,0.01724284,0" area="0,0,0,0,0.03233032,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2344543,0.2344543" offset="-4.267402E-16,0.05114346,-4.743014E-09" topScale="0.1258714,0.1258714" />
+          <FuelTank capacity="5.91036367" fuel="5.91036367" />
+        </Part>
+        <Part id="51" partType="Fuselage1" position="-0.5309706,-0.2684174,0.02086163" rotation="359.8592,270.0012,359.8587" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="282a96b7-bdee-468c-ac65-88b41c17bdd1" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.5619148,0.5619148" offset="0,0.06089759,0" topScale="0.5619148,0.5619148" />
+          <FuelTank capacity="66.4482651" fuel="66.4482651" />
+        </Part>
+        <Part id="52" partType="Fuselage1" position="-0.5311203,-0.3293233,0.02071136" rotation="359.8592,270.0012,359.8587" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="51b55f90-c1e9-4661-a37d-220283255425" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.4889748,0.4889748" offset="0,0.06089759,0" topScale="0.4889748,0.4889748" />
+          <FuelTank capacity="50.31711" fuel="50.31711" />
+        </Part>
+        <Part id="53" partType="Fuselage1" position="-0.5312696,-0.390233,0.02056018" rotation="359.8592,270.0012,359.8587" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="231e0a6a-a402-4cb5-8bf9-014611aaf357" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.552561,0.552561" offset="0,0.06089759,0" topScale="0.552561,0.552561" />
+          <FuelTank capacity="64.25443" fuel="64.25443" />
+        </Part>
+        <Part id="54" partType="Fuselage1" position="-0.5316014,-0.526186,0.02022445" rotation="359.8592,270.0012,359.8586" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="10c6e300-0756-4281-a5e4-e1eb0e339045" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2311337,0.2311337" offset="-2.448246E-10,0.1054835,2.667457E-08" topScale="0.2311337,0.2311337" />
+          <FuelTank capacity="19.4739342" fuel="19.4739342" />
+        </Part>
+        <Part id="55" partType="Fuselage1" position="-0.5320745,-0.7175312,0.01975268" rotation="359.8592,270.0012,359.8586" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="8b041140-3a18-43a4-9a1d-f59413e4f6fa" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1780879,0.1780879" offset="5.156488E-08,0.08584441,-3.446524E-08" topScale="0.2315105,0.2315105" />
+          <FuelTank capacity="12.513155" fuel="12.513155" />
+        </Part>
+        <Part id="56" partType="Fuselage1" position="-0.5323615,-0.8338404,0.01946554" rotation="359.8592,270.0011,359.8587" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="60efe431-2170-4dd6-a837-771d2ba637fd" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.3563021,0.3563021" offset="0,0.06089759,0" topScale="0.3563021,0.3563021" />
+          <FuelTank capacity="26.7164955" fuel="26.7164955" />
+        </Part>
+        <Part id="57" partType="RocketEngine1" position="-0.5308089,-0.2026405,0.02102518" rotation="0.1279953,95.00097,0.1530769" name="(AM-SAP) LR-87" activationStage="0" materials="2,2,2,2,2" symmetryId="4fa1d8f4-1d8f-41dc-83c9-bca9538569c3">
+          <Drag drag="0,0,0,0,0.5795369,0" area="0,0,0,0,0.7759279,0" />
+          <Config massScale="0.8" partScale="1,0.9,1" />
+          <FuelSource fuelTankPartIds="4,5,6,44,46,47,48,49,50,51,52,53,54,55,56" totalCapacity="276.357056" totalFuel="276.357056" />
+          <RocketEngine chamberPressure="2200" engineSubTypeId="GasGenerator1" mass="5.125986" nozzleSize="2" nozzleThroatSize="0.035" price="974705" size="0.4" />
+        </Part>
+        <Part id="58" partType="Strut1" position="-0.6228728,-0.06269741,0.02267972" rotation="270.1978,44.9136,37.58741" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="d167d0b0-0cae-4b34-b726-5e7d3d8a807b" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3488166,0.3488166" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.689044E-06,0.1884738,1.047681E-07" topScale="0.3488166,0.3488166" />
+        </Part>
+        <Part id="59" partType="Strut1" position="-0.674901,-0.06255293,0.01583138" rotation="270.1978,44.9136,37.58741" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="e8cbc8f6-ab3a-4669-b56d-b8bfb2c4a9d6" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3098938,0.3098938" cornerRadiuses="1,1,1,1,1,1,1,1" offset="5.283489E-06,0.07382818,3.259623E-08" topScale="0.3098938,0.3098938" />
+        </Part>
+        <Part id="60" partType="Strut1" position="-0.7014408,-0.06247616,0.01233506" rotation="270.1978,44.9136,37.58741" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="6de3befd-3749-4cb8-be91-64a6e4a8790f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="61" partType="Strut1" position="-0.7151656,-0.06244755,0.009785146" rotation="270.1978,44.91673,27.58392" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="0b4bb43f-301e-49e6-93d7-809f7a1aa457" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="62" partType="Strut1" position="-0.7273898,-0.06240416,0.004742026" rotation="270.1998,44.91084,17.58981" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="a640d77b-3b32-4b5b-8ca7-2534561ff661" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="63" partType="Strut1" position="-0.7385335,-0.06236172,-0.002796143" rotation="270.1978,44.91672,7.584331" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="cf8c8909-aea8-418d-b54a-86cf3023d449" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="64" partType="Strut1" position="-0.7484021,-0.0623126,-0.01254854" rotation="270.1978,44.91118,357.5892" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="16ca489b-8a1c-47b9-a7c0-7167ec206304" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="65" partType="Strut1" position="-0.7535028,-0.06228352,-0.01951998" rotation="270.1988,44.91136,342.5898" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="5be98b2f-14a9-4f2d-ad14-e983c50fb8c4" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3526403,0.3526403" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.3526403,0.3526403" />
+        </Part>
+        <Part id="66" partType="Strut1" position="-0.7645798,-0.06221294,-0.04080987" rotation="270.1988,44.91136,342.5898" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="e1b57256-ea72-46ef-be76-b78ce06d2d2a" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3132111,0.3132111" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.3132111,0.3132111" />
+        </Part>
+        <Part id="67" partType="Strut1" position="-0.77566,-0.0621233,-0.06209847" rotation="270.1988,44.91136,342.5898" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="3dcc62b3-0d49-4acb-87e9-c52ff522b642" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3512838,0.3512838" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.3512838,0.3512838" />
+        </Part>
+        <Part id="68" partType="Strut1" position="-0.7781553,-0.06209898,-0.06910142" rotation="270.1978,44.91101,332.59" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="c78e7314-f539-4655-871c-c516c7a4a82f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="69" partType="Strut1" position="-0.78122,-0.0620594,-0.08274737" rotation="270.1968,44.90894,322.5916" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="8af0694d-8076-4a80-b66f-92408bef266f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="70" partType="Strut1" position="-0.781918,-0.06203556,-0.09684214" rotation="270.1978,44.91166,312.5894" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="3e70b8b9-7728-46cf-ae2e-192e4b080151" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="71" partType="Strut1" position="-0.7805429,-0.0619936,-0.1103492" rotation="270.1978,44.91274,302.5878" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="a1b986e5-9b67-412f-8a1e-4f5141bda3dc" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="72" partType="Strut1" position="-0.7763424,-0.06197739,-0.1232928" rotation="270.1998,44.91742,292.5837" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="c3697586-dfcc-4979-a91a-81894ab6db90" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="73" partType="Strut1" position="-0.768424,-0.06194782,-0.1404895" rotation="270.1998,44.90997,287.591" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="3af04460-0cc8-4abc-94a6-63e3154078ec" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="74" partType="Strut1" position="-0.7603664,-0.06193924,-0.1520028" rotation="270.1998,44.91396,277.5872" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="c1ae507c-45a4-4689-8f0f-2061b223943f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="75" partType="Strut1" position="-0.7504964,-0.06193733,-0.1627086" rotation="270.2008,44.91361,267.5872" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="92606704-9687-4ad3-8620-2af8cc97b6ff" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="76" partType="Strut1" position="-0.7393699,-0.06193829,-0.1704817" rotation="270.1978,44.90738,257.5941" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="53ba7677-7ed9-4ea1-8a4d-4a84d18a867d" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="77" partType="Strut1" position="-0.7002764,-0.06198025,-0.1953676" rotation="270.1978,44.90738,257.5941" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="5ef9baf8-0e4c-4ab0-9881-0b849115c403" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.744618E-05,0.1716779,-3.492448E-07" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="78" partType="Strut1" position="-0.6691852,-0.06201363,-0.2127435" rotation="270.1978,44.90529,247.5958" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="bc916698-7daa-4208-8f7a-612eac6795e9" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.333457,0.333457" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.333457,0.333457" />
+        </Part>
+        <Part id="79" partType="Strut1" position="-0.6311684,-0.06206894,-0.2284762" rotation="270.1978,44.90529,247.5958" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="99eebdf5-a917-4588-9752-c7dc262e61eb" texture="Fuselage9" textureTiling="6,9">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3132111,0.3132111" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.753426E-05,0.1456855,-2.165318E-07" topScale="0.3132111,0.3132111" />
+        </Part>
+        <Part id="80" partType="Strut1" position="-0.5931516,-0.06212044,-0.2442111" rotation="270.1978,44.90529,247.5958" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="2eb24784-52f3-4b08-8423-9586e24b3f30" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.333457,0.333457" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.333457,0.333457" />
+        </Part>
+        <Part id="81" partType="Strut1" position="-0.5695448,-0.0621767,-0.2463751" rotation="270.1978,44.91084,232.5904" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="e57566b9-e64a-4ea5-9756-597594131464" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.744618E-05,0.1716779,-3.492448E-07" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="82" partType="Strut1" position="-0.5282435,-0.06226778,-0.2506845" rotation="270.1736,35.31908,237.1821" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="59918232-db77-4b1b-bf87-be5814f20428" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="83" partType="Strut1" position="-0.5159144,-0.06229973,-0.249787" rotation="270.1998,44.91188,217.5895" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="2334b0e2-adb2-4957-ac52-3e1ec7a2a624" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="84" partType="Strut1" position="-0.4981189,-0.06235123,-0.2466072" rotation="270.1978,44.90979,212.5916" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="d52534b7-45fc-4947-af3f-0775a1927bd3" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="85" partType="Strut1" position="-0.4924426,-0.06237268,-0.2436091" rotation="270.1998,44.91256,202.5889" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="d41db817-1e67-4c7b-ba59-d309c9bf9e60" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.326229,0.326229" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.326229,0.326229" />
+        </Part>
+        <Part id="86" partType="Strut1" position="-0.4702716,-0.06244564,-0.2344193" rotation="270.1998,44.91256,202.5889" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="468fdd3b-ef0a-45ed-9df7-e8de7acba16b" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="87" partType="Strut1" position="-0.319912,-0.06301069,-0.1575735" rotation="270.1978,44.91447,197.5867" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="6456008d-9983-4cdc-a28c-69712265c40f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000383843,0.8121056,-2.384158E-05" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="88" partType="Strut1" position="-0.1003647,-0.0638566,-0.04320553" rotation="270.1978,44.91447,197.5867" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="c5bad14b-6733-4632-ae41-eea0035053ac" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3598918,0.3598918" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.711404E-05,0.4253102,-1.862621E-08" topScale="0.3598918,0.3598918" />
+        </Part>
+        <Part id="89" partType="Strut1" position="-0.5305219,0.02953959,0.02212" rotation="359.8593,270.0012,359.8586" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="ca9c24e3-c629-48b0-87ca-d07de75d1e2b" texture="Default">
+          <Drag drag="0,0,0,0,0.01724284,0" area="0,0,0,0,0.03233032,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.6066756,0.6066756" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.4214498,0.4214498" />
+        </Part>
+        <Part id="90" partType="FuelAdapter1" position="0.03846598,0.1254971,0.0221532" rotation="0.141266,0.000902941,359.8595" name="(AM-SAP) LR-87" materials="0,1,2,3,4" symmetryId="b8c99ae9-53c5-4eae-b129-8c1c5876ff5c">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+        </Part>
+        <Part id="91" partType="Fuselage1" position="0.0383234,0.0675416,0.02201229" rotation="270.1998,44.91032,45.09073" name="(AM-SAP) LR-87" materials="8,8,8,8,8" symmetryId="0ec2fdac-c4c7-4359-87ab-9f0cff54bf4a" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07966777,0.07966777" offset="-4.749745E-08,0.07794505,-4.645944E-09" topScale="0.07966777,0.07966777" />
+          <FuelTank capacity="1.70960784" fuel="1.70960784" />
+        </Part>
+        <Part id="92" partType="Fuselage1" position="0.1208758,0.06733847,0.02201098" rotation="270.1998,44.91032,45.09073" name="(AM-SAP) LR-87" materials="8,8,8,8,8" symmetryId="d891a7bb-f2be-4242-8113-611869c66d60" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.05,0.05,0.05" />
+          <Fuselage bottomScale="0.05,0.05" offset="-2.44936E-07,0.2440695,7.273805E-09" topScale="0.05,0.05" />
+          <FuelTank capacity="2.1086092" fuel="2.1086092" />
+        </Part>
+        <Part id="93" partType="Fuselage1" position="0.1428223,0.06728506,0.02200899" rotation="0.1408601,90.00121,0.1412015" name="(AM-SAP) LR-87" materials="8,8,8,8,8" symmetryId="5a6d9a8e-5718-4ba4-848f-986289ae8f9c" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.05,0.05,0.05" />
+          <Fuselage bottomScale="0.06117868,0.06117868" offset="2.193738E-16,0.05139162,2.648379E-09" topScale="0.03188768,0.03188768" />
+          <FuelTank capacity="0.3972543" fuel="0.3972543" />
+        </Part>
+        <Part id="94" partType="Fuselage1" position="0.5336542,-0.06168461,0.02168769" rotation="0.1408601,90.00121,0.1412015" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="e7136b61-35d1-458f-9865-c3d8048d9ea2" texture="Fuselage9" textureTiling="9,1">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1236954,0.1236954" offset="1.36858E-17,0.07659908,3.637959E-10" topScale="0.1236954,0.1236954" />
+          <FuelTank capacity="4.05017" fuel="4.05017" />
+        </Part>
+        <Part id="95" partType="Fuselage1" position="0.5333414,-0.189445,0.02136844" rotation="0.1408601,90.00121,0.1412015" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="1462bdca-298a-4932-a36c-56b1b6eef31f" texture="Default">
+          <Drag drag="0,0,0,0,0,0.01901784" area="0,0,0,0,0,0.03233032" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2344543,0.2344543" offset="-4.267402E-16,0.05114346,-4.743014E-09" topScale="0.1258714,0.1258714" />
+          <FuelTank capacity="5.91036367" fuel="5.91036367" />
+        </Part>
+        <Part id="96" partType="Fuselage1" position="0.5331411,-0.2710347,0.02116847" rotation="0.1407901,90.00119,0.1412003" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="282a96b7-bdee-468c-ac65-88b41c17bdd1" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.5619148,0.5619148" offset="0,0.06089759,0" topScale="0.5619148,0.5619148" />
+          <FuelTank capacity="66.4482651" fuel="66.4482651" />
+        </Part>
+        <Part id="97" partType="Fuselage1" position="0.53299,-0.3319387,0.0210174" rotation="0.1407901,90.00119,0.1412003" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="51b55f90-c1e9-4661-a37d-220283255425" texture="Default">
+          <Drag drag="0,0,0,0,0,0.04272674" area="0,0,0,0,0,0.06466064" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.4889748,0.4889748" offset="0,0.06089759,0" topScale="0.4889748,0.4889748" />
+          <FuelTank capacity="50.31711" fuel="50.31711" />
+        </Part>
+        <Part id="98" partType="Fuselage1" position="0.5328412,-0.392849,0.02086908" rotation="0.1407901,90.00119,0.1412003" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="231e0a6a-a402-4cb5-8bf9-014611aaf357" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.552561,0.552561" offset="0,0.06089759,0" topScale="0.552561,0.552561" />
+          <FuelTank capacity="64.25443" fuel="64.25443" />
+        </Part>
+        <Part id="99" partType="Fuselage1" position="0.5325055,-0.5288,0.02053475" rotation="0.1407901,90.00119,0.1412003" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="10c6e300-0756-4281-a5e4-e1eb0e339045" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2311337,0.2311337" offset="-2.448246E-10,0.1054835,2.667457E-08" topScale="0.2311337,0.2311337" />
+          <FuelTank capacity="19.4739342" fuel="19.4739342" />
+        </Part>
+        <Part id="100" partType="Fuselage1" position="0.5320358,-0.7201462,0.02006003" rotation="0.1407804,90.00119,0.1411145" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="8b041140-3a18-43a4-9a1d-f59413e4f6fa" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1780879,0.1780879" offset="5.156488E-08,0.08584441,-3.446524E-08" topScale="0.2315105,0.2315105" />
+          <FuelTank capacity="12.513155" fuel="12.513155" />
+        </Part>
+        <Part id="101" partType="Fuselage1" position="0.5317531,-0.8364582,0.01977551" rotation="0.1407827,90.00101,0.1411992" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="60efe431-2170-4dd6-a837-771d2ba637fd" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.3563021,0.3563021" offset="0,0.06089759,0" topScale="0.3563021,0.3563021" />
+          <FuelTank capacity="26.7164955" fuel="26.7164955" />
+        </Part>
+        <Part id="102" partType="RocketEngine1" position="0.5333014,-0.2052555,0.02132908" rotation="359.872,275.0011,359.8471" name="(AM-SAP) LR-87" activationStage="0" materials="2,2,2,2,2" symmetryId="4fa1d8f4-1d8f-41dc-83c9-bca9538569c3">
+          <Drag drag="0,0,0,0,0,0.6114867" area="0,0,0,0,0,0.8082582" />
+          <Config massScale="0.8" partScale="1,0.9,1" />
+          <FuelSource fuelTankPartIds="4,5,6,44,91,92,93,94,95,96,97,98,99,100,101" totalCapacity="276.357056" totalFuel="276.357056" />
+          <RocketEngine chamberPressure="2200" engineSubTypeId="GasGenerator1" mass="5.125986" nozzleSize="2" nozzleThroatSize="0.035" price="974705" size="0.4" />
+        </Part>
+        <Part id="103" partType="Strut1" position="0.6260529,-0.06576157,0.02036247" rotation="270.1968,44.9143,217.5867" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="d167d0b0-0cae-4b34-b726-5e7d3d8a807b" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3488166,0.3488166" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.689044E-06,0.1884738,1.047681E-07" topScale="0.3488166,0.3488166" />
+        </Part>
+        <Part id="104" partType="Strut1" position="0.6780815,-0.06590557,0.02721295" rotation="270.1968,44.9143,217.5867" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="e8cbc8f6-ab3a-4669-b56d-b8bfb2c4a9d6" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3098938,0.3098938" cornerRadiuses="1,1,1,1,1,1,1,1" offset="5.283489E-06,0.07382818,3.259623E-08" topScale="0.3098938,0.3098938" />
+        </Part>
+        <Part id="105" partType="Strut1" position="0.7046223,-0.06597614,0.03070846" rotation="270.1968,44.9143,217.5867" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="6de3befd-3749-4cb8-be91-64a6e4a8790f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="106" partType="Strut1" position="0.7183466,-0.06602764,0.03325844" rotation="270.1978,44.91049,207.5907" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="0b4bb43f-301e-49e6-93d7-809f7a1aa457" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="107" partType="Strut1" position="0.7305689,-0.06606865,0.03830084" rotation="270.1978,44.911,197.5901" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="a640d77b-3b32-4b5b-8ca7-2534561ff661" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="108" partType="Strut1" position="0.7417154,-0.06611824,0.04583916" rotation="270.1968,44.91154,187.5891" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="cf8c8909-aea8-418d-b54a-86cf3023d449" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="109" partType="Strut1" position="0.7515817,-0.06616783,0.05559051" rotation="270.1988,44.91708,177.5837" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="16ca489b-8a1c-47b9-a7c0-7167ec206304" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="110" partType="Strut1" position="0.7566843,-0.0661974,0.06256109" rotation="270.1988,44.91286,162.5882" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="5be98b2f-14a9-4f2d-ad14-e983c50fb8c4" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3526403,0.3526403" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.3526403,0.3526403" />
+        </Part>
+        <Part id="111" partType="Strut1" position="0.7677593,-0.06628704,0.08384991" rotation="270.1988,44.91286,162.5882" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="e1b57256-ea72-46ef-be76-b78ce06d2d2a" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3132111,0.3132111" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.3132111,0.3132111" />
+        </Part>
+        <Part id="112" partType="Strut1" position="0.7788382,-0.06635666,0.1051407" rotation="270.1988,44.91286,162.5882" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="3dcc62b3-0d49-4acb-87e9-c52ff522b642" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3512838,0.3512838" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.3512838,0.3512838" />
+        </Part>
+        <Part id="113" partType="Strut1" position="0.7813354,-0.06637955,0.1121455" rotation="270.1988,44.91544,152.5854" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="c78e7314-f539-4655-871c-c516c7a4a82f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="114" partType="Strut1" position="0.7844,-0.06642056,0.1257907" rotation="270.1988,44.90923,142.5914" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="8af0694d-8076-4a80-b66f-92408bef266f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="115" partType="Strut1" position="0.785099,-0.06646967,0.1398823" rotation="270.1978,44.91465,132.5861" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="3e70b8b9-7728-46cf-ae2e-192e4b080151" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="116" partType="Strut1" position="0.7837219,-0.06648731,0.1533922" rotation="270.1978,44.91079,122.5902" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="a1b986e5-9b67-412f-8a1e-4f5141bda3dc" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="117" partType="Strut1" position="0.7795238,-0.06651497,0.1663367" rotation="270.1988,44.91051,112.5906" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="c3697586-dfcc-4979-a91a-81894ab6db90" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="118" partType="Strut1" position="0.7716055,-0.06653261,0.1835319" rotation="270.1988,44.90882,107.5922" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="3af04460-0cc8-4abc-94a6-63e3154078ec" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="119" partType="Strut1" position="0.763546,-0.06653976,0.1950454" rotation="270.1988,44.91079,97.59035" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="c1ae507c-45a4-4689-8f0f-2061b223943f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="120" partType="Strut1" position="0.7536755,-0.06654263,0.2057505" rotation="270.1978,44.90477,87.59611" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="92606704-9687-4ad3-8620-2af8cc97b6ff" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="121" partType="Strut1" position="0.7425499,-0.06652737,0.2135233" rotation="270.1978,44.90841,77.59283" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="53ba7677-7ed9-4ea1-8a4d-4a84d18a867d" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="122" partType="Strut1" position="0.7034569,-0.06649971,0.2384126" rotation="270.1978,44.90841,77.59283" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="5ef9baf8-0e4c-4ab0-9881-0b849115c403" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.744618E-05,0.1716779,-3.492448E-07" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="123" partType="Strut1" position="0.6723661,-0.06646776,0.2557873" rotation="270.1998,44.91205,67.58916" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="bc916698-7daa-4208-8f7a-612eac6795e9" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.333457,0.333457" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.333457,0.333457" />
+        </Part>
+        <Part id="124" partType="Strut1" position="0.6343489,-0.06641197,0.2715177" rotation="270.1998,44.91205,67.58916" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="99eebdf5-a917-4588-9752-c7dc262e61eb" texture="Fuselage9" textureTiling="6,9">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3132111,0.3132111" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.753426E-05,0.1456855,-2.165318E-07" topScale="0.3132111,0.3132111" />
+        </Part>
+        <Part id="125" partType="Strut1" position="0.5963306,-0.06635237,0.2872518" rotation="270.1998,44.91205,67.58916" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="2eb24784-52f3-4b08-8423-9586e24b3f30" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.333457,0.333457" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.333457,0.333457" />
+        </Part>
+        <Part id="126" partType="Strut1" position="0.5727262,-0.06630564,0.2894179" rotation="270.1978,44.9117,52.58938" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="e57566b9-e64a-4ea5-9756-597594131464" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.744618E-05,0.1716779,-3.492448E-07" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="127" partType="Strut1" position="0.531424,-0.06621504,0.2937279" rotation="270.1978,44.91361,47.58703" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="59918232-db77-4b1b-bf87-be5814f20428" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="128" partType="Strut1" position="0.519094,-0.06618214,0.2928282" rotation="270.1988,44.91361,37.58705" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="2334b0e2-adb2-4957-ac52-3e1ec7a2a624" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="129" partType="Strut1" position="0.5012999,-0.06613111,0.2896485" rotation="270.1978,44.90805,32.59324" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="d52534b7-45fc-4947-af3f-0775a1927bd3" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="130" partType="Strut1" position="0.4956231,-0.06610775,0.2866511" rotation="270.1988,44.91325,22.58812" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="d41db817-1e67-4c7b-ba59-d309c9bf9e60" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.326229,0.326229" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.326229,0.326229" />
+        </Part>
+        <Part id="131" partType="Strut1" position="0.4734507,-0.06602764,0.2774602" rotation="270.1988,44.91325,22.58812" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="468fdd3b-ef0a-45ed-9df7-e8de7acba16b" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="132" partType="Strut1" position="0.323092,-0.06547308,0.2006168" rotation="270.1988,44.915,17.58652" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="6456008d-9983-4cdc-a28c-69712265c40f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.2872718,0.2872718" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.000383843,0.8121056,-2.384158E-05" topScale="0.2872718,0.2872718" />
+        </Part>
+        <Part id="133" partType="Strut1" position="0.1035447,-0.06467724,0.08624941" rotation="270.1988,44.915,17.58652" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="c5bad14b-6733-4632-ae41-eea0035053ac" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3598918,0.3598918" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.711404E-05,0.4253102,-1.862621E-08" topScale="0.3598918,0.3598918" />
+        </Part>
+        <Part id="134" partType="Strut1" position="0.5341563,0.02692556,0.02137691" rotation="0.1408601,90.00121,0.1412015" name="(AM-SAP) LR-87" materials="2,2,2,2,2" symmetryId="ca9c24e3-c629-48b0-87ca-d07de75d1e2b" texture="Default">
+          <Drag drag="0,0,0,0,0,0.01724284" area="0,0,0,0,0,0.03233032" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.6066756,0.6066756" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.586239E-05,0.05998718,2.255547E-08" topScale="0.4214498,0.4214498" />
+        </Part>
+        <Part id="135" partType="Strut1" position="0.0008563995,-0.3508768,0.02081734" rotation="0.1405783,0.0001582784,179.8594" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.326229,0.326229" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0001425851,2.203303,2.022022E-07" topScale="0.326229,0.326229" />
+        </Part>
+        <Part id="136" partType="Strut1" position="0.6152,0.4032404,0.3158237" rotation="331.3181,244.1543,336.7297" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="7d7a1391-0207-4676-b453-c92a64311d44" texture="Default">
+          <Drag drag="0,0,0,0,0,0.03080889" area="0,0,0,0,0,0.03233032" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1550625,0.1550625" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.01150566,2.887076,0.0002853173" topScale="0.1550625,0.1550625" />
+        </Part>
+        <Part id="137" partType="Strut1" position="0.3801298,0.8174257,0.6430027" rotation="270.1978,44.91015,45.09055" name="(AM-SAP) LR-87" materials="3,2,2,2,4" symmetryId="afe63f8e-c73a-4efd-8cc4-18bfd66ef87a" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1132035,0.1132035" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.03451765,1.900653,0.0008558959" topScale="0.1132035,0.1132035" />
+        </Part>
+        <Part id="138" partType="Strut1" position="0.6714396,0.6245754,-0.0258258" rotation="270.1988,44.91355,316.1177" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="68895357-be9d-4e76-882c-d7e62b9e31b9" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.05781607,0.05781607" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.03449607,2.504872,0.001119666" topScale="0.05781607,0.05781607" />
+        </Part>
+        <Part id="139" partType="Strut1" position="-0.6097035,0.4062512,0.3158503" rotation="331.5717,115.7813,23.4099" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="7d7a1391-0207-4676-b453-c92a64311d44" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.03106247,0" area="0,0,0,0,0.03233032,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1550625,0.1550625" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.01150566,2.887076,0.0002853173" topScale="0.1550625,0.1550625" />
+        </Part>
+        <Part id="140" partType="Strut1" position="-0.3725848,0.8192754,0.6430192" rotation="270.1958,44.90875,225.0919" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="afe63f8e-c73a-4efd-8cc4-18bfd66ef87a" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1132035,0.1132035" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.03451765,1.900653,0.0008558959" topScale="0.1132035,0.1132035" />
+        </Part>
+        <Part id="141" partType="Strut1" position="-0.6648669,0.6278596,-0.02579668" rotation="270.1978,44.90996,314.0608" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="68895357-be9d-4e76-882c-d7e62b9e31b9" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.05781607,0.05781607" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.03449607,2.504872,0.001119666" topScale="0.05781607,0.05781607" />
+        </Part>
+        <Part id="142" partType="Strut1" position="0.610074,0.4218423,-0.3341224" rotation="331.7985,292.0617,29.94804" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="f5133c4f-f0f1-4641-8ad3-fc0e4902356d" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1602866,0.1602866" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.003831723,2.890429,0.0001241265" topScale="0.1602866,0.1602866" />
+        </Part>
+        <Part id="143" partType="Strut1" position="0.7655964,0.8508444,-0.009438723" rotation="279.1555,95.6527,87.16943" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="50b0d690-9674-4e1f-b4ab-38a0da8efdbf" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1110115,0.1110115" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.03447939,3.356362,0.001080026" topScale="0.1110115,0.1110115" />
+        </Part>
+        <Part id="144" partType="Strut1" position="0.3596373,0.8234944,-0.6854341" rotation="270.1978,44.91326,47.4535" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="95de9665-4a20-4f14-9031-8936417fb10f" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1110115,0.1110115" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.09315082,1.825278,0.009699674" topScale="0.1197647,0.1110115" />
+        </Part>
+        <Part id="145" partType="Strut1" position="-0.6045136,0.4248278,-0.3340965" rotation="332.0595,67.99709,329.9321" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="f5133c4f-f0f1-4641-8ad3-fc0e4902356d" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.02763925,0" area="0,0,0,0,0.03233032,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1602866,0.1602866" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.003831723,2.890429,0.0001241265" topScale="0.1602866,0.1602866" />
+        </Part>
+        <Part id="146" partType="Strut1" position="-0.7579122,0.854589,-0.009406656" rotation="278.8751,264.1719,273.0106" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="50b0d690-9674-4e1f-b4ab-38a0da8efdbf" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1110115,0.1110115" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.03447939,3.356362,0.001080026" topScale="0.1110115,0.1110115" />
+        </Part>
+        <Part id="147" partType="Strut1" position="-0.3521194,0.8252439,-0.6854188" rotation="270.1998,44.9124,222.7234" name="(AM-SAP) LR-87" materials="3,3,3,3,3" symmetryId="95de9665-4a20-4f14-9031-8936417fb10f" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.1110115,0.1110115" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.09315082,1.825278,0.009699674" topScale="0.1197647,0.1110115" />
+        </Part>
+        <Part id="148" partType="Fuselage1" position="-0.1949921,0.790833,0.1677936" rotation="0.02573827,127.5011,0.1978264" name="(AM-SAP) LR-87" materials="9,8,8,8,8" texture="Fuselage4" textureTiling="1,8">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1143232,0.1143232" offset="6.393467E-16,0.1217386,2.648286E-09" topScale="0.1143232,0.1143232" />
+          <FuelTank capacity="5.4984417" fuel="5.4984417" />
+        </Part>
+        <Part id="149" partType="Fuselage1" position="-0.1943936,1.034328,0.1683933" rotation="0.02573827,127.5011,0.1978264" name="(AM-SAP) LR-87" materials="8,8,8,8,8" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1049005,0.1049005" offset="6.393467E-16,0.1217386,2.648286E-09" topScale="0.1049005,0.1049005" />
+          <FuelTank capacity="4.6294136" fuel="4.6294136" />
+        </Part>
+        <Part id="150" partType="Inlet1" position="-9.298325E-05,0.7138462,0.02703559" rotation="0.02574244,127.5011,0.1977326" name="(AM-SAP) LR-87" materials="3,3,3,3,3" texture="Fuselage9" textureTiling="9,1">
+          <Drag drag="0,0,0,0,0.00316964,0.05946244" area="0,0,0,0,0.03233032,0.09699096" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1763393,0.1763393" offset="0,0.3092918,0" topScale="0.838093,0.838093" />
+          <Inlet />
+        </Part>
+        <Part id="151" partType="Inlet1" position="0.0006084442,0.9994183,0.02773991" rotation="0.02571572,127.5011,0.1978038" name="(AM-SAP) LR-87" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.5647029,0.4829262" area="0,0,0,0,0.6789369,0.5819459" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="1.05636,1.05636" offset="9.261068E-12,0.2005738,-8.997423E-12" topScale="1.05636,1.05636" />
+          <Inlet />
+        </Part>
+        <Part id="152" partType="Fuselage1" position="-0.1955905,0.5473325,0.1671932" rotation="0.02571572,127.5011,0.1978038" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03169639,0" area="0,0,0,0,0.03233032,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.09021079,0.09021079" offset="6.393467E-16,0.1217386,2.648286E-09" topScale="0.1054038,0.1054038" />
+          <FuelTank capacity="4.032606" fuel="4.032606" />
+        </Part>
+        <Part id="153" partType="Strut1" position="-0.1959043,0.4129126,0.1668853" rotation="0.02570885,127.5011,180.1978" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.5334942,0.5334942" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0001425333,0.06336302,-1.219161E-06" topScale="0.5334942,0.5334942" />
+        </Part>
+        <Part id="154" partType="Strut1" position="-0.1959124,0.3815839,0.1668991" rotation="0.02570089,127.5011,180.1978" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0,0,0,0,0.03068211,0" area="0,0,0,0,0.03233032,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.5190955,0.5190955" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0004275194,0.09325187,-3.71071E-06" topScale="0.4777528,0.4777528" />
+        </Part>
+        <Part id="155" partType="Strut1" position="-0.1960826,0.2284014,0.1667935" rotation="0.02568826,127.5011,180.1978" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.4764521,0.4764521" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.001282631,0.6725519,-1.12981E-05" topScale="0.4764521,0.4764521" />
+        </Part>
+        <Part id="156" partType="Strut1" position="-0.1947327,0.09682894,0.1664799" rotation="350.0258,127.4662,180.2008" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.4764521,0.4764521" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.003847757,0.067545,-3.393704E-05" topScale="0.4764521,0.4764521" />
+        </Part>
+        <Part id="157" partType="Strut1" position="-0.1916943,0.08663511,0.1660431" rotation="340.0259,127.4291,180.2105" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.4764521,0.4764521" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.003847757,0.067545,-3.393704E-05" topScale="0.4764521,0.4764521" />
+        </Part>
+        <Part id="158" partType="Strut1" position="-0.1871119,0.07730436,0.1644258" rotation="330.0258,127.3869,180.2283" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.02751247,0" area="0,0,0,0,0.03233032,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.5386062,0.5386062" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.003847757,0.067545,-3.393704E-05" topScale="0.5386062,0.5386062" />
+        </Part>
+        <Part id="159" partType="Strut1" position="-0.1828213,0.0710206,0.1627845" rotation="320.0259,127.3352,180.2582" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.4764521,0.4764521" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.003847757,0.067545,-3.393704E-05" topScale="0.4764521,0.4764521" />
+        </Part>
+        <Part id="160" partType="Strut1" position="-0.1332059,0.0191865,0.1268706" rotation="310.0261,127.2656,180.3076" name="(AM-SAP) LR-87" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.4764521,0.4764521" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.01154294,0.4206626,-0.0001044518" topScale="0.4764521,0.4764521" />
+        </Part>
+        <Part id="161" partType="Inlet1" position="0.004216194,1.001791,0.02415118" rotation="0.1405402,0.0001898765,359.8595" name="(AM-SAP) LR-87" materials="3,3,3,3,3" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="1.030709,1.030709" offset="3.195522E-10,0.204282,5.85456E-10" topScale="0.7969748,0.7969748" />
+          <Inlet />
+        </Part>
+      </Parts>
+      <Connections>
+        <Connection partA="3" partB="2" attachPointsA="1" attachPointsB="1" />
+        <Connection partA="4" partB="3" attachPointsA="2" attachPointsB="2" />
+        <Connection partA="5" partB="4" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="161" partB="4" attachPointsA="0" attachPointsB="4" />
+        <Connection partA="6" partB="5" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="148" partB="5" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="7" partB="6" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="43" partB="6" attachPointsA="2" attachPointsB="1" />
+        <Connection partA="44" partB="6" attachPointsA="4" attachPointsB="5" />
+        <Connection partA="8" partB="7" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="10" partB="7" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="22" partB="7" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="9" partB="8" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="11" partB="10" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="11" partB="12" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="13" partB="12" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="14" partB="13" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="16" partB="13" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="21" partB="13" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="15" partB="14" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="17" partB="16" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="21" partB="16" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="18" partB="17" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="19" partB="18" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="20" partB="19" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="23" partB="22" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="24" partB="23" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="25" partB="24" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="26" partB="25" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="27" partB="26" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="28" partB="27" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="29" partB="28" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="30" partB="29" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="31" partB="30" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="32" partB="31" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="33" partB="32" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="34" partB="33" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="35" partB="34" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="36" partB="35" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="37" partB="36" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="38" partB="37" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="39" partB="38" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="40" partB="39" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="41" partB="40" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="42" partB="41" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="43" partB="44" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="45" partB="44" attachPointsA="0" attachPointsB="0" symmetryId="8c56ccf1-79ff-46ae-a730-0928e8801612" />
+        <Connection partA="90" partB="44" attachPointsA="0" attachPointsB="0" symmetryId="8c56ccf1-79ff-46ae-a730-0928e8801612" />
+        <Connection partA="135" partB="44" attachPointsA="1" attachPointsB="1" />
+        <Connection partA="136" partB="44" attachPointsA="1" attachPointsB="0" symmetryId="1c2fdd05-9995-4b1a-af6f-8ddd3ff2631a" />
+        <Connection partA="139" partB="44" attachPointsA="1" attachPointsB="0" symmetryId="1c2fdd05-9995-4b1a-af6f-8ddd3ff2631a" />
+        <Connection partA="142" partB="44" attachPointsA="1" attachPointsB="0" symmetryId="3198c07b-6646-4751-b176-b33c1a8d6bca" />
+        <Connection partA="145" partB="44" attachPointsA="1" attachPointsB="0" symmetryId="3198c07b-6646-4751-b176-b33c1a8d6bca" />
+        <Connection partA="46" partB="45" attachPointsA="2" attachPointsB="1" symmetryId="383d7e6f-0d9a-4af9-9e9b-55f9f38125ee" />
+        <Connection partA="47" partB="46" attachPointsA="2,4" attachPointsB="1,5" symmetryId="c168cd42-8b02-4bd8-bf50-ec62b47a0850" />
+        <Connection partA="48" partB="47" attachPointsA="2,4" attachPointsB="1,5" symmetryId="282560e5-2662-45bd-b6b0-2be1e04bbdac" />
+        <Connection partA="48" partB="49" attachPointsA="1,5" attachPointsB="2,4" symmetryId="dcaf9aeb-9714-467b-8b24-66ecfad564c2" />
+        <Connection partA="49" partB="50" attachPointsA="1,5" attachPointsB="2,4" symmetryId="ad0a72bf-3b4e-4d57-9408-db3cdbcc33bf" />
+        <Connection partA="58" partB="49" attachPointsA="1" attachPointsB="0" symmetryId="6f80a6e4-a9ff-453e-b67a-6ec22ee70255" />
+        <Connection partA="89" partB="49" attachPointsA="1" attachPointsB="0" symmetryId="38d1de51-7d4d-4828-8fa1-bbf98b62d3bd" />
+        <Connection partA="50" partB="51" attachPointsA="1,5" attachPointsB="2,4" symmetryId="539c42a8-1920-444a-ade4-86e26e990973" />
+        <Connection partA="51" partB="52" attachPointsA="1,5" attachPointsB="2,4" symmetryId="6f4c2947-0fa1-45ba-8845-5d932392f3fd" />
+        <Connection partA="52" partB="53" attachPointsA="1,3,5" attachPointsB="2,0,4" symmetryId="1ef3b310-c028-4b16-82d6-18f353e9eb2c" />
+        <Connection partA="54" partB="53" attachPointsA="2,4" attachPointsB="1,5" symmetryId="00b482c4-4ec2-4c9a-a15f-f3072e721b5d" />
+        <Connection partA="55" partB="54" attachPointsA="2,4" attachPointsB="1,5" symmetryId="7a24c3fd-3c39-4118-8f4e-58911e2993d4" />
+        <Connection partA="56" partB="55" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="f280ff6d-d262-43dd-9d03-473042e8a811" />
+        <Connection partA="57" partB="56" attachPointsA="0" attachPointsB="1" symmetryId="89a5918f-83f8-4bc7-b755-ac04f910ea38" />
+        <Connection partA="59" partB="58" attachPointsA="1" attachPointsB="2" symmetryId="d3b8e55b-4e23-423b-8195-7ec4c0eed26c" />
+        <Connection partA="60" partB="59" attachPointsA="1" attachPointsB="2" symmetryId="b71e4db4-81f8-418b-af42-aa5abbabe081" />
+        <Connection partA="61" partB="60" attachPointsA="1" attachPointsB="2" symmetryId="a8a629b3-6d23-43a0-9bb9-18cc4a6f074d" />
+        <Connection partA="62" partB="61" attachPointsA="1" attachPointsB="2" symmetryId="0846c8cd-e1ea-4395-8b53-dee682a0485b" />
+        <Connection partA="63" partB="62" attachPointsA="1" attachPointsB="2" symmetryId="b67d3098-b29c-4163-abc1-c02c02edbf23" />
+        <Connection partA="64" partB="63" attachPointsA="1" attachPointsB="2" symmetryId="72e772b0-7f39-4d3c-9e42-d3976a12dfd7" />
+        <Connection partA="65" partB="64" attachPointsA="1" attachPointsB="2" symmetryId="94eb4236-acfd-4f54-b94a-586cf5054549" />
+        <Connection partA="66" partB="65" attachPointsA="1" attachPointsB="2" symmetryId="cd03e497-d911-4fe5-a526-5418367b3de7" />
+        <Connection partA="67" partB="66" attachPointsA="1" attachPointsB="2" symmetryId="1a138843-88b5-4180-8c86-8e688214b396" />
+        <Connection partA="68" partB="67" attachPointsA="1" attachPointsB="2" symmetryId="eb979cd7-d123-4ac7-8fc1-76e2f0f5a470" />
+        <Connection partA="69" partB="68" attachPointsA="1" attachPointsB="2" symmetryId="78060cc9-d7cd-4b41-af53-9c01e491e737" />
+        <Connection partA="70" partB="69" attachPointsA="1" attachPointsB="2" symmetryId="652e867a-b708-4021-833e-11ebc883b700" />
+        <Connection partA="71" partB="70" attachPointsA="1" attachPointsB="2" symmetryId="ad3c10e6-a0cc-4a4b-8eeb-493fc68149a7" />
+        <Connection partA="72" partB="71" attachPointsA="1" attachPointsB="2" symmetryId="18c96c45-1292-40b6-a5fe-6e01fab56421" />
+        <Connection partA="73" partB="72" attachPointsA="1" attachPointsB="2" symmetryId="8456d4d3-a2a6-49f7-810a-0f8f904403f9" />
+        <Connection partA="74" partB="73" attachPointsA="1" attachPointsB="2" symmetryId="77fddd5b-c008-4c8a-a597-ad978fff60cc" />
+        <Connection partA="75" partB="74" attachPointsA="1" attachPointsB="2" symmetryId="be58b6aa-0b4f-4d52-a4b9-bcda509ce599" />
+        <Connection partA="76" partB="75" attachPointsA="1" attachPointsB="2" symmetryId="fc613253-1dbb-425a-88d0-432f0a3d62e6" />
+        <Connection partA="77" partB="76" attachPointsA="1" attachPointsB="2" symmetryId="6970f5be-c9b4-49ec-9bcd-575bcd5e4929" />
+        <Connection partA="78" partB="77" attachPointsA="1" attachPointsB="2" symmetryId="0112380e-be36-49a6-8f59-58946c770932" />
+        <Connection partA="79" partB="78" attachPointsA="1" attachPointsB="2" symmetryId="698bfd38-4ae1-482a-8fb6-b8b45e365c05" />
+        <Connection partA="80" partB="79" attachPointsA="1" attachPointsB="2" symmetryId="93987e86-1ce1-44ea-9df2-2de5b61b87bc" />
+        <Connection partA="81" partB="80" attachPointsA="1" attachPointsB="2" symmetryId="da9ddbd2-8cdb-4489-9d3f-70e11c054e5a" />
+        <Connection partA="82" partB="81" attachPointsA="1" attachPointsB="2" symmetryId="60c510b8-a539-4044-972d-b90f90b81808" />
+        <Connection partA="83" partB="82" attachPointsA="1" attachPointsB="2" symmetryId="effbef3b-3657-498b-aedd-3f204a9cfbd7" />
+        <Connection partA="84" partB="83" attachPointsA="1" attachPointsB="2" symmetryId="e6055357-2d5c-450a-9f95-d07c195d7ca0" />
+        <Connection partA="85" partB="84" attachPointsA="1" attachPointsB="2" symmetryId="4c1ebf86-1632-47c9-ab52-0a8eaf065791" />
+        <Connection partA="86" partB="85" attachPointsA="1" attachPointsB="2" symmetryId="28a252ba-8b73-4f51-84af-eb24f0bb943d" />
+        <Connection partA="87" partB="86" attachPointsA="1" attachPointsB="2" symmetryId="5406390c-2fdd-49ee-9e43-e30124d76708" />
+        <Connection partA="88" partB="87" attachPointsA="1" attachPointsB="2" symmetryId="edc9c083-4c6b-4b4a-a6ea-11fc1b3bac4c" />
+        <Connection partA="91" partB="90" attachPointsA="2" attachPointsB="1" symmetryId="383d7e6f-0d9a-4af9-9e9b-55f9f38125ee" />
+        <Connection partA="92" partB="91" attachPointsA="2,4" attachPointsB="1,5" symmetryId="c168cd42-8b02-4bd8-bf50-ec62b47a0850" />
+        <Connection partA="93" partB="92" attachPointsA="2,4" attachPointsB="1,5" symmetryId="282560e5-2662-45bd-b6b0-2be1e04bbdac" />
+        <Connection partA="93" partB="94" attachPointsA="1,5" attachPointsB="2,4" symmetryId="dcaf9aeb-9714-467b-8b24-66ecfad564c2" />
+        <Connection partA="94" partB="95" attachPointsA="1,5" attachPointsB="2,4" symmetryId="ad0a72bf-3b4e-4d57-9408-db3cdbcc33bf" />
+        <Connection partA="103" partB="94" attachPointsA="1" attachPointsB="0" symmetryId="6f80a6e4-a9ff-453e-b67a-6ec22ee70255" />
+        <Connection partA="134" partB="94" attachPointsA="1" attachPointsB="0" symmetryId="38d1de51-7d4d-4828-8fa1-bbf98b62d3bd" />
+        <Connection partA="95" partB="96" attachPointsA="1,5" attachPointsB="2,4" symmetryId="539c42a8-1920-444a-ade4-86e26e990973" />
+        <Connection partA="96" partB="97" attachPointsA="1,5" attachPointsB="2,4" symmetryId="6f4c2947-0fa1-45ba-8845-5d932392f3fd" />
+        <Connection partA="97" partB="98" attachPointsA="1,3,5" attachPointsB="2,0,4" symmetryId="1ef3b310-c028-4b16-82d6-18f353e9eb2c" />
+        <Connection partA="99" partB="98" attachPointsA="2,4" attachPointsB="1,5" symmetryId="00b482c4-4ec2-4c9a-a15f-f3072e721b5d" />
+        <Connection partA="100" partB="99" attachPointsA="2,4" attachPointsB="1,5" symmetryId="7a24c3fd-3c39-4118-8f4e-58911e2993d4" />
+        <Connection partA="101" partB="100" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="f280ff6d-d262-43dd-9d03-473042e8a811" />
+        <Connection partA="102" partB="101" attachPointsA="0" attachPointsB="1" symmetryId="89a5918f-83f8-4bc7-b755-ac04f910ea38" />
+        <Connection partA="104" partB="103" attachPointsA="1" attachPointsB="2" symmetryId="d3b8e55b-4e23-423b-8195-7ec4c0eed26c" />
+        <Connection partA="105" partB="104" attachPointsA="1" attachPointsB="2" symmetryId="b71e4db4-81f8-418b-af42-aa5abbabe081" />
+        <Connection partA="106" partB="105" attachPointsA="1" attachPointsB="2" symmetryId="a8a629b3-6d23-43a0-9bb9-18cc4a6f074d" />
+        <Connection partA="107" partB="106" attachPointsA="1" attachPointsB="2" symmetryId="0846c8cd-e1ea-4395-8b53-dee682a0485b" />
+        <Connection partA="108" partB="107" attachPointsA="1" attachPointsB="2" symmetryId="b67d3098-b29c-4163-abc1-c02c02edbf23" />
+        <Connection partA="109" partB="108" attachPointsA="1" attachPointsB="2" symmetryId="72e772b0-7f39-4d3c-9e42-d3976a12dfd7" />
+        <Connection partA="110" partB="109" attachPointsA="1" attachPointsB="2" symmetryId="94eb4236-acfd-4f54-b94a-586cf5054549" />
+        <Connection partA="111" partB="110" attachPointsA="1" attachPointsB="2" symmetryId="cd03e497-d911-4fe5-a526-5418367b3de7" />
+        <Connection partA="112" partB="111" attachPointsA="1" attachPointsB="2" symmetryId="1a138843-88b5-4180-8c86-8e688214b396" />
+        <Connection partA="113" partB="112" attachPointsA="1" attachPointsB="2" symmetryId="eb979cd7-d123-4ac7-8fc1-76e2f0f5a470" />
+        <Connection partA="114" partB="113" attachPointsA="1" attachPointsB="2" symmetryId="78060cc9-d7cd-4b41-af53-9c01e491e737" />
+        <Connection partA="115" partB="114" attachPointsA="1" attachPointsB="2" symmetryId="652e867a-b708-4021-833e-11ebc883b700" />
+        <Connection partA="116" partB="115" attachPointsA="1" attachPointsB="2" symmetryId="ad3c10e6-a0cc-4a4b-8eeb-493fc68149a7" />
+        <Connection partA="117" partB="116" attachPointsA="1" attachPointsB="2" symmetryId="18c96c45-1292-40b6-a5fe-6e01fab56421" />
+        <Connection partA="118" partB="117" attachPointsA="1" attachPointsB="2" symmetryId="8456d4d3-a2a6-49f7-810a-0f8f904403f9" />
+        <Connection partA="119" partB="118" attachPointsA="1" attachPointsB="2" symmetryId="77fddd5b-c008-4c8a-a597-ad978fff60cc" />
+        <Connection partA="120" partB="119" attachPointsA="1" attachPointsB="2" symmetryId="be58b6aa-0b4f-4d52-a4b9-bcda509ce599" />
+        <Connection partA="121" partB="120" attachPointsA="1" attachPointsB="2" symmetryId="fc613253-1dbb-425a-88d0-432f0a3d62e6" />
+        <Connection partA="122" partB="121" attachPointsA="1" attachPointsB="2" symmetryId="6970f5be-c9b4-49ec-9bcd-575bcd5e4929" />
+        <Connection partA="123" partB="122" attachPointsA="1" attachPointsB="2" symmetryId="0112380e-be36-49a6-8f59-58946c770932" />
+        <Connection partA="124" partB="123" attachPointsA="1" attachPointsB="2" symmetryId="698bfd38-4ae1-482a-8fb6-b8b45e365c05" />
+        <Connection partA="125" partB="124" attachPointsA="1" attachPointsB="2" symmetryId="93987e86-1ce1-44ea-9df2-2de5b61b87bc" />
+        <Connection partA="126" partB="125" attachPointsA="1" attachPointsB="2" symmetryId="da9ddbd2-8cdb-4489-9d3f-70e11c054e5a" />
+        <Connection partA="127" partB="126" attachPointsA="1" attachPointsB="2" symmetryId="60c510b8-a539-4044-972d-b90f90b81808" />
+        <Connection partA="128" partB="127" attachPointsA="1" attachPointsB="2" symmetryId="effbef3b-3657-498b-aedd-3f204a9cfbd7" />
+        <Connection partA="129" partB="128" attachPointsA="1" attachPointsB="2" symmetryId="e6055357-2d5c-450a-9f95-d07c195d7ca0" />
+        <Connection partA="130" partB="129" attachPointsA="1" attachPointsB="2" symmetryId="4c1ebf86-1632-47c9-ab52-0a8eaf065791" />
+        <Connection partA="131" partB="130" attachPointsA="1" attachPointsB="2" symmetryId="28a252ba-8b73-4f51-84af-eb24f0bb943d" />
+        <Connection partA="132" partB="131" attachPointsA="1" attachPointsB="2" symmetryId="5406390c-2fdd-49ee-9e43-e30124d76708" />
+        <Connection partA="133" partB="132" attachPointsA="1" attachPointsB="2" symmetryId="edc9c083-4c6b-4b4a-a6ea-11fc1b3bac4c" />
+        <Connection partA="137" partB="136" attachPointsA="1" attachPointsB="0" symmetryId="39c1bbf4-3cfe-478c-b2a2-2af545503f71" />
+        <Connection partA="138" partB="136" attachPointsA="1" attachPointsB="0" symmetryId="a7e3e85c-5aad-4aa1-a7be-d4fad04e9265" />
+        <Connection partA="140" partB="139" attachPointsA="1" attachPointsB="0" symmetryId="39c1bbf4-3cfe-478c-b2a2-2af545503f71" />
+        <Connection partA="141" partB="139" attachPointsA="1" attachPointsB="0" symmetryId="a7e3e85c-5aad-4aa1-a7be-d4fad04e9265" />
+        <Connection partA="143" partB="142" attachPointsA="1" attachPointsB="0" symmetryId="f5aac622-91ff-4908-a89b-2de84cbf1799" />
+        <Connection partA="144" partB="142" attachPointsA="1" attachPointsB="0" symmetryId="73127873-a5ac-48ed-ac8b-448b0d50ea31" />
+        <Connection partA="146" partB="145" attachPointsA="1" attachPointsB="0" symmetryId="f5aac622-91ff-4908-a89b-2de84cbf1799" />
+        <Connection partA="147" partB="145" attachPointsA="1" attachPointsB="0" symmetryId="73127873-a5ac-48ed-ac8b-448b0d50ea31" />
+        <Connection partA="149" partB="148" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="152" partB="148" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="150" partB="149" attachPointsA="0" attachPointsB="4" />
+        <Connection partA="151" partB="150" attachPointsA="0" attachPointsB="1" symmetryId="3c9e7f58-a22a-4711-a7b6-5cf23b4d3ac6" />
+        <Connection partA="153" partB="152" attachPointsA="1" attachPointsB="1" />
+        <Connection partA="154" partB="153" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="155" partB="154" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="156" partB="155" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="157" partB="156" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="158" partB="157" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="159" partB="158" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="160" partB="159" attachPointsA="1" attachPointsB="2" />
+      </Connections>
+      <Collisions />
+      <Bodies />
+    </Assembly>
+  </DesignerPart>
+</DesignerParts>

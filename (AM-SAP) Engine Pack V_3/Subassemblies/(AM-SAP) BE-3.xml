@@ -1,0 +1,1028 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DesignerParts>
+  <DesignerPart name="(AM-SAP) BE-3" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Isp: SL=370s Vac=415s, Thrust: SL=492kn Vac=552kn" order="1000">
+    <Assembly xmlVersion="8">
+      <Parts>
+        <Part id="2" partType="Fuselage1" position="0.05338764,1.810112,0.02035141" rotation="2.390566E-05,-1.763833E-13,180" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01964744,0.01964744,0,0,0.01964744,0.01964148" area="0.02433562,0.02433562,0,0,0.02433562,0.02433562" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1944845,0.1944845" offset="2.083754E-07,0.2087438,0.002066514" topScale="0.1944845,0.1944845" />
+          <FuelTank capacity="27.2851372" fuel="27.2851372" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="3" partType="Fuselage1" position="0.05338717,1.70604,0.0207057" rotation="-3.756604E-05,180,180" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004312417,0.002230766,0,0,0.004306452,0.004294523" area="0.006083907,0.003041954,0,0,0.006083907,0.006083907" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1766327,0.1766327" offset="1.190632E-07,0.05143542,0.001180865" topScale="0.1605822,0.1605822" />
+          <FuelTank capacity="5.056922" fuel="5.056922" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="4" partType="Fuselage1" position="0.05681038,1.511575,0.0276227" rotation="2.871948,180,178.8419" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.03567436,0.03141563,0,0,0.03469021,0.03474985" area="0.0517132,0.03954539,0,0,0.0456293,0.0456293" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1605822,0.1605822" offset="1.045934E-06,0.4392077,0.006327531" topScale="0.1605822,0.1605822" />
+          <FuelTank capacity="39.1387863" fuel="39.1387863" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="5" partType="Fuselage1" position="0.06028104,1.316645,0.03472042" rotation="4.329315,189.9975,179.3576" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003739814,0.002421634,0,0,0.003900858,0.003871035" area="0.00456293,0.003041954,0,0,0.00456293,0.00456293" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1605822,0.1605822" offset="1.190632E-07,0.05143542,0.001180865" topScale="0.1605822,0.1605822" />
+          <FuelTank capacity="4.58352566" fuel="4.58352566" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="6" partType="Fuselage1" position="0.06116939,1.282172,0.03752851" rotation="9.807329,189.9352,179.3501" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003769637,0.001479225,0,0,0.002749688,0.003877" area="0.00456293,0.001520977,0,0,0.003041954,0.00456293" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1605822,0.1605822" offset="1.190632E-07,0.05143542,0.001180865" topScale="0.1605822,0.1605822" />
+          <FuelTank capacity="4.58352566" fuel="4.58352566" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="7" partType="Fuselage1" position="0.0746119,0.9601905,0.1491756" rotation="19.53539,179.3623,177.5322" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.05475517,0.0403208,0,0,0.050568,0.04985822" area="0.06844395,0.04867125,0,0,0.06692297,0.06540199" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.06475188,0.06475188" offset="-2.295186E-07,0.3307256,0.0006750299" topScale="0.06475188,0.06475188" />
+          <FuelTank capacity="4.7919817" fuel="4.7919817" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="8" partType="Fuselage1" position="0.08931446,0.6072855,0.2712564" rotation="15.17714,193.5441,358.7989" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.006209164,0.001682022,0,0,0.0137544,0.009155685" area="0.01673074,0.003041954,0,0,0.02281465,0.01673074" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1449187,0.1449187" offset="1.490108E-08,0.05020891,0.0006747495" topScale="0.06643007,0.06643007" />
+          <FuelTank capacity="2.026669" fuel="2.026669" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="9" partType="Fuselage1" position="0.08006859,0.3489704,0.01789474" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="4,3,3,3,3" texture="Default">
+          <Drag drag="0,0.007879256,0,0,0.02353637,0.02694217" area="0,0.00912586,0,0,0.03802441,0.04258734" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.0624938,0.0624938" offset="9.062894E-09,0.1520573,1.153666E-07" topScale="0.0624938,0.0624938" />
+          <FuelTank capacity="2.05221915" fuel="2.05221915" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="10" partType="Fuselage1" position="0.0759182,0.5524344,0.01825857" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="4,3,3,3,3" texture="Default">
+          <Drag drag="0,0.004890984,0,0,0.006465643,0.009084108" area="0,0.00912586,0,0,0.01064684,0.01520977" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.05991178,0.05991178" offset="-1.09039E-08,0.05143659,1.08924E-07" topScale="0.1537806,0.1537806" />
+          <FuelTank capacity="2.159757" fuel="2.159757" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="11" partType="Strut1" position="0.3287599,1.160455,-0.3063107" rotation="359.1512,51.35061,330.8101" name="(AM-SAP) BE-3" materials="4,5,5,5,5" texture="Default">
+          <Drag drag="0.04307049,0.07422967,0,0.009335788,0.02942941,0.0777607" area="0.06540199,0.1140732,0,0.01949826,0.03954539,0.1140732" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1209507,0.1174686" cornerRadiuses="0,0,0,0,0,0,0,0" offset="0.0200347,2.191928,-0.0008673924" topScale="0.09353092,0.1116629" />
+        </Part>
+        <Part id="12" partType="Strut1" position="0.5307372,1.733646,-0.5775948" rotation="359.1512,51.35062,255.8101" name="(AM-SAP) BE-3" materials="4,5,5,5,5" texture="Default">
+          <Drag drag="0.002051827,0.003208963,0.001226258,0.003144697,0.002552855,0.003167211" area="0.003041954,0.00456293,0.001277178,0.003490954,0.00456293,0.00456293" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.05,0.09781457" cornerRadiuses="0,0,0,0,0,0,0,0" offset="-0.05560036,0.1445371,0.002873784" topScale="0.05,0.1114452" />
+        </Part>
+        <Part id="13" partType="Strut1" position="-0.2619545,1.148295,-0.2458515" rotation="359.19,141.3626,329.1512" name="(AM-SAP) BE-3" materials="4,5,5,5,5" texture="Default">
+          <Drag drag="0.04971508,0.06778788,0,0.01312882,0.07470084,0.02795018" area="0.06844395,0.1003845,0,0.02609701,0.1155942,0.04258734" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1209507,0.1174686" cornerRadiuses="0,0,0,0,0,0,0,0" offset="0.0200347,2.191928,-0.0008673924" topScale="0.09353092,0.1116629" />
+        </Part>
+        <Part id="14" partType="Strut1" position="-0.5458028,1.711469,-0.4584603" rotation="359.19,141.3626,254.1512" name="(AM-SAP) BE-3" materials="4,5,5,5,5" texture="Default">
+          <Drag drag="0.001210817,0.003161246,0.001441792,0.002315282,0.003197034,0.001025914" area="0.001520977,0.00456293,0.001447469,0.002809792,0.00456293,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.05,0.09781457" cornerRadiuses="0,0,0,0,0,0,0,0" offset="-0.05560036,0.1445371,0.002873784" topScale="0.05,0.1114452" />
+        </Part>
+        <Part id="15" partType="Strut1" position="-0.2014875,1.14847,0.3449869" rotation="0.8487017,231.3506,329.19" name="(AM-SAP) BE-3" materials="4,5,5,5,5" texture="Default">
+          <Drag drag="0.06838433,0.03396251,0,0.01288825,0.07718807,0.04599911" area="0.1049474,0.0517132,0,0.02562871,0.1140732,0.06540199" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1209507,0.1174686" cornerRadiuses="0,0,0,0,0,0,0,0" offset="0.0200347,2.191928,-0.0008673924" topScale="0.09353092,0.1116629" />
+        </Part>
+        <Part id="16" partType="Strut1" position="-0.4266546,1.711972,0.6183062" rotation="0.8487248,231.3506,254.19" name="(AM-SAP) BE-3" materials="4,5,5,5,5" texture="Default">
+          <Drag drag="0.002290412,0.003197034,0.001569009,0.002397255,0.003149317,0.001210817" area="0.003041954,0.00456293,0.001575186,0.002809792,0.00456293,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.05,0.09781457" cornerRadiuses="0,0,0,0,0,0,0,0" offset="-0.05560036,0.1445371,0.002873784" topScale="0.05,0.1114452" />
+        </Part>
+        <Part id="17" partType="Strut1" position="0.3892279,1.16063,0.2845278" rotation="0.8099423,321.3626,330.8489" name="(AM-SAP) BE-3" materials="4,5,5,5,5" texture="Default">
+          <Drag drag="0.07080597,0.04609456,0,0.00939656,0.04242631,0.07551201" area="0.1049474,0.06388102,0,0.01962597,0.06388102,0.1155942" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1209507,0.1174686" cornerRadiuses="0,0,0,0,0,0,0,0" offset="0.0200347,2.191928,-0.0008673924" topScale="0.09353092,0.1116629" />
+        </Part>
+        <Part id="18" partType="Strut1" position="0.6498857,1.734145,0.4991732" rotation="0.8099594,321.3626,255.8489" name="(AM-SAP) BE-3" materials="4,5,5,5,5" texture="Default">
+          <Drag drag="0.003161246,0.002517068,0.0013094,0.002996444,0.002206908,0.002314271" area="0.00456293,0.00456293,0.001319751,0.003405809,0.00456293,0.003041954" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.05,0.09781457" cornerRadiuses="0,0,0,0,0,0,0,0" offset="-0.05560036,0.1445371,0.002873784" topScale="0.05,0.1114452" />
+        </Part>
+        <Part id="19" partType="Fuselage1" position="0.08423066,0.1449635,0.01752949" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="4,3,3,3,3" texture="Default">
+          <Drag drag="0,0.002928626,0,0,0.008147664,0.01458348" area="0,0.006083907,0,0,0.01064684,0.02129367" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1208681,0.1208681" offset="3.097635E-09,0.05197041,3.137945E-09" topScale="0.0624938,0.0624938" />
+          <FuelTank capacity="1.5605818" fuel="1.5605818" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="20" partType="Fuselage1" position="0.08635068,0.04104543,0.01734352" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="4,3,3,3,3" texture="Default">
+          <Drag drag="0.002397775,0,0,0,0.002338129,0.0148161" area="0.003041954,0,0,0,0.003041954,0.01825172" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1208681,0.1208681" offset="3.097635E-09,0.05197041,3.137945E-09" topScale="0.1208681,0.1208681" />
+          <FuelTank capacity="2.6237483" fuel="2.6237483" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="21" partType="Fuselage1" position="0.08847117,-0.06287861,0.01715708" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0.001956394,0.0004592754,0,0,0.000495063,0.002815298" area="0.00456293,0.001520977,0,0,0.001520977,0.00912586" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2459624,0.2459624" offset="3.097635E-09,0.05197041,3.137945E-09" topScale="0.1209745,0.1209745" />
+          <FuelTank capacity="6.27915573" fuel="6.27915573" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="22" partType="Fuselage1" position="0.0912621,-0.1996977,0.01691151" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,4" texture="Default">
+          <Drag drag="0.005386048,0,0,0,0,0" area="0.007604884,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2462329,0.2462329" offset="-4.932145E-14,0.0848626,1.421084E-13" topScale="0.1027156,0.1027156" />
+          <FuelTank capacity="9.430698" fuel="9.430698" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="23" partType="Fuselage1" position="0.09716797,-0.4892213,0.01639271" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,4" texture="Default">
+          <Drag drag="0.07484996,0.06231233,0,0,0.06192463,0.1257221" area="0.1110313,0.09430055,0,0,0.09582152,0.1673074" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.259892,0.259892" offset="1.362436E-08,0.2285798,1.970401E-08" topScale="0.259892,0.259892" />
+          <FuelTank capacity="53.3539047" fuel="53.3539047" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="24" partType="Fuselage1" position="0.101038,-0.6789615,0.01605368" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,4" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1459954,0.1459954" offset="-5.606626E-14,0.05045819,1.358913E-13" topScale="0.2396127,0.2396127" />
+          <FuelTank capacity="6.60931444" fuel="6.60931444" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="25" partType="Fuselage1" position="0.10303,-0.7765887,0.01587868" rotation="358.8272,96.35686,359.9726" name="(AM-SAP) BE-3" materials="4,4,4,4,4" texture="Default">
+          <Drag drag="0.003715955,0,0,0.06236888,0,0.01362318" area="0.00456293,0,0,0.06236888,0,0.01673074" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1417887,0.1417887" offset="-5.606626E-14,0.05045819,1.358913E-13" topScale="0.1417887,0.1417887" />
+          <FuelTank capacity="3.505561" fuel="3.505561" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="26" partType="Fuselage1" position="0.09898448,-0.5782754,0.01623392" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,4" texture="Default">
+          <Drag drag="0.007718212,0.0130983,0,0,0.01209028,0.01040825" area="0.02129367,0.03498246,0,0,0.03346149,0.02737758" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.3806267,0.3806267" offset="-5.606626E-14,0.05045819,1.358913E-13" topScale="0.2173264,0.2173264" />
+          <FuelTank capacity="15.9739933" fuel="15.9739933" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="27" partType="Fuselage1" position="0.1010542,-0.6797545,0.01605272" rotation="358.8271,96.35683,359.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,4" texture="Default">
+          <Drag drag="0.002242695,0,0,0,0,0.003107565" area="0.00456293,0,0,0,0,0.007604884" />
+          <Config massScale="0" partScale="0.8,0.8,0.8" />
+          <Fuselage bottomScale="0.4860804,0.4860804" offset="-5.606626E-14,0.05045819,1.358913E-13" topScale="0.3806267,0.3806267" />
+          <FuelTank capacity="32.9076462" fuel="32.9076462" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="29" partType="Fuselage1" position="-0.1966801,-0.5748374,-0.07389927" rotation="326.9711,73.58546,0.5051815" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001121348,0.004926772,0,0,0.004801515,0" area="0.001520977,0.006083907,0,0,0.007604884,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1187464,0.1187464" offset="7.340688E-08,0.051132,0.0006747172" topScale="0.1187464,0.1187464" />
+          <FuelTank capacity="2.491588" fuel="2.491588" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="30" partType="Fuselage1" position="-0.2228942,-0.5347064,-0.08117819" rotation="326.9711,73.58549,180.5051" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002004111,0.0007932938,0,0,0.001246605,0" area="0.003041954,0.003041954,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="31" partType="Fuselage1" position="-0.2463589,-0.4987595,-0.08769274" rotation="331.9709,73.63541,180.4797" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00124064,0.002707935,0,0,0.001282392,0" area="0.001520977,0.003041954,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="32" partType="Fuselage1" position="-0.2663507,-0.4610264,-0.09318733" rotation="336.9707,73.68082,180.4602" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002618466,0.001127312,0,0,0.001741668,0" area="0.003041954,0.001520977,0,0,0.003041954,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="33" partType="Fuselage1" position="-0.2806227,-0.4230897,-0.09702826" rotation="346.9704,73.76292,180.4347" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001455366,0.001503083,0,0,0.002111474,0" area="0.001520977,0.001520977,0,0,0.003041954,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="34" partType="Fuselage1" position="-0.2885611,-0.3841054,-0.09902573" rotation="356.97,73.83851,180.4241" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001377826,0.001431508,0,0,0.002189014,0" area="0.001520977,0.001520977,0,0,0.003041954,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="35" partType="Fuselage1" position="-0.2912123,-0.3412087,-0.09946203" rotation="1.969982,73.87555,180.4237" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002463386,0.003930681,0,0,0.004372063,0" area="0.00456293,0.006083907,0,0,0.006083907,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="36" partType="Fuselage1" position="-0.2919807,-0.2631547,-0.09908485" rotation="1.969968,73.87554,180.4237" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004085761,0.00403208,0,4.25726E-05,0.004378027,0" area="0.006083907,0.006083907,0,4.25726E-05,0.006083907,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="9.009645E-07,0.1223744,0.004545475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="1.70124054" fuel="1.70124054" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="37" partType="Fuselage1" position="-0.2923543,-0.1881506,-0.1004462" rotation="359.8542,48.96054,175.0207" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004002257,0.002075686,0,0,0.003047918,0" area="0.006083907,0.003041954,0,0,0.00456293,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="38" partType="Fuselage1" position="-0.2895684,-0.1483185,-0.107645" rotation="359.8542,48.96053,165.0207" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001413614,0.002039898,0,0,0.001276428,0" area="0.001520977,0.003041954,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="39" partType="Fuselage1" position="-0.2823918,-0.1106446,-0.1199045" rotation="359.8542,48.96053,155.0207" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001413614,0.001353968,0,0,0.0004175231,0" area="0.001520977,0.001520977,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="40" partType="Fuselage1" position="-0.2711642,-0.07856655,-0.1367955" rotation="359.8541,48.96053,140.0208" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0009662676,0.001282392,0,0,0.001520977,0" area="0.001520977,0.001520977,0,0,0.003041954,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="41" partType="Fuselage1" position="-0.253871,-0.04980755,-0.1606402" rotation="359.8542,48.96061,130.0206" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001067666,0.0008469754,0,0,0.001342038,0" area="0.001520977,0.001520977,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="42" partType="Fuselage1" position="-0.2336373,-0.02641749,-0.1878438" rotation="359.8542,48.96056,120.0207" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.0009781969,0,0,0.0006501431,0" area="0,0.001520977,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="43" partType="Fuselage1" position="-0.2112803,-0.009389639,-0.217463" rotation="359.8541,48.9605,110.0207" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.0009066215,0,0,0.002123403,0.0009364446" area="0,0.001520977,0,0,0.003041954,0.001520977" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.707649767" fuel="0.707649767" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="44" partType="Fuselage1" position="-0.1619251,0.007711411,-0.2739019" rotation="1.564607,44.2615,99.96249" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.002576714,0,0,0.002922661,0.001664128" area="0,0.00456293,0,0,0.006083907,0.003041954" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="-1.205826E-05,0.1322961,0.007325565" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="1.83917141" fuel="1.83917141" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="45" partType="Fuselage1" position="-0.1066866,0.02210045,-0.333569" rotation="1.56455,44.26155,99.96246" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,6.845006E-05,0.001127312,0" area="0,0,0,0.000212863,0.001520977,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.08578253,0.08578253" offset="5.711776E-07,0.05090298,0.002821475" topScale="0.08578253,0.08578253" />
+          <FuelTank capacity="1.29444468" fuel="1.29444468" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="46" partType="Fuselage1" position="0.005137205,0.0532124,-0.4294024" rotation="358.8271,96.35693,359.9725" name="(AM-SAP) BE-3" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0.007974691,0.05502357,0,0.0004783155,0.04851022,0.06006367" area="0.01064684,0.06844395,0,0.00114946,0.05931808,0.07452785" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1407637,0.1407637" offset="4.55124E-08,0.1299601,0.0006748096" topScale="0.1407637,0.1407637" />
+          <FuelTank capacity="8.898852" fuel="8.898852" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="47" partType="Fuselage1" position="0.08891368,-0.08461356,0.01711798" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,4" texture="Default">
+          <Drag drag="0.01058719,0.008088019,0,0,0.007360335,0.01888397" area="0.02433562,0.02129367,0,0,0.02129367,0.0456293" />
+          <Config massScale="0" partScale="0.7,0.7,0.7" />
+          <Fuselage bottomScale="0.4796595,0.4796595" offset="1.507886E-08,0.05033244,1.364868E-08" topScale="0.3695503,0.3695503" />
+          <FuelTank capacity="31.5346127" fuel="31.5346127" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="48" partType="Fuselage1" position="0.09104896,-0.1892674,0.01693106" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0459514,0.04122742,0,0,0.03792899,0.06417327" area="0.07300688,0.06692297,0,0,0.06388102,0.09430055" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.259892,0.259892" offset="4.25672E-09,0.07141587,2.980757E-08" topScale="0.3426329,0.3426329" />
+          <FuelTank capacity="22.53973" fuel="22.53973" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="49" partType="Fuselage1" position="-0.1661284,-0.09547663,0.1109514" rotation="0.9555663,189.9776,357.4294" name="(AM-SAP) BE-3" materials="0,2,2,2,2" texture="Default">
+          <Drag drag="0.001103454,0,0,0,0.003739814,0" area="0.001520977,0,0,0,0.00456293,0" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.1136357,0.1136357" offset="3.528678E-07,0.07076292,0.001751582" topScale="0.1136357,0.1136357" />
+          <FuelTank capacity="3.15775084" fuel="3.15775084" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="50" partType="Strut1" position="-0.1735017,0.05806541,0.1088495" rotation="0.9555835,189.9776,177.4294" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01383194,0.008117842,0,0,0.01157135,0.001467295" area="0.01825172,0.01064684,0,0,0.01520977,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="8.259278E-06,0.406269,1.153649E-06" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="51" partType="Strut1" position="-0.1793399,0.1904855,0.1099849" rotation="350.9657,190.4294,177.3975" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002451457,0.001198888,0,0,0.002123403,0.001479225" area="0.003041954,0.001520977,0,0,0.003041954,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="52" partType="Strut1" position="-0.1792886,0.2172425,0.1171799" rotation="340.9765,190.9073,177.2812" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002338129,0,0,0,0.001515012,0.001509048" area="0.003041954,0,0,0,0.001520977,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="53" partType="Strut1" position="-0.1783998,0.2422574,0.1286731" rotation="330.9886,191.447,177.0607" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001479225,0.001479225,0,0,0.001556765,0.001646234" area="0.003041954,0.003041954,0,0,0.003041954,0.003041954" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="54" partType="Strut1" position="-0.1767578,0.2626524,0.1432319" rotation="316.0123,192.5039,176.4266" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.002099545,0,0,0.001431508,0.001437472" area="0,0.003041954,0,0,0.001520977,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="55" partType="Strut1" position="-0.174026,0.2804353,0.1632843" rotation="306.036,193.558,175.6283" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.0008767984,0,0,0.001234675,0.001210817" area="0,0.001520977,0,0,0.001520977,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="56" partType="Strut1" position="-0.1705613,0.2948034,0.1866083" rotation="296.0747,195.2837,174.1444" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001353968,0,0,0,0.0003161246,0.001497118" area="0.001520977,0,0,0,0.001520977,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="57" partType="Strut1" position="-0.1665051,0.3025534,0.2098713" rotation="283.1678,224.2005,147.3332" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.001467295,0,0,0.0002803369,0" area="0,0.001520977,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="58" partType="Strut1" position="-0.1609957,0.3054404,0.2369952" rotation="277.1539,273.0168,99.13632" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001485189,0,0,0,0.0002385846,0" area="0.001520977,0,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="59" partType="Strut1" position="-0.1530647,0.3062825,0.2602324" rotation="277.1541,273.0167,114.1364" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001353968,0.001353968,0,0,0.0006918954,0" area="0.001520977,0.001520977,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="60" partType="Strut1" position="-0.1385777,0.3079593,0.2811174" rotation="277.1541,273.0164,129.1367" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002254624,0,0,0,0.002027969,0" area="0.003041954,0,0,0,0.003041954,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="61" partType="Strut1" position="-0.1181431,0.3103964,0.3000207" rotation="277.1541,273.0165,139.1365" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.001598517,0,0,0.001801314,0" area="0,0.003041954,0,0,0.003041954,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="62" partType="Strut1" position="-0.09541082,0.3131495,0.3144507" rotation="277.1541,273.0165,149.1365" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001419578,0,0,0,0,0" area="0.003041954,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="63" partType="Strut1" position="-0.06986046,0.3162813,0.3251495" rotation="277.1541,273.0163,159.1365" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="64" partType="Strut1" position="-0.03623819,0.3204505,0.3318844" rotation="277.1541,273.0164,169.1365" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00248128,0,0,0,0.001497118,0" area="0.003041954,0,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.185056E-06,0.07865825,-3.379905E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="65" partType="Fuselage1" position="0.1179736,0.2735643,0.3592358" rotation="15.1771,193.544,358.7988" name="(AM-SAP) BE-3" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0.02604151,0.003012131,0,0.002710621,0.02557627,0.02604748" area="0.04258734,0.007604884,0,0.002809792,0.03346149,0.03954539" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1731061,0.1731061" offset="1.490108E-08,0.05020891,0.0006747495" topScale="0.1731061,0.1731061" />
+          <FuelTank capacity="5.19933939" fuel="5.19933939" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="66" partType="Fuselage1" position="0.1079323,0.3921924,0.3285546" rotation="15.1771,193.544,358.7988" name="(AM-SAP) BE-3" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0.02873155,0.01273445,0,0,0.02387636,0.03033603" area="0.03650344,0.01673074,0,0,0.03041953,0.03802441" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1407637,0.1407637" offset="2.095454E-09,0.0727215,0.0006749144" topScale="0.1407637,0.1407637" />
+          <FuelTank capacity="4.979512" fuel="4.979512" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="67" partType="Fuselage1" position="0.08970737,0.3429704,0.1467357" rotation="285.7396,197.7216,168.4679" name="(AM-SAP) BE-3" materials="4,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.005296578,0.004103655" area="0,0,0,0,0.006083907,0.00456293" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.05,0.05" offset="5.084631E-07,0.1942574,0.007320406" topScale="0.05,0.05" />
+          <FuelTank capacity="1.67826366" fuel="1.67826366" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="68" partType="Fuselage1" position="0.09768438,0.5105724,0.2970133" rotation="15.1771,193.544,358.7988" name="(AM-SAP) BE-3" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0.02242695,0.008946924,0,0,0.02593415,0.02664393" area="0.03498246,0.01520977,0,0,0.03498246,0.03650344" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1731061,0.1731061" offset="1.490108E-08,0.05020891,0.0006747495" topScale="0.1731061,0.1731061" />
+          <FuelTank capacity="5.19933939" fuel="5.19933939" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="69" partType="Fuselage1" position="0.127352,0.1667244,0.388226" rotation="15.17707,193.544,358.7988" name="(AM-SAP) BE-3" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0.02340515,0.004825374,0,0.0001642802,0.02672148,0.02672147" area="0.03346149,0.007604884,0,0.0001702904,0.03346149,0.03346149" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1407637,0.1407637" offset="8.032317E-08,0.0608714,0.0006744516" topScale="0.1407637,0.1407637" />
+          <FuelTank capacity="4.1680913" fuel="4.1680913" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="70" partType="NoseCone1" position="0.1372082,0.05227351,0.4185057" rotation="15.1771,193.5441,178.7988" name="(AM-SAP) BE-3" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0.01495329,0.001467295,0,0.002750022,0.008469754,0.01411824" area="0.02281465,0.00456293,0,0.005108714,0.01520977,0.02433562" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1395154,0.1395154" offset="5.65626E-08,0.05791376,-2.975274E-09" topScale="0,0" />
+          <FuelTank capacity="1.29851627" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="71" partType="Fuselage1" position="0.1378407,0.01120448,0.4394574" rotation="356.8538,96.62094,330.0894" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.008899205,0,0,5.142102E-05,0.0149175,0.01063491" area="0.01520977,0,0,0.0002980081,0.01825172,0.01368879" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07216222,0.07216222" offset="4.237517E-08,0.09611835,0.0006747022" topScale="0.07216222,0.07216222" />
+          <FuelTank capacity="1.72969162" fuel="1.72969162" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="72" partType="Fuselage1" position="0.1485555,-0.09116268,0.49542" rotation="356.8538,96.62098,335.0894" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002451457,0,0,0.0001791388,0.004932737,0.004998348" area="0.00456293,0,0,0.0008088794,0.007604884,0.007604884" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1443398,0.1443398" offset="-4.172101E-06,0.05424078,0.001518067" topScale="0.1443398,0.1443398" />
+          <FuelTank capacity="3.905177" fuel="3.905177" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="73" partType="Fuselage1" position="0.1516094,-0.1352756,0.5138865" rotation="356.8538,96.62099,340.0894" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003793495,0,0,0.000264284,0.004545037,0.004270664" area="0.00456293,0,0,0.001021742,0.006083907,0.006083907" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1443398,0.1443398" offset="-4.172101E-06,0.05424078,0.001518067" topScale="0.1443398,0.1443398" />
+          <FuelTank capacity="3.905177" fuel="3.905177" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="74" partType="Fuselage1" position="0.1540637,-0.1793554,0.527205" rotation="356.8538,96.62093,345.0894" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003894893,0,0,0.0002966726,0.006018296,0.005803571" area="0.00456293,0,0,0.001404896,0.00912586,0.007604884" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1443398,0.1443398" offset="-4.172101E-06,0.05424078,0.001518067" topScale="0.1443398,0.1443398" />
+          <FuelTank capacity="3.905177" fuel="3.905177" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="75" partType="Fuselage1" position="0.1562765,-0.2253077,0.5375447" rotation="356.8538,96.62098,350.0894" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.005451659,0,0,8.514519E-05,0.005409906,0.005392012" area="0.00912586,0,0,0.0005534437,0.006083907,0.006083907" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1443398,0.1443398" offset="-4.172101E-06,0.05424078,0.001518067" topScale="0.1443398,0.1443398" />
+          <FuelTank capacity="3.905177" fuel="3.905177" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="76" partType="Fuselage1" position="0.1580055,-0.2724588,0.5431437" rotation="356.8538,96.62099,355.0894" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.005594809,0,0,3.372418E-05,0.004133479,0.005296578" area="0.007604884,0,0,0.0004682985,0.006083907,0.006083907" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1443398,0.1443398" offset="-4.172101E-06,0.05424078,0.001518067" topScale="0.1443398,0.1443398" />
+          <FuelTank capacity="3.905177" fuel="3.905177" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="77" partType="Fuselage1" position="0.1596053,-0.3196814,0.5453086" rotation="356.85,90,9.726369E-06" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004413815,0,0,5.676347E-06,0.004055938,0.004061903" area="0.006083907,0,0,0.0002554356,0.00456293,0.00456293" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1443398,0.1443398" offset="-4.172101E-06,0.05424078,0.001518067" topScale="0.1443398,0.1443398" />
+          <FuelTank capacity="3.905177" fuel="3.905177" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="78" partType="Fuselage1" position="0.1692016,-0.5285885,0.5453033" rotation="356.85,89.99998,1.026079E-05" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.04208633,0,0,7.41264E-05,0.03648555,0.03647958" area="0.05627613,0,0,0.001830622,0.04106637,0.04106637" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1443398,0.1443398" offset="-7.789436E-06,0.3639596,0.002277108" topScale="0.1443398,0.1443398" />
+          <FuelTank capacity="26.2040253" fuel="26.2040253" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="79" partType="Fuselage1" position="0.1860538,-0.8693345,0.5452962" rotation="356.85,89.99999,3.163742E-05" name="(AM-SAP) BE-3" materials="0,0,0,0,0" texture="Fuselage4" textureTiling="2,6">
+          <Drag drag="0.03857913,0,0,4.273955E-05,0.03310958,0.03311554" area="0.04715027,0,0,0.0009791699,0.04106637,0.04106637" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1513099,0.1513099" offset="1.600895E-07,0.3182833,0.00151806" topScale="0.1513099,0.1513099" />
+          <FuelTank capacity="25.1820545" fuel="25.1820545" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="80" partType="Fuselage1" position="0.1951101,-1.053847,0.5452962" rotation="356.85,89.99998,3.676781E-05" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003972434,0,0,0.001021742,0.004008221,0.004002257" area="0.00456293,0,0,0.001021742,0.00456293,0.00456293" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1383996,0.1383996" offset="7.340688E-08,0.051132,0.0006747172" topScale="0.1383996,0.1383996" />
+          <FuelTank capacity="3.38458228" fuel="3.38458228" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="81" partType="Inlet1" position="0.1990879,-1.132266,0.5452948" rotation="356.85,90,180" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01361125,0,0,0.02016456,0.01386177,0.009770039" area="0.01825172,0,0,0.02384066,0.0197727,0.0197727" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.06358646,0.06358646" offset="-4.225836E-08,0.05294539,-5.820535E-10" topScale="0.08947709,0.08947709" />
+          <Inlet />
+        </Part>
+        <Part id="82" partType="NoseCone1" position="0.008298635,-0.1346495,-0.4296613" rotation="358.8271,96.35693,179.9726" name="(AM-SAP) BE-3" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0,0.01223939,0,0.00977784,0.01198888,0.01470278" area="0,0.01825172,0,0.01498556,0.01673074,0.02281465" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1395154,0.1395154" offset="5.65626E-08,0.05791376,-2.975274E-09" topScale="0,0" />
+          <FuelTank capacity="1.29851627" />
+        </Part>
+        <Part id="83" partType="Fuselage1" position="0.02121043,0.2215044,-0.2716894" rotation="358.8271,96.35693,359.9725" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.007545238,0.0162834,0,0.004044398,0.04749028,0.04327329" area="0.007604884,0.02889855,0,0.004044398,0.06083906,0.05779711" />
+          <Config massScale="0" partScale="0.75,0.75,0.75" />
+          <Fuselage bottomScale="0.4257852,0.2440195" cornerRadiuses="0,1,1,0,0,1,1,0" offset="-0.000125596,0.05098534,0.0004804403" topScale="0.4228585,0.2371165" />
+          <FuelTank capacity="20.442543" fuel="20.442543" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="84" partType="Fuselage1" position="0.003108501,0.3112605,-0.426929" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,2,2,2,2" texture="Default">
+          <Drag drag="0.001532906,0.01764333,0,0,0.01837102,0.01096296" area="0.003041954,0.0258566,0,0,0.0258566,0.01520977" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1359639,0.1359639" offset="9.001588E-08,0.05158271,0.0006748074" topScale="0.0807673,0.0807673" />
+          <FuelTank capacity="2.13854861" fuel="2.13854861" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="85" partType="Fuselage1" position="0.002345085,0.4144394,-0.4268913" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,2,2,2,2" texture="Default">
+          <Drag drag="0,0.01471471,0,0,0.01378423,0.01501293" area="0,0.01825172,0,0,0.0197727,0.02281465" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.0819647,0.0819647" offset="9.001588E-08,0.05158271,0.0006748074" topScale="0.0819647,0.0819647" />
+          <FuelTank capacity="1.19756877" fuel="1.19756877" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="86" partType="Fuselage1" position="-0.009848356,1.077929,-0.4258533" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0.04867722,0.09739619,0,0,0.08853875,0.08602764" area="0.05627613,0.129283,0,0,0.1216781,0.1171152" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.05,0.05" offset="3.391767E-07,0.6119934,0.0006748181" topScale="0.05,0.05" />
+          <FuelTank capacity="5.287244" fuel="5.287244" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="87" partType="Fuselage1" position="-0.0221715,1.704957,-0.4247823" rotation="358.8271,96.35693,179.9726" name="(AM-SAP) BE-3" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0.002135332,0.004354169,0,0,0.001252569,0.003942611" area="0.003041954,0.006083907,0,0,0.001520977,0.00456293" />
+          <Config massScale="0" partScale="0.2,0.2,0.2" />
+          <Fuselage bottomScale="0.3469514,0.3469514" offset="1.656419E-07,0.07577986,0.001012204" topScale="0.3320132,0.3320132" />
+          <FuelTank capacity="30.1856632" fuel="30.1856632" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="88" partType="Fuselage1" position="-0.02327561,0.4342165,-0.34587" rotation="88.82997,95.02268,321.1663" name="(AM-SAP) BE-3" materials="0,2,2,2,2" texture="Default">
+          <Drag drag="0.001055737,0,0,0,0.002600572,0.001515012" area="0.001520977,0,0,0,0.00456293,0.003041954" />
+          <Config massScale="0" partScale="0.45,0.45,0.45" />
+          <Fuselage bottomScale="0.06342585,0.06342585" offset="3.528678E-07,0.07076292,0.001751582" topScale="0.06342585,0.06342585" />
+          <FuelTank capacity="0.9837412" fuel="0.9837412" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="89" partType="Strut1" position="-0.05708385,0.4342563,-0.3133936" rotation="320.7412,224.6091,88.82057" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.194436E-06,0.05009848,-5.867327E-07" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="90" partType="Strut1" position="-0.0727644,0.4319594,-0.2950773" rotation="37.38301,63.61402,103.0321" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.0006620723,0" area="0,0,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.194436E-06,0.05009848,-5.867327E-07" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="91" partType="Strut1" position="-0.08304834,0.4266715,-0.2741995" rotation="346.057,254.9081,254.3496" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.001300286,0.001300286" area="0,0,0,0,0.001520977,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.194436E-06,0.05009848,-5.867327E-07" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="92" partType="Strut1" position="-0.08910465,0.4193604,-0.2500105" rotation="348.9403,264.7177,252.2206" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.001479225" area="0,0,0,0,0,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.194436E-06,0.05009848,-5.867327E-07" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="93" partType="Strut1" position="-0.08991146,0.4118395,-0.2269764" rotation="358.3754,277.4761,251.4594" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.001431508,0,0,0.001491154,0" area="0,0.001520977,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.194436E-06,0.05009848,-5.867327E-07" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="94" partType="Strut1" position="-0.085361,0.4041064,-0.2004275" rotation="359.5505,282.3369,256.3713" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.001055737,0.001115383" area="0,0,0,0,0.001520977,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.194436E-06,0.05009848,-5.867327E-07" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="95" partType="Strut1" position="-0.05856466,0.3951304,-0.1102839" rotation="0.3014518,287.2803,266.3649" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0002863015,0,0,0,0.004193124,0.002934591" area="0.001520977,0,0,0,0.007604884,0.006083907" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.501439E-05,0.2782939,-3.892903E-06" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="96" partType="Strut1" position="-0.02743196,0.3893983,-0.02522564" rotation="1.525887,307.2457,266.6866" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0007575061,0,0,0,0,0" area="0.001520977,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.194436E-06,0.05009848,-5.867327E-07" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="97" partType="Strut1" position="0.009175777,0.3868315,0.007850647" rotation="2.331146,322.2328,267.1939" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.00170588,0" area="0,0,0,0,0.003041954,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.07053834,0.07053834" cornerRadiuses="1,1,1,1,1,1,1,1" offset="8.474302E-06,0.1314395,-1.282089E-06" topScale="0.07053834,0.07053834" />
+        </Part>
+        <Part id="98" partType="Fuselage1" position="0.008420706,-0.1722596,-0.4298491" rotation="359.8585,13.85571,1.159308" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.009048321,0,1.669514E-06,0.009346552,0.003924717" area="0,0.01368879,0,8.514519E-05,0.01064684,0.00456293" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.06475188,0.06475188" offset="6.890359E-08,0.0637572,0.0006747382" topScale="0.06475188,0.06475188" />
+          <FuelTank capacity="0.923797131" fuel="0.923797131" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="99" partType="Fuselage1" position="0.009434223,-0.2545044,-0.4326892" rotation="4.857509,13.9571,1.163444" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.003942611,0,1.836465E-06,0.003906823,0.003936646" area="0,0.006083907,0,4.25726E-05,0.00456293,0.00456293" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1293803,0.1293803" offset="7.340688E-08,0.051132,0.0006747172" topScale="0.1293803,0.1293803" />
+          <FuelTank capacity="2.9578197" fuel="2.9578197" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="100" partType="Fuselage1" position="0.008701086,-0.2995236,-0.4394655" rotation="9.856429,14.06004,1.176628" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.003847177,0,1.035098E-05,0.004706081,0.006310563" area="0,0.006083907,0,0.0001277178,0.006083907,0.007604884" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1293803,0.1293803" offset="7.340688E-08,0.051132,0.0006747172" topScale="0.1293803,0.1293803" />
+          <FuelTank capacity="2.9578197" fuel="2.9578197" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="101" partType="Fuselage1" position="0.002003908,-0.4559777,-0.4798288" rotation="14.85541,14.16606,1.199351" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.02598783,0,0.001074666,0.02764599,0.02863612" area="0,0.03194051,0,0.005449295,0.03498246,0.03650344" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1293803,0.1293803" offset="6.793998E-07,0.2839575,0.002273932" topScale="0.1293803,0.1293803" />
+          <FuelTank capacity="16.4260178" fuel="16.4260178" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="102" partType="Fuselage1" position="-0.004679918,-0.6114256,-0.5200486" rotation="9.857697,14.06005,1.176646" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.003853141,0,0,0.00379946,0.003614557" area="0,0.00456293,0,0,0.00456293,0.00456293" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1293803,0.1293803" offset="7.340688E-08,0.051132,0.0006747172" topScale="0.1293803,0.1293803" />
+          <FuelTank capacity="2.9578197" fuel="2.9578197" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="103" partType="Fuselage1" position="-0.00531888,-0.6556494,-0.5263796" rotation="4.858708,13.95703,1.163405" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.007783823,0,0,0.008332568,0.006006368" area="0,0.00912586,0,0,0.01216781,0.00912586" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1293803,0.1293803" offset="7.340688E-08,0.051132,0.0006747172" topScale="0.1293803,0.1293803" />
+          <FuelTank capacity="2.9578197" fuel="2.9578197" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="104" partType="Fuselage1" position="-0.005071163,-0.7167485,-0.5293646" rotation="359.9738,6.356503,1.172674" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.007837504,0,0,0.008141699,0.008117842" area="0,0.00912586,0,0,0.01216781,0.01216781" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1293803,0.1293803" offset="1.643566E-07,0.08188343,0.001518131" topScale="0.1293803,0.1293803" />
+          <FuelTank capacity="4.73669" fuel="4.73669" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="105" partType="Fuselage1" position="-0.00115943,-0.9168036,-0.5312347" rotation="359.9738,6.356503,1.172667" name="(AM-SAP) BE-3" materials="0,0,0,0,0" texture="Fuselage4" textureTiling="2,6">
+          <Drag drag="0,0.03213735,0,0,0.03634836,0.03626486" area="0,0.03650344,0,0,0.04867125,0.04867125" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1413939,0.1413939" offset="1.600895E-07,0.3182833,0.00151806" topScale="0.1413939,0.1413939" />
+          <FuelTank capacity="21.989624" fuel="21.989624" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="106" partType="Fuselage1" position="0.002485037,-1.101487,-0.5326605" rotation="359.9738,6.356526,1.172661" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.003888929,0,0.006471037,0.003709991,0.003775601" area="0,0.00456293,0,0.006471037,0.00456293,0.00456293" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.1293803,0.1293803" offset="7.340688E-08,0.051132,0.0006747172" topScale="0.1293803,0.1293803" />
+          <FuelTank capacity="2.9578197" fuel="2.9578197" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="107" partType="Inlet1" position="0.003377676,-1.147066,-0.5330763" rotation="358.8272,96.35704,359.9738" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.003906823,0,0.01347146,0.003441583,0.003918752" area="0,0.006083907,0,0.01805079,0.006083907,0.006083907" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2218986,0.2218986" offset="0,0.0500536,0" topScale="0.1600299,0.1600299" />
+          <Inlet />
+        </Part>
+        <Part id="108" partType="Fuselage1" position="0.1968956,-0.6835015,0.3455434" rotation="0.2115912,195.4045,88.84612" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001425543,0,0,0,0,0.008356426" area="0.001520977,0,0,0,0,0.01216781" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07280013,0.08653855" offset="0.0001316777,0.05423981,0.002696969" topScale="0.07441756,0.08655" />
+          <FuelTank capacity="1.19404459" fuel="1.19404459" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="109" partType="Fuselage1" position="0.1080432,-0.6854746,0.3641868" rotation="359.9762,183.857,88.82711" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004318381,0,0,0.0001335611,0,5.368154E-05" area="0.006083907,0,0,0.0004257259,0,0.001520977" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07262558,0.08655" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07280013,0.08653855" />
+          <FuelTank capacity="1.179542" fuel="1.179542" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="110" partType="Fuselage1" position="0.02413321,-0.6871874,0.3608556" rotation="359.6735,168.86,88.8733" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0115296,0,0,0.00057665,0.0001968323,0" area="0.01520977,0,0,0.001447469,0.001520977,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07382223,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07262558,0.08655" />
+          <FuelTank capacity="1.19169009" fuel="1.19169009" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="111" partType="Fuselage1" position="-0.05416131,-0.6887333,0.3356233" rotation="359.3644,152.2122,89.01396" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.009436022,0,0,0.001067487,0.003298432,0" area="0.01520977,0,0,0.002171203,0.00912586,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07367158,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07382223,0.08709991" />
+          <FuelTank capacity="1.203997" fuel="1.203997" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="112" partType="Fuselage1" position="-0.1212349,-0.6900184,0.2897592" rotation="359.1185,136.3103,89.22576" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.006131625,0,0,0.001101712,0.004163302,0" area="0.01064684,0,0,0.002298921,0.00912586,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07463418,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07367158,0.08709991" />
+          <FuelTank capacity="1.21061659" fuel="1.21061659" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="113" partType="Fuselage1" position="-0.1816442,-0.6911414,0.2220535" rotation="358.9812,124.7504,89.41811" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004676258,0,0,0.001249297,0.009740218,0" area="0.01064684,0,0,0.002511784,0.01520977,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07329945,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07463418,0.08709991" />
+          <FuelTank capacity="1.20757115" fuel="1.20757115" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="114" partType="Fuselage1" position="-0.2220693,-0.6918213,0.1472573" rotation="358.8622,109.1475,89.71363" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001485189,0,0,0.001373175,0.008422037,0" area="0.006083907,0,0,0.002639502,0.01216781,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07276274,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07329945,0.08709991" />
+          <FuelTank capacity="1.19230819" fuel="1.19230819" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="115" partType="Fuselage1" position="-0.2421339,-0.6920884,0.06270838" rotation="358.827,95.68269,89.98659" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0.001186356,0.007467698,0" area="0,0,0,0.002341493,0.01216781,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07172519,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07276274,0.08709991" />
+          <FuelTank capacity="1.17945" fuel="1.17945" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="116" partType="Fuselage1" position="-0.2427247,-0.6919305,-0.02658701" rotation="358.8552,82.42432,90.25567" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0.001344793,0.008624834,0" area="0,0,0,0.002554357,0.01216781,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07058625,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07172519,0.08709991" />
+          <FuelTank capacity="1.16168094" fuel="1.16168094" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="117" partType="Fuselage1" position="-0.2229819,-0.6913755,-0.1111345" rotation="358.9489,68.65062,90.52098" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.001515012,0,0.001239447,0.008899205,0.0005547092" area="0,0.006083907,0,0.002426639,0.01520977,0.001520977" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.06991157,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07058625,0.08709991" />
+          <FuelTank capacity="1.1468842" fuel="1.1468842" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="118" partType="Fuselage1" position="-0.1831138,-0.6904294,-0.1849236" rotation="359.1346,52.54892,90.79214" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.005075887,0,0.0009659805,0.008207311,0.0004771692" area="0,0.01216781,0,0.002043485,0.01368879,0.001520977" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07046282,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.06991157,0.08709991" />
+          <FuelTank capacity="1.14587808" fuel="1.14587808" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="119" partType="Fuselage1" position="-0.1230669,-0.6890895,-0.2500386" rotation="359.3337,39.62301,90.96581" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.005767783,0,0.0007584601,0.006805626,0.0003340185" area="0,0.01064684,0,0.001745477,0.01216781,0.001520977" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.06974765,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07046282,0.08709991" />
+          <FuelTank capacity="1.14453816" fuel="1.14453816" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="120" partType="Fuselage1" position="-0.05093598,-0.6875317,-0.2983541" rotation="359.5822,25.88323,91.09618" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.006996494,0,0.0004602849,0.002487245,0" area="0,0.01064684,0,0.001192033,0.007604884,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.06963262,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.06974765,0.08709991" />
+          <FuelTank capacity="1.137766" fuel="1.137766" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="121" partType="Fuselage1" position="0.02667475,-0.6858995,-0.3245215" rotation="359.9161,9.120502,91.17033" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0.0001814761,0.001503083,0" area="0,0,0,0.0006811616,0.001520977,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07043934,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.06963262,0.08709991" />
+          <FuelTank capacity="1.14340591" fuel="1.14340591" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="122" partType="Fuselage1" position="0.1112185,-0.6841714,-0.3280234" rotation="0.2237279,354.0302,91.15163" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.01108226,0,0,0.003030024,0.003125458" area="0,0.01520977,0,0,0.003041954,0.006083907" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07248867,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07043934,0.08709991" />
+          <FuelTank capacity="1.16668642" fuel="1.16668642" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="123" partType="Fuselage1" position="0.195622,-0.6824815,-0.3101792" rotation="0.4923756,340.2086,91.06479" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.008934994,0,0,0,0.002958449" area="0,0.01520977,0,0,0,0.00456293" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07281286,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07248867,0.08709991" />
+          <FuelTank capacity="1.18610048" fuel="1.18610048" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="124" partType="Fuselage1" position="0.2762747,-0.6809037,-0.272408" rotation="0.7175369,327.3203,90.92817" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.008350462,0,0,0,0.004706082" area="0,0.01368879,0,0,0,0.00912586" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07180325,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07281286,0.08709991" />
+          <FuelTank capacity="1.18049693" fuel="1.18049693" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="125" partType="Fuselage1" position="0.3414435,-0.6796715,-0.2190127" rotation="0.9420246,311.6082,90.6992" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.005606738,0,0,0,0.004938701" area="0,0.00912586,0,0,0,0.007604884" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07277425,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07180325,0.08709991" />
+          <FuelTank capacity="1.18018234" fuel="1.18018234" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="126" partType="Fuselage1" position="0.3913794,-0.6787856,-0.1493034" rotation="1.081536,297.8155,90.45451" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.003226857,0,0,0,0.004765728" area="0,0.006083907,0,0,0,0.006083907" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07312077,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07277425,0.08709991" />
+          <FuelTank capacity="1.190945" fuel="1.190945" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="127" partType="Fuselage1" position="0.4216888,-0.6782978,-0.07168674" rotation="1.16294,282.6072,90.15485" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.0003459477,0,0,0,0.01152364" area="0,0.001520977,0,0,0,0.01368879" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07397515,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07312077,0.08709991" />
+          <FuelTank capacity="1.20074248" fuel="1.20074248" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="128" partType="Fuselage1" position="0.4336553,-0.6782167,0.01939297" rotation="1.170354,270.9696,89.9171" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003041954,0.003041954,0,0,0,0.007885221" area="0.003041954,0.003041954,0,0,0,0.00912586" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07325844,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07397515,0.08709991" />
+          <FuelTank capacity="1.2018683" fuel="1.2018683" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="129" partType="Fuselage1" position="0.4248016,-0.6785467,0.1019855" rotation="1.096555,254.1965,89.58303" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001854995,0,0,0,0,0.0114282" area="0.003041954,0,0,0,0,0.01368879" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07398013,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07325844,0.08709991" />
+          <FuelTank capacity="1.20190883" fuel="1.20190883" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="130" partType="Fuselage1" position="0.3929129,-0.6793396,0.1812415" rotation="0.9616658,240.0789,89.32809" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002761617,0,0,0,0,0.006143554" area="0.006083907,0,0,0,0,0.01216781" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07424396,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07398013,0.08709991" />
+          <FuelTank capacity="1.20995784" fuel="1.20995784" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="131" partType="Fuselage1" position="0.3434842,-0.6804636,0.2460275" rotation="0.7249141,223.1826,89.07751" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.006185305,0.001198888,0,0,0,0.003805424" area="0.01064684,0.003041954,0,0,0,0.007604884" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.07352009,0.08709991" offset="3.554811E-08,0.05424021,0.0006748107" topScale="0.07424396,0.08709991" />
+          <FuelTank capacity="1.20619845" fuel="1.20619845" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="132" partType="Fuselage1" position="0.269285,-0.6820676,0.3082662" rotation="0.5866808,215.0212,88.98404" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.005535163,0.0008708338,0,0,0,0.00224866" area="0.00912586,0.001520977,0,0,0,0.00456293" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.072271,0.08709991" offset="-3.243394E-05,0.05641295,0.0006744042" topScale="0.07352009,0.08709991" />
+          <FuelTank capacity="1.23775518" fuel="1.23775518" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="28" partType="RocketEngine1" position="0.08688164,0.01502252,0.01729631" rotation="358.8271,96.35686,359.9726" name="(AM-SAP) BE-3 Nozzle" activationStage="0" materials="0,0,2,2,4" nozzleExtensionTexture="RocketEngine_Extension4">
+          <Drag drag="0.5039981,0.5331712,0,0.1945044,0.5963003,0.5308987" area="0.6814017,0.7087795,0,0.5298885,0.792434,0.7087795" />
+          <Config massScale="1.05" partScale="0.75,0.75,0.75" />
+          <FuelSource fuelTankPartIds="10,2,3,4,5,6,7,70,69,65,67,66,68,8,9,19,20,21,22" fuelType="LOX/LH2" totalCapacity="134.095779" totalFuel="132.797256" />
+          <RocketEngine chamberPressure="13900" engineSubTypeId="GasGenerator1" mass="6.67961836" nozzleSize="1.23" nozzleThroatSize="0.0096" price="1507091" size="0.685" />
+        </Part>
+        <Part id="133" partType="Strut1" position="0.03422332,0.05219245,0.117095" rotation="271.1702,275.0166,218.84" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001055737,0,0,0,0,0" area="0.001520977,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="134" partType="Strut1" position="0.01245546,0.05170441,0.1348982" rotation="271.1707,275.0155,208.8408" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001693951,0,0,0,0,0.001348003" area="0.003041954,0,0,0,0,0.003041954" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="135" partType="Strut1" position="-0.007775545,0.05128646,0.1434917" rotation="271.171,275.0198,188.8374" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="136" partType="Strut1" position="-0.02917242,0.05085039,0.1447301" rotation="271.1707,275.0165,168.84" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002457421,0,0,0,0,0" area="0.003041954,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="137" partType="Strut1" position="-0.05090785,0.05041552,0.1390462" rotation="271.1699,275.0164,148.8403" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="138" partType="Strut1" position="-0.06868076,0.05006838,0.1265059" rotation="271.171,275.0141,128.8422" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001693951,0,0,0,0.001789385,0" area="0.003041954,0,0,0,0.003041954,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="139" partType="Strut1" position="-0.0808959,0.04985738,0.1083069" rotation="271.1719,275.0125,108.8443" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="140" partType="Strut1" position="-0.08946443,0.04972744,0.08342266" rotation="271.1699,275.0185,98.83839" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00031016,0,0,0,0,0" area="0.001520977,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="141" partType="Strut1" position="-0.09727812,0.04972243,-0.002602577" rotation="271.1709,275.0155,88.84093" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="7.157538E-05,0,0,0,0.007408052,0" area="0.001520977,0,0,0,0.00912586,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.708583E-06,0.2524728,1.56462E-06" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="142" partType="Strut1" position="-0.09880662,0.04983449,-0.0824604" rotation="271.1712,275.0183,68.83813" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.001264498,0" area="0,0,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="143" partType="Strut1" position="-0.08872294,0.05007744,-0.102169" rotation="271.1719,275.0184,48.83837" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.0008946923,0" area="0,0,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="144" partType="Strut1" position="-0.07015276,0.05048943,-0.1222887" rotation="271.1714,275.0204,38.83652" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.001097489" area="0,0,0,0,0,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.582004E-06,0.05656213,3.632157E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="145" partType="Strut1" position="-0.05157638,0.0508945,-0.1346588" rotation="271.1707,275.0184,18.8379" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.003745778,0" area="0,0,0,0,0.006083907,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.105543E-05,0.05698504,-3.259612E-08" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="146" partType="Strut1" position="0.0547092,0.05308843,-0.1504235" rotation="271.1705,275.0162,1.340814" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.0001371861" area="0,0,0,0,0,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0001459005,0.3341463,-4.967034E-08" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="147" partType="Strut1" position="0.159111,0.05089355,-0.1620002" rotation="288.8271,96.4369,179.9151" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.001407649,0,0,0,0.002863015" area="0,0.001520977,0,0,0,0.003041954" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.105543E-05,0.05698504,-3.259612E-08" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="148" partType="Strut1" position="0.1778119,0.04024243,-0.1640606" rotation="308.8271,96.39056,179.9563" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.0009006569,0,0,0,0.001175029" area="0,0.001520977,0,0,0,0.001520977" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.105543E-05,0.05698504,-3.259612E-08" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="149" partType="Strut1" position="0.1864226,0.0302465,-0.1649604" rotation="338.8271,96.36719,179.9706" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.001520977,0,0,0.0007038246,0" area="0,0.003041954,0,0,0.001520977,0" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0001456864,0.05227384,-1.14087E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+        <Part id="150" partType="Strut1" position="0.1913381,-0.03252649,-0.165338" rotation="358.8271,96.35693,179.9726" name="(AM-SAP) BE-3" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.003018095,0,0,0.001455366,0.002177085" area="0,0.003041954,0,0,0.001520977,0.003041954" />
+          <Config massScale="0" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.1148782,0.1148782" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0003156722,0.1969651,-2.585768E-07" topScale="0.1148782,0.1148782" />
+        </Part>
+      </Parts>
+      <Connections>
+        <Connection partA="3" partB="2" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="3" partB="4" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="4" partB="5" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="5" partB="6" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="6" partB="7" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="7" partB="8" attachPointsA="2,4" attachPointsB="2,4" />
+        <Connection partA="8" partB="9" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="8" partB="68" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="9" partB="10" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="9" partB="19" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="66" partB="9" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="68" partB="9" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="11" partB="10" attachPointsA="1" attachPointsB="0" symmetryId="35503402-d8aa-4367-9d46-695029d75ab7" />
+        <Connection partA="13" partB="10" attachPointsA="1" attachPointsB="0" symmetryId="35503402-d8aa-4367-9d46-695029d75ab7" />
+        <Connection partA="15" partB="10" attachPointsA="1" attachPointsB="0" symmetryId="35503402-d8aa-4367-9d46-695029d75ab7" />
+        <Connection partA="17" partB="10" attachPointsA="1" attachPointsB="0" symmetryId="35503402-d8aa-4367-9d46-695029d75ab7" />
+        <Connection partA="12" partB="11" attachPointsA="1" attachPointsB="2" symmetryId="a5c5b245-9fd6-48f8-8352-e2a0a6400b70" />
+        <Connection partA="14" partB="13" attachPointsA="1" attachPointsB="2" symmetryId="a5c5b245-9fd6-48f8-8352-e2a0a6400b70" />
+        <Connection partA="16" partB="15" attachPointsA="1" attachPointsB="2" symmetryId="a5c5b245-9fd6-48f8-8352-e2a0a6400b70" />
+        <Connection partA="18" partB="17" attachPointsA="1" attachPointsB="2" symmetryId="a5c5b245-9fd6-48f8-8352-e2a0a6400b70" />
+        <Connection partA="19" partB="20" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="133" partB="19" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="20" partB="21" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="22" partB="21" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="23" partB="22" attachPointsA="4" attachPointsB="5" />
+        <Connection partA="28" partB="22" attachPointsA="0" attachPointsB="1" />
+        <Connection partA="24" partB="23" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="108" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="109" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="113" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="115" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="116" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="117" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="119" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="120" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="121" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="122" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="123" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="124" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="125" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="126" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="127" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="128" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="129" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="130" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="131" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="132" partB="23" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="48" partB="23" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="25" partB="24" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="26" partB="25" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="27" partB="26" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="29" partB="26" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="30" partB="29" attachPointsA="2,4" attachPointsB="2,4" />
+        <Connection partA="31" partB="30" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="32" partB="31" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="33" partB="32" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="34" partB="33" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="35" partB="34" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="36" partB="35" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="37" partB="36" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="38" partB="37" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="39" partB="38" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="40" partB="39" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="41" partB="40" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="42" partB="41" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="43" partB="42" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="44" partB="43" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="45" partB="44" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="45" partB="46" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="46" partB="47" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="82" partB="46" attachPointsA="1,2" attachPointsB="1,5" />
+        <Connection partA="83" partB="46" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="98" partB="46" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="47" partB="48" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="49" partB="47" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="49" partB="50" attachPointsA="2" attachPointsB="2" />
+        <Connection partA="50" partB="51" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="51" partB="52" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="52" partB="53" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="53" partB="54" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="54" partB="55" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="55" partB="56" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="56" partB="57" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="57" partB="58" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="58" partB="59" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="59" partB="60" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="60" partB="61" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="61" partB="62" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="62" partB="63" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="63" partB="64" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="64" partB="65" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="65" partB="66" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="69" partB="65" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="67" partB="66" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="68" partB="66" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="70" partB="69" attachPointsA="1,2" attachPointsB="1,5" />
+        <Connection partA="71" partB="69" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="72" partB="71" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="73" partB="72" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="74" partB="73" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="75" partB="74" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="76" partB="75" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="77" partB="76" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="78" partB="77" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="79" partB="78" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="80" partB="79" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="81" partB="80" attachPointsA="0" attachPointsB="5" />
+        <Connection partA="84" partB="83" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="85" partB="84" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="86" partB="85" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="88" partB="85" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="87" partB="86" attachPointsA="2,3,4" attachPointsB="2,0,4" />
+        <Connection partA="89" partB="88" attachPointsA="2" attachPointsB="1" />
+        <Connection partA="90" partB="89" attachPointsA="1" attachPointsB="1" />
+        <Connection partA="91" partB="90" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="92" partB="91" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="93" partB="92" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="94" partB="93" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="95" partB="94" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="96" partB="95" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="97" partB="96" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="99" partB="98" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="100" partB="99" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="101" partB="100" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="102" partB="101" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="103" partB="102" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="104" partB="103" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="105" partB="104" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="106" partB="105" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="107" partB="106" attachPointsA="1" attachPointsB="5" />
+        <Connection partA="109" partB="108" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="110" partB="109" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="111" partB="110" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="112" partB="111" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="113" partB="112" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="113" partB="114" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="115" partB="114" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="116" partB="115" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="117" partB="116" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="118" partB="117" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="119" partB="118" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="120" partB="119" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="121" partB="120" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="122" partB="121" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="123" partB="122" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="124" partB="123" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="125" partB="124" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="126" partB="125" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="127" partB="126" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="128" partB="127" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="129" partB="128" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="130" partB="129" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="131" partB="130" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="132" partB="131" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="134" partB="133" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="135" partB="134" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="136" partB="135" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="137" partB="136" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="138" partB="137" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="139" partB="138" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="140" partB="139" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="141" partB="140" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="142" partB="141" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="143" partB="142" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="144" partB="143" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="145" partB="144" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="146" partB="145" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="147" partB="146" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="148" partB="147" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="149" partB="148" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="150" partB="149" attachPointsA="1" attachPointsB="2" />
+      </Connections>
+      <Collisions />
+      <Bodies />
+    </Assembly>
+  </DesignerPart>
+</DesignerParts>

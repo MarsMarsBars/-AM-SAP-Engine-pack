@@ -1,0 +1,1460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DesignerParts>
+  <DesignerPart name="(AM-SAP) YF-100" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: KeraLOX, Thrust: SL=1,220kn Vac=1,336kn, Isp: SL=300s Vac=335s" order="1000">
+    <Assembly xmlVersion="8">
+      <Parts>
+        <Part id="425" partType="Fuselage1" position="-0.08293724,1.644564,-0.01346111" rotation="-1.366038E-05,180,-1.207781E-12" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01546004,0.01548667,0,0,0.0107737,0.01090838" area="0.0203737,0.0203737,0,0,0.01144706,0.01144706" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.0800981,0.0800981" offset="3.393123E-14,0.05019601,1.876696E-07" topScale="0.1079284,0.1079284" />
+          <FuelTank capacity="1.54436481" fuel="1.54436481" />
+        </Part>
+        <Part id="426" partType="Fuselage1" position="-0.08293724,0.5647619,-0.01346111" rotation="-1.366038E-05,180,-1.207781E-12" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.03129293,0.03130625,0,0,0.03371271,0.03362294" area="0.03395617,0.03395617,0,0,0.03434118,0.03434118" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.0800981,0.0800981" offset="4.160888E-14,1.029571,1.068706E-07" topScale="0.0800981,0.0800981" />
+          <FuelTank capacity="22.82671" fuel="22.82671" />
+        </Part>
+        <Part id="427" partType="RocketEngine1" position="-0.08293724,1.279739,-0.01346016" rotation="-4.795682E-05,0.5434232,3.056564E-05" name="(AM-SAP) YF-100 nozzle" activationStage="0" materials="2,2,2,2,2" nozzleExtensionTexture="RocketEngine_Extension4">
+          <Drag drag="1.416877,1.458717,0,0.4632244,1.646805,1.458939" area="1.966045,2.047539,0,1.270625,2.277964,2.014684" />
+          <Config massScale="0.60" partScale="0.8,0.8,0.8" />
+          <FuelSource fuelTankPartIds="425,426" totalCapacity="24.3710747" totalFuel="24.3710747" />
+          <RocketEngine chamberPressure="2450" engineSubTypeId="Staged1" mass="18.6861935" nozzleSize="2" nozzleThroatSize="0.018" nozzleTypeId="Delta" price="4976183" size="0.75" />
+        </Part>
+        <Part id="428" partType="Fuselage1" position="-0.08293629,-0.3295815,-0.01345921" rotation="-1.366038E-05,180,-1.207781E-12" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001810995,0.03534104,0,0.3205177,0.0544521,0" area="0.006791232,0.05093425,0,0.3205177,0.06868236,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.3197469,0.3197469" offset="1.065144E-19,0.1081178,2.700062E-13" topScale="0.2525605,0.2525605" />
+          <FuelTank capacity="30.7347069" fuel="30.7347069" />
+        </Part>
+        <Part id="429" partType="Fuselage1" position="-0.08293629,-0.08559436,-0.01346016" rotation="-1.366038E-05,180,-1.207781E-12" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0071774,0.02629938,0,0,0.07770535,0.008708744" area="0.01358246,0.03735178,0,0,0.1030235,0.01144706" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2517822,0.2517822" offset="1.177508E-19,0.135859,3.019807E-13" topScale="0.1527151,0.1527151" />
+          <FuelTank capacity="19.5884476" fuel="19.5884476" />
+        </Part>
+        <Part id="430" partType="Inlet1" position="-0.08293581,-1.032246,-0.01345968" rotation="-1.366037E-05,180,-8.110851E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.02189174,0.04872376,0,0,0.07994987,0.01440983" area="0.02716493,0.0611211,0,0,0.1030235,0.02289412" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="1.079357,1.079357" offset="0,0.06775999,0" topScale="1.079357,1.079357" />
+          <Inlet />
+        </Part>
+        <Part id="431" partType="Strut1" position="-0.06448174,-0.4326265,-0.3703318" rotation="282.8786,157.5003,179.9998" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="3fcc5539-7111-407c-8973-763162292982" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="8.780506E-08,0.1882767,-5.545249E-06" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="432" partType="Strut1" position="-0.03321552,-0.4538014,-0.4338603" rotation="297.8784,157.5,170" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="ab408534-8a42-4f8c-a2d6-3dc2138e117d" texture="Default">
+          <Drag drag="0,0.002290376,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="433" partType="Strut1" position="-0.01253128,-0.4749453,-0.4565582" rotation="311.9149,148.076,162.7934" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="7b185823-7a6e-4391-a0c0-ca3f0975fb8d" texture="Default">
+          <Drag drag="0,0.002396906,0,0,0,0.007182469" area="0,0.006791232,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="434" partType="Strut1" position="0.01587915,-0.5046685,-0.4707928" rotation="318.247,83.19711,196.1989" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="5bf62bc3-5583-4a97-a402-ffa0e639a152" texture="Default">
+          <Drag drag="0,0.00331572,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="435" partType="Strut1" position="0.05088615,-0.5405605,-0.4786758" rotation="313.3505,81.7841,192.1851" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="f3ec3330-d0fd-47d7-9c8f-443f18521d14" texture="Default">
+          <Drag drag="0,0.005566147,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="436" partType="Strut1" position="0.08727455,-0.5721505,-0.4792376" rotation="309.7448,73.16711,188.425" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="05d94ab8-0809-43cb-a286-9925a8199d09" texture="Default">
+          <Drag drag="0,0.002902919,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="437" partType="Strut1" position="0.1233821,-0.6016715,-0.4713736" rotation="307.3671,56.26626,191.2457" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="aa278391-0203-4076-9271-431e31f24c8d" texture="Default">
+          <Drag drag="0,0.003235823,0,0,0,0.008663854" area="0,0.003395616,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="438" partType="Strut1" position="0.1629591,-0.6313493,-0.4548726" rotation="302.4758,54.45214,187.7345" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="52d3319a-0418-4453-8de5-6892cfaaf77e" texture="Default">
+          <Drag drag="0,0.005233244,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="439" partType="Strut1" position="0.1984754,-0.6550357,-0.4334326" rotation="298.5378,20.2376,211.1184" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="96dcadeb-652d-47ea-8e80-f55de32f241d" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="440" partType="Strut1" position="0.2350335,-0.6752794,-0.404151" rotation="294.1405,14.85433,210.9471" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="6fdd9485-7998-48f4-8dbf-7c8e32b06acf" texture="Default">
+          <Drag drag="0,0.002117267,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="441" partType="Strut1" position="0.2688885,-0.6911216,-0.3706303" rotation="290.0083,7.327635,212.9279" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="e15ada01-1714-482b-ad25-5cf440cea5e1" texture="Default">
+          <Drag drag="0,0.00390163,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="442" partType="Strut1" position="0.3098078,-0.7119217,-0.3191786" rotation="290.0083,7.327575,207.9278" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="e4f8359f-291a-414c-a37c-a631f0712f97" texture="Default">
+          <Drag drag="0,0.004713914,0,0,0,0.008708744" area="0,0.006791232,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.0001068811,0.128073,-0.0008808658" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="443" partType="Strut1" position="0.3417645,-0.7289948,-0.2742538" rotation="285.7585,358.683,211.1621" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="28ed1819-3dcb-4965-90f9-f0913004ef4b" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="5.585402E-05,0.05254792,-0.0004588299" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="444" partType="Strut1" position="0.3565307,-0.7370677,-0.2464705" rotation="285.7585,358.683,206.1622" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="da7bd5ca-b33d-4db3-b329-2d8f62cb99f8" texture="Default">
+          <Drag drag="0,0.0009054976,0,0,0,0.004803277" area="0,0.003395616,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="5.585402E-05,0.05254792,-0.0004588299" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="445" partType="Strut1" position="0.3719816,-0.7463479,-0.2144027" rotation="285.7585,358.683,206.1622" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="c1aacb45-655c-4ec7-a1ee-ddd3b02db790" texture="Default">
+          <Drag drag="0.0029695,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="5.585402E-05,0.05254792,-0.0004588299" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="446" partType="Strut1" position="0.3875179,-0.7572498,-0.176012" rotation="285.7585,358.683,201.1621" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="003eb9f7-dc04-430e-a7a7-dab3d8e5e5aa" texture="Default">
+          <Drag drag="0.003076029,0.004514173,0,0,0,0" area="0.003395616,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="447" partType="Strut1" position="0.4026117,-0.7704587,-0.1288753" rotation="285.7585,358.6829,196.1621" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="a280a8bb-b39d-464e-a8b7-71fbcac79d2d" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="448" partType="Strut1" position="0.4134979,-0.7838016,-0.08135176" rotation="285.7585,358.6828,191.1621" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="1901eb77-c852-4ea9-ad2e-67b02e86156a" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="449" partType="Strut1" position="0.4231877,-0.7988358,-0.02787256" rotation="285.7585,358.6828,191.1621" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="2034d039-8ad5-4fa4-a33d-5c5be9358751" texture="Default">
+          <Drag drag="0,0,0,0,0,0.009651444" area="0,0,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="450" partType="Strut1" position="0.4324288,-0.8152909,0.01983452" rotation="290.6859,1.420539,183.5592" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="22b1060d-fa28-490a-80a1-ebf800e0d3a1" texture="Default">
+          <Drag drag="0.001198453,0.003169242,0,0,0,0" area="0.003395616,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="451" partType="Strut1" position="0.4372072,-0.8351936,0.06639338" rotation="295.678,2.136062,177.9011" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="39035de8-6fa5-468a-b5cc-a495a2c52b05" texture="Default">
+          <Drag drag="0,0.003062713,0,0,0,0.01068392" area="0,0.003395616,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="452" partType="Strut1" position="0.4348793,-0.8593168,0.1109872" rotation="300.6754,1.777467,173.2174" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="25ee6c03-4fe9-498f-b801-83ceae8b59f0" texture="Default">
+          <Drag drag="0.004061423,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="453" partType="Strut1" position="0.427546,-0.8853316,0.1526976" rotation="305.6446,0.7653832,169.0653" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="b0d34bfb-9a46-4b21-acd4-644c1cef7576" texture="Default">
+          <Drag drag="0,0.002716493,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="454" partType="Strut1" position="0.4165521,-0.9149747,0.1908913" rotation="310.5635,359.3086,165.2128" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="01470c1d-04e5-4d54-86db-55c47f4739a6" texture="Default">
+          <Drag drag="0.002237112,0,0,0,0,0.0103248" area="0.003395616,0,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="455" partType="Strut1" position="0.3960919,-0.9470987,0.2271061" rotation="310.5635,359.3087,160.2128" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="c576e14e-1e68-4f25-aa5b-644df40225e5" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.01254209,0.08055921,-0.001973028" topScale="0.1227681,0.1201486" />
+        </Part>
+        <Part id="456" partType="Strut1" position="0.3706484,-0.9847407,0.2616134" rotation="310.5635,359.3087,160.2128" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="139f6b48-1cd5-4491-be92-6ecead21a47b" texture="Default">
+          <Drag drag="0.005046818,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1227681,0.1201486" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.005479705,0.08055276,-0.0150538" topScale="0.09263243,0.09217504" />
+        </Part>
+        <Part id="457" partType="Strut1" position="0.3103237,-1.034984,0.3062248" rotation="310.5635,359.3087,160.2128" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="e6fe73d8-c32c-45c6-b576-42eb5c49ee86" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.09263243,0.09217504" cornerRadiuses="1,1,1,1,1,1,1,1" offset="0.09030902,0.1577559,-0.009838899" topScale="0.02813803,0.0371388" />
+        </Part>
+        <Part id="458" partType="Strut1" position="-0.1013908,-0.4326265,-0.3703313" rotation="282.8785,202.5,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="3fcc5539-7111-407c-8973-763162292982" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-8.780506E-08,0.1882767,-5.545249E-06" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="459" partType="Strut1" position="-0.1326566,-0.4538014,-0.4338603" rotation="297.8785,202.5,190" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="ab408534-8a42-4f8c-a2d6-3dc2138e117d" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="460" partType="Strut1" position="-0.1533408,-0.4749444,-0.4565563" rotation="311.9149,211.9239,197.2067" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="7b185823-7a6e-4391-a0c0-ca3f0975fb8d" mirrored="true" texture="Default">
+          <Drag drag="0,0.002689861,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="461" partType="Strut1" position="-0.1817532,-0.5046685,-0.4707928" rotation="318.2471,276.8029,163.801" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="5bf62bc3-5583-4a97-a402-ffa0e639a152" mirrored="true" texture="Default">
+          <Drag drag="0,0.003302403,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="462" partType="Strut1" position="-0.2167592,-0.5405595,-0.4786758" rotation="313.3506,278.2159,167.815" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="f3ec3330-d0fd-47d7-9c8f-443f18521d14" mirrored="true" texture="Default">
+          <Drag drag="0,0.006018897,0,0,0.007092688,0" area="0,0.01018685,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="463" partType="Strut1" position="-0.253149,-0.5721505,-0.4792376" rotation="309.7448,286.833,171.5749" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="05d94ab8-0809-43cb-a286-9925a8199d09" mirrored="true" texture="Default">
+          <Drag drag="0,0.002996132,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="464" partType="Strut1" position="-0.2892551,-0.6016715,-0.4713731" rotation="307.3672,303.7337,168.7544" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="aa278391-0203-4076-9271-431e31f24c8d" mirrored="true" texture="Default">
+          <Drag drag="0,0.003235823,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="465" partType="Strut1" position="-0.3288312,-0.6313508,-0.4548726" rotation="302.4758,305.5478,172.2655" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="52d3319a-0418-4453-8de5-6892cfaaf77e" mirrored="true" texture="Default">
+          <Drag drag="0,0.005273192,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="466" partType="Strut1" position="-0.3643456,-0.6550357,-0.4334321" rotation="298.5379,339.7622,148.8818" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="96dcadeb-652d-47ea-8e80-f55de32f241d" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.006688674,0" area="0,0,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="467" partType="Strut1" position="-0.4009051,-0.6752794,-0.40415" rotation="294.1407,345.1457,149.0531" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="6fdd9485-7998-48f4-8dbf-7c8e32b06acf" mirrored="true" texture="Default">
+          <Drag drag="0,0.003195874,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="468" partType="Strut1" position="-0.434761,-0.6911216,-0.3706298" rotation="290.0083,352.6721,147.0723" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="e15ada01-1714-482b-ad25-5cf440cea5e1" mirrored="true" texture="Default">
+          <Drag drag="0,0.001504724,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="469" partType="Strut1" position="-0.4756808,-0.7119226,-0.3191772" rotation="290.0083,352.6722,152.0724" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="e4f8359f-291a-414c-a37c-a631f0712f97" mirrored="true" texture="Default">
+          <Drag drag="0,0.004713914,0,0,0.008978087,0" area="0,0.006791232,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.0001068811,0.128073,-0.0008808658" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="470" partType="Strut1" position="-0.5076361,-0.7289948,-0.2742534" rotation="285.7584,1.316746,148.8381" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="28ed1819-3dcb-4965-90f9-f0913004ef4b" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-5.585402E-05,0.05254792,-0.0004588299" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="471" partType="Strut1" position="-0.5224028,-0.7370677,-0.246469" rotation="285.7584,1.31696,153.838" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="da7bd5ca-b33d-4db3-b329-2d8f62cb99f8" mirrored="true" texture="Default">
+          <Drag drag="0,0.0008788654,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-5.585402E-05,0.05254792,-0.0004588299" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="472" partType="Strut1" position="-0.5378537,-0.7463489,-0.2144012" rotation="285.7584,1.31696,153.838" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="c1aacb45-655c-4ec7-a1ee-ddd3b02db790" mirrored="true" texture="Default">
+          <Drag drag="0.0029695,0,0,0,0.009382101,0" area="0.003395616,0,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-5.585402E-05,0.05254792,-0.0004588299" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="473" partType="Strut1" position="-0.5533905,-0.7572508,-0.1760111" rotation="285.7584,1.316777,158.8381" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="003eb9f7-dc04-430e-a7a7-dab3d8e5e5aa" mirrored="true" texture="Default">
+          <Drag drag="0.003076029,0.004500856,0,0,0,0" area="0.003395616,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="474" partType="Strut1" position="-0.5684843,-0.7704587,-0.1288753" rotation="285.7585,1.316944,163.8381" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="a280a8bb-b39d-464e-a8b7-71fbcac79d2d" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="475" partType="Strut1" position="-0.579371,-0.7838016,-0.0813508" rotation="285.7584,1.316935,168.8381" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="1901eb77-c852-4ea9-ad2e-67b02e86156a" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="476" partType="Strut1" position="-0.5890589,-0.7988367,-0.02787209" rotation="285.7584,1.316935,168.8381" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="2034d039-8ad5-4fa4-a33d-5c5be9358751" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.009606553,0" area="0,0,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="477" partType="Strut1" position="-0.5983014,-0.8152909,0.01983547" rotation="290.6859,358.5793,176.4408" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="22b1060d-fa28-490a-80a1-ebf800e0d3a1" mirrored="true" texture="Default">
+          <Drag drag="0.00117182,0.003169242,0,0,0,0" area="0.003395616,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="478" partType="Strut1" position="-0.6030798,-0.8351946,0.06639433" rotation="295.678,357.8639,182.0991" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="39035de8-6fa5-468a-b5cc-a495a2c52b05" mirrored="true" texture="Default">
+          <Drag drag="0,0.003062713,0,0,0.01054925,0" area="0,0.003395616,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="479" partType="Strut1" position="-0.6007514,-0.8593187,0.1109886" rotation="300.6754,358.2225,186.7828" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="25ee6c03-4fe9-498f-b801-83ceae8b59f0" mirrored="true" texture="Default">
+          <Drag drag="0.007164085,0,0,0,0,0" area="0.01018685,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="480" partType="Strut1" position="-0.5934181,-0.8853316,0.1526971" rotation="305.6446,359.2345,190.9347" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="b0d34bfb-9a46-4b21-acd4-644c1cef7576" mirrored="true" texture="Default">
+          <Drag drag="0,0.003435565,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="481" partType="Strut1" position="-0.5824251,-0.9149747,0.1908922" rotation="310.5635,0.6914049,194.7872" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="01470c1d-04e5-4d54-86db-55c47f4739a6" mirrored="true" texture="Default">
+          <Drag drag="0.002250428,0,0,0,0.01054925,0" area="0.003395616,0,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.1315473,0.1315473" />
+        </Part>
+        <Part id="482" partType="Strut1" position="-0.561964,-0.9470978,0.227107" rotation="310.5635,0.6912985,199.7872" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="c576e14e-1e68-4f25-aa5b-644df40225e5" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1315473,0.1315473" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.01254209,0.08055921,-0.001973028" topScale="0.1227681,0.1201486" />
+        </Part>
+        <Part id="483" partType="Strut1" position="-0.536521,-0.9847407,0.2616138" rotation="310.5635,0.6912985,199.7872" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="139f6b48-1cd5-4491-be92-6ecead21a47b" mirrored="true" texture="Default">
+          <Drag drag="0.004713914,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1227681,0.1201486" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.005479705,0.08055276,-0.0150538" topScale="0.09263243,0.09217504" />
+        </Part>
+        <Part id="484" partType="Strut1" position="-0.4761963,-1.034985,0.3062263" rotation="310.5635,0.6912985,199.7872" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="e6fe73d8-c32c-45c6-b576-42eb5c49ee86" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0.00839451,0.005745975,0" area="0,0,0,0.01144706,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.09263243,0.09217504" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-0.09030902,0.1577559,-0.009838899" topScale="0.02813803,0.0371388" />
+        </Part>
+        <Part id="485" partType="Fuselage1" position="0.1074262,-0.1862103,-0.1075282" rotation="57.12156,292.5001,4.089115E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001837628,0.04446261,0,0,0,0.006958017" area="0.003395616,0.0611211,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2850503,0.2850503" offset="1.555309E-06,0.42336,2.314337E-06" topScale="0.2850503,0.2850503" />
+          <FuelTank capacity="118.876335" fuel="118.876335" />
+        </Part>
+        <Part id="486" partType="Fuselage1" position="0.2886152,-0.3129764,-0.1825786" rotation="57.12156,292.5001,4.089115E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002556699,0.02519414,0,0,0,0.008888306" area="0.003395616,0.03735178,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.3187389,0.3187389" offset="1.657745E-06,0.1604137,6.507592E-06" topScale="0.3187389,0.3187389" />
+          <FuelTank capacity="56.3189" fuel="56.3189" />
+        </Part>
+        <Part id="487" partType="Fuselage1" position="0.3644466,-0.3660247,-0.2139921" rotation="57.12155,292.5001,2.516378E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.005646044,0.009001712,0,0,0,0.01472406" area="0.006791232,0.01358246,0,0,0,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2849842,0.2849842" offset="2.759033E-06,0.08390609,1.157049E-05" topScale="0.2849842,0.2849842" />
+          <FuelTank capacity="23.54928" fuel="23.54928" />
+        </Part>
+        <Part id="488" partType="Fuselage1" position="0.4165335,-0.4024584,-0.2355695" rotation="57.1216,292.5001,6.290952E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002410222,0.01181142,0,0,0,0.009651444" area="0.006791232,0.01697808,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.145431,0.145431" offset="2.759033E-06,0.08390609,1.157049E-05" topScale="0.25672,0.25672" />
+          <FuelTank capacity="12.02269" fuel="12.02269" />
+        </Part>
+        <Part id="489" partType="Inlet1" position="0.4581814,-0.4315927,-0.2528214" rotation="57.12155,292.5001,180.0001" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003155926,0.001091924,0,0,0,0" area="0.003395616,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1082047,0.1082047" offset="5.937179E-08,0.05027547,-5.192122E-07" topScale="0.1082047,0.1082047" />
+          <Inlet />
+        </Part>
+        <Part id="490" partType="Fuselage1" position="0.4343371,0.6048098,-0.03803873" rotation="2.483159E-05,277.5,4.385355E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.06539557,0.04129336,0,0,0,0.05894114" area="0.0814948,0.05093425,0,0,0,0.06868236" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1787471,0.1787471" offset="-5.001214E-08,0.115705,-6.54452E-09" topScale="0.1787471,0.1787471" />
+          <FuelTank capacity="12.7753477" fuel="12.7753477" />
+        </Part>
+        <Part id="491" partType="Fuselage1" position="0.4343367,0.4327528,-0.03803968" rotation="2.483159E-05,277.5,4.385355E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0.04151973,0.03235823,0,0,0,0.03631636" area="0.05432987,0.0407474,0,0,0,0.04578824" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.2257827,0.2257827" offset="-4.902598E-08,0.05634505,-8.128736E-09" topScale="0.2257827,0.2257827" />
+          <FuelTank capacity="9.926125" fuel="9.926125" />
+        </Part>
+        <Part id="492" partType="Fuselage1" position="0.4343357,0.3200588,-0.03803921" rotation="2.483159E-05,277.5,4.385355E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.03262455,0.03281097,0,0,0,0.03259046" area="0.04414302,0.04414302,0,0,0,0.04578824" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1818631,0.1818631" offset="-4.902598E-08,0.05634505,-8.128736E-09" topScale="0.2257827,0.2257827" />
+          <FuelTank capacity="8.120476" fuel="8.120476" />
+        </Part>
+        <Part id="493" partType="NoseCone1" position="0.4343371,0.1848246,-0.03803778" rotation="2.741782E-05,277.5,180.0001" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01647207,0.01316966,0,0,0,0.02868499" area="0.02716493,0.0203737,0,0,0,0.03434118" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1837955,0.1837955" offset="3.507609E-09,0.07888183,-5.334544E-08" topScale="0,0" />
+          <FuelTank capacity="3.06950283" />
+        </Part>
+        <Part id="494" partType="Fuselage1" position="0.4336467,0.05313164,-0.04064274" rotation="358.473,277.5242,2.506628" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001850944,0,0,0,0,0.01827041" area="0.003395616,0,0,0,0,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="495" partType="Fuselage1" position="0.4356785,0.1475157,-0.038589" rotation="-0.0001058679,2.219808E-05,3.329716E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0.004873708,0.01115893,0,0,0,0.02217587" area="0.006791232,0.01358246,0,0,0,0.03434118" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1175446,0.1175446" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.1457159,0.1457159" />
+          <FuelTank capacity="3.00775838" fuel="3.00775838" />
+        </Part>
+        <Part id="496" partType="Fuselage1" position="0.4356785,0.07745463,-0.038589" rotation="1.108743E-06,155,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0111323,0.01103908,0,0,0,0" area="0.01358246,0.01358246,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="497" partType="Fuselage1" position="0.4328175,0.03438264,-0.0386939" rotation="6.364873,218.1931,11.28308" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003781785,0.004607385,0,0,0,0" area="0.006791232,0.01358246,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="498" partType="Fuselage1" position="0.4299955,0.006761611,-0.0325551" rotation="6.364834,218.193,16.28308" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003315719,0.002996132,0,0,0,0.002020069" area="0.006791232,0.003395616,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="499" partType="Fuselage1" position="0.4249701,-0.02208537,-0.02371025" rotation="358.8996,236.7805,22.14611" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001038659,0.004700598,0,0,0,0" area="0.003395616,0.01018685,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="500" partType="Fuselage1" position="0.4174132,-0.04881233,-0.01311159" rotation="358.8995,236.7805,27.14609" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003076029,0.004940289,0,0,0,0.0107737" area="0.01018685,0.01018685,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="501" partType="Fuselage1" position="0.4086885,-0.0750584,-0.0007076263" rotation="358.8996,236.7805,32.14611" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.004434275,0,0,0,0.008574072" area="0,0.006791232,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="502" partType="Fuselage1" position="0.3993287,-0.1004984,0.01269197" rotation="358.8995,236.7805,37.14599" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.006112109,0,0,0,0.007900716" area="0,0.01018685,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="503" partType="Fuselage1" position="0.388505,-0.1238474,0.02840281" rotation="358.8996,236.7805,42.14597" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage8">
+          <Drag drag="0.0063518,0.001877576,0,0,0,0" area="0.01018685,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.3468342,0.3468342" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.3468342,0.3468342" />
+          <FuelTank capacity="20.8027554" fuel="20.8027554" />
+        </Part>
+        <Part id="504" partType="Fuselage1" position="0.3766289,-0.1454694,0.04577923" rotation="358.8995,236.7805,47.14612" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004128004,0.006192006,0,0,0,0.0103248" area="0.006791232,0.01018685,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="505" partType="Fuselage1" position="0.363915,-0.1645994,0.06452131" rotation="358.8996,236.7805,52.14597" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003568726,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="506" partType="Fuselage1" position="0.3508339,-0.1811864,0.08391523" rotation="358.8996,236.7804,57.14596" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="507" partType="Fuselage1" position="0.3360491,-0.1964415,0.105957" rotation="358.8996,236.7806,62.14597" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002490119,0,0,0,0,0.01512808" area="0.003395616,0,0,0,0,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="508" partType="Fuselage1" position="0.3240719,-0.2052004,0.1239376" rotation="358.8995,236.7805,72.14601" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004620701,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="509" partType="Fuselage1" position="0.3133955,-0.2097094,0.14008" rotation="358.8996,236.7806,82.14604" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.007676264" area="0,0,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="15.4831018" fuel="15.4831018" />
+        </Part>
+        <Part id="510" partType="Fuselage1" position="0.2533317,-0.2199364,0.2314405" rotation="358.8996,236.7806,86.09137" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01251717,0,0,0,0,0.01696858" area="0.02376932,0,0,0,0,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-6.420914E-09,0.2477677,1.071003E-06" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="76.6599" fuel="76.6599" />
+        </Part>
+        <Part id="511" partType="Fuselage1" position="0.1880894,-0.2280574,0.3307853" rotation="358.8996,236.7806,86.09133" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="6,1">
+          <Drag drag="0.002836338,0,0,0,0.006284661,0.01755216" area="0.003395616,0,0,0,0.01144706,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.3496379,0.3496379" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.3496379,0.3496379" />
+          <FuelTank capacity="21.1404381" fuel="21.1404381" />
+        </Part>
+        <Part id="512" partType="Fuselage1" position="0.1634622,-0.2311234,0.3682823" rotation="7.538813,60.64088,270.4487" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.005912367,0,0,0,0.008933197,0" area="0.006791232,0,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2992199,0.2992199" offset="-8.667407E-09,0.06236488,1.814901E-06" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="19.29584" fuel="19.29584" />
+        </Part>
+        <Part id="513" partType="Fuselage1" position="0.1389556,-0.2315104,0.4117393" rotation="7.538813,60.64088,270.4487" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00355541,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2574314,0.2574314" offset="-8.667407E-09,0.06236488,1.814901E-06" topScale="0.2992199,0.2992199" />
+          <FuelTank capacity="16.7264671" fuel="16.7264671" />
+        </Part>
+        <Part id="514" partType="Fuselage1" position="0.1144485,-0.2318983,0.4551997" rotation="7.538813,60.64088,270.4487" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.005912367,0,0,0,0.01692369,0.01683391" area="0.006791232,0,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2574314,0.2574314" offset="-8.667407E-09,0.06236488,1.814901E-06" topScale="0.2574314,0.2574314" />
+          <FuelTank capacity="14.282547" fuel="14.282547" />
+        </Part>
+        <Part id="515" partType="Fuselage1" position="0.09799194,-0.2319524,0.4815331" rotation="7.501623,50.5539,269.1253" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00355541,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2574314,0.2574314" offset="-8.667407E-09,0.06236488,1.814901E-06" topScale="0.2574314,0.2574314" />
+          <FuelTank capacity="14.282547" fuel="14.282547" />
+        </Part>
+        <Part id="516" partType="Fuselage1" position="0.0753293,-0.2311485,0.5055285" rotation="7.23516,40.47404,267.8293" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00490034,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2574314,0.2574314" offset="-8.667407E-09,0.06236488,1.814901E-06" topScale="0.2574314,0.2574314" />
+          <FuelTank capacity="14.282547" fuel="14.282547" />
+        </Part>
+        <Part id="517" partType="Fuselage1" position="0.04343605,-0.2293184,0.5294232" rotation="7.018364,35.43982,267.2043" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.006271902,0,0,0,0,0.01463428" area="0.01358246,0,0,0,0,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2574314,0.3081288" offset="-3.498481E-05,0.06235964,0.004595069" topScale="0.2574314,0.2574314" />
+          <FuelTank capacity="15.6665487" fuel="15.6665487" />
+        </Part>
+        <Part id="518" partType="Fuselage1" position="-0.06242847,-0.2289984,0.6118279" rotation="1.878302E-05,216.46,90.00011" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01908203,0,0,0,0.01490362,0" area="0.02716493,0,0,0,0.02289412,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1797589,0.1687318" offset="-0.002094392,0.2860896,0.02229078" topScale="0.2574314,0.3081288" />
+          <FuelTank capacity="52.3009071" fuel="52.3009071" />
+        </Part>
+        <Part id="519" partType="Fuselage1" position="-0.1339989,-0.2298703,0.6490588" rotation="-7.710513E-05,126.46,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.02709835,0,0,0,0.03636125,0.0149934" area="0.0407474,0,0,0,0.04578824,0.02289412" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.09824301,0.09824301" offset="-5.001214E-08,0.115705,-6.54452E-09" topScale="0.09824301,0.09824301" />
+          <FuelTank capacity="3.859207" fuel="3.859207" />
+        </Part>
+        <Part id="520" partType="Fuselage1" position="-0.1339989,-0.06293744,0.6490588" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.02269071,0,0,0,0.01898865,0.01912333" area="0.03056055,0,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1482904,0.1482904" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.1122304,0.1122304" />
+          <FuelTank capacity="3.02258134" fuel="3.02258134" />
+        </Part>
+        <Part id="521" partType="Fuselage1" position="-0.1339989,0.0554257,0.6490579" rotation="-7.710513E-05,126.46,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0.0292023,0,0,0,0.009965677,0.02612623" area="0.0407474,0,0,0,0.01144706,0.03434118" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1576238,0.1576238" offset="1.604243E-07,0.0671306,1.237423E-07" topScale="0.1576238,0.1576238" />
+          <FuelTank capacity="5.76377058" fuel="5.76377058" />
+        </Part>
+        <Part id="522" partType="Fuselage1" position="-0.1339998,0.1737909,0.6490583" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01478092,0,0,0,0.01759705,0.01741749" area="0.02716493,0,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.08435137,0.08435137" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.1482904,0.1482904" />
+          <FuelTank capacity="2.45529413" fuel="2.45529413" />
+        </Part>
+        <Part id="523" partType="Fuselage1" position="-0.1339998,0.2441627,0.6490588" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="6,1">
+          <Drag drag="0,0,0,0,0.01800106,0.01836019" area="0,0,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3280115,0.3280115" offset="1.416734E-07,0.06383405,2.18574E-07" topScale="0.3280115,0.3280115" />
+          <FuelTank capacity="23.7341213" fuel="23.7341213" />
+        </Part>
+        <Part id="524" partType="Fuselage1" position="-0.1339998,0.3145377,0.6490574" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01420832,0,0,0,0.01607078,0.01575654" area="0.0203737,0,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.08435137,0.08435137" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.08435137,0.08435137" />
+          <FuelTank capacity="1.25942636" fuel="1.25942636" />
+        </Part>
+        <Part id="525" partType="Fuselage1" position="-0.1339989,0.4169897,0.6490583" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="4,1">
+          <Drag drag="0.01491408,0,0,0,0.02186164,0.02163719" area="0.03395617,0,0,0,0.04578824,0.04578824" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.2158789,0.2158789" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.08435137,0.08435137" />
+          <FuelTank capacity="4.24393272" fuel="4.24393272" />
+        </Part>
+        <Part id="526" partType="Fuselage1" position="-0.1340003,0.5194419,0.6490583" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.04420959,0,0,0.0572353,0.02819119,0.03887512" area="0.05432987,0,0,0.0572353,0.03434118,0.04578824" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.2441407,0.2441407" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.2441407,0.2441407" />
+          <FuelTank capacity="10.5504" fuel="10.5504" />
+        </Part>
+        <Part id="527" partType="Fuselage1" position="-0.1339998,0.576207,0.6490579" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0.01688487,0,0,0,0.01036969,0" area="0.0203737,0,0,0,0.01144706,0" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1879106,0.1879106" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.1879106,0.1879106" />
+          <FuelTank capacity="6.25015926" fuel="6.25015926" />
+        </Part>
+        <Part id="528" partType="Fuselage1" position="-0.1340003,0.6786559,0.6490583" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01186468,0,0,0,0.02055982,0.02073938" area="0.01358246,0,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1404734,0.1404734" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.1404734,0.1404734" />
+          <FuelTank capacity="3.49282384" fuel="3.49282384" />
+        </Part>
+        <Part id="529" partType="Fuselage1" position="-0.1340003,0.749035,0.6490588" rotation="2.711385E-05,126.46,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.006538226,0,0,0,0,0" area="0.01697808,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.5882897,0.5882897" offset="1.416734E-07,0.06383405,2.18574E-07" topScale="0.4752396,0.4752396" />
+          <FuelTank capacity="62.6132927" fuel="62.6132927" />
+        </Part>
+        <Part id="530" partType="Fuselage1" position="-0.1340003,0.783556,0.6490593" rotation="3.057266E-05,126.46,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01472765,0,0,0,0.02662003,0.02679959" area="0.0203737,0,0,0,0.04578824,0.04578824" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.647104,0.647104" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.5882897,0.5882897" />
+          <FuelTank capacity="67.58764" fuel="67.58764" />
+        </Part>
+        <Part id="531" partType="Fuselage1" position="-0.1339998,0.814292,0.6490583" rotation="3.057266E-05,126.46,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6934552,0.6934552" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.647104,0.647104" />
+          <FuelTank capacity="79.5561142" fuel="79.5561142" />
+        </Part>
+        <Part id="532" partType="Fuselage1" position="-0.1339998,0.84503,0.6490583" rotation="3.057266E-05,126.46,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01901545,0,0,0,0,0" area="0.02716493,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.7137908,0.7137908" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.6934552,0.6934552" />
+          <FuelTank capacity="87.6392746" fuel="87.6392746" />
+        </Part>
+        <Part id="533" partType="Fuselage1" position="-0.1339998,0.8757659,0.6490588" rotation="-7.710513E-05,126.46,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03667548,0.03640614" area="0,0,0,0,0.04578824,0.04578824" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.7313648,0.7313648" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.7137908,0.7137908" />
+          <FuelTank capacity="92.4228" fuel="92.4228" />
+        </Part>
+        <Part id="534" partType="Fuselage1" position="-0.1340003,0.9065019,0.6490593" rotation="-3.782675E-05,126.4602,180.0001" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0202938,0,0,0,0,0" area="0.02716493,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.7313648,0.7313648" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.7313648,0.7313648" />
+          <FuelTank capacity="94.67964" fuel="94.67964" />
+        </Part>
+        <Part id="535" partType="Fuselage1" position="-0.1340003,0.937237,0.6490588" rotation="-9.619599E-05,126.4602,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0.01297333,0,0,0" area="0,0,0.02289412,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.7175187,0.7175187" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.7313648,0.7313648" />
+          <FuelTank capacity="92.89849" fuel="92.89849" />
+        </Part>
+        <Part id="536" partType="Fuselage1" position="-0.1340003,0.967972,0.6490593" rotation="-9.619599E-05,126.4602,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01870918,0.005073451,0,0,0,0" area="0.02716493,0.01018685,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6926897,0.6926897" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.7175187,0.7175187" />
+          <FuelTank capacity="88.01161" fuel="88.01161" />
+        </Part>
+        <Part id="537" partType="Fuselage1" position="-0.1340003,0.998707,0.6490593" rotation="-3.782675E-05,126.4602,180.0001" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0.01144706,0,0.03303936,0.03317403" area="0,0,0.01144706,0,0.04578824,0.04578824" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6556171,0.6556171" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.6926897,0.6926897" />
+          <FuelTank capacity="80.46656" fuel="80.46656" />
+        </Part>
+        <Part id="538" partType="Fuselage1" position="-0.1339998,1.029439,0.6490583" rotation="-3.782675E-05,126.4602,180.0001" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01556657,0.00448754,0,0,0,0" area="0.0203737,0.006791232,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6099842,0.6099842" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.6556171,0.6556171" />
+          <FuelTank capacity="70.91049" fuel="70.91049" />
+        </Part>
+        <Part id="539" partType="Fuselage1" position="-0.1340003,1.060175,0.6490588" rotation="-9.619599E-05,126.4602,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.5334415,0.5334415" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.6099842,0.6099842" />
+          <FuelTank capacity="57.9418869" fuel="57.9418869" />
+        </Part>
+        <Part id="540" partType="Fuselage1" position="-0.1340003,1.09091,0.6490588" rotation="-9.619599E-05,126.4602,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.008708757,0.001731099,0,0,0.01010035,0.008978087" area="0.01697808,0.003395616,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.4152829,0.4152829" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.5334415,0.5334415" />
+          <FuelTank capacity="40.0357857" fuel="40.0357857" />
+        </Part>
+        <Part id="541" partType="Fuselage1" position="-0.1340003,1.121646,0.6490588" rotation="-9.619599E-05,126.4602,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.5334439,0.5334439" offset="5.159148E-08,0.05122075,5.362164E-08" topScale="0.4152829,0.4152829" />
+          <FuelTank capacity="40.0360031" fuel="40.0360031" />
+        </Part>
+        <Part id="542" partType="Fuselage1" position="-0.1339998,1.163886,0.6490583" rotation="-9.619599E-05,126.4602,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="6,1">
+          <Drag drag="0.01620574,0.002902919,0,0,0,0" area="0.0203737,0.003395616,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.5870483,0.5870483" offset="2.456681E-07,0.08957186,5.176758E-08" topScale="0.5870483,0.5870483" />
+          <FuelTank capacity="106.674805" fuel="106.674805" />
+        </Part>
+        <Part id="543" partType="Fuselage1" position="-0.1340003,1.215615,0.6490593" rotation="-9.619599E-05,126.4602,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="6,1">
+          <Drag drag="0.008988395,0,0,0,0.01544231,0.01557698" area="0.01697808,0,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2664275,0.2664275" offset="-4.538225E-07,0.06213441,1.90561E-07" topScale="0.3736276,0.3736276" />
+          <FuelTank capacity="22.1968575" fuel="22.1968575" />
+        </Part>
+        <Part id="544" partType="Strut1" position="-0.2314177,0.05377465,0.5602641" rotation="90,223.9601,0" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.007945606,0" area="0,0,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2601346,0.2601346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.2601346,0.2601346" />
+        </Part>
+        <Part id="545" partType="Strut1" position="-0.2557001,0.05434972,0.530818" rotation="85.00092,223.9596,9.999583" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.002716493,0,0,0,0,0.003950358" area="0.006791232,0,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2601346,0.2601346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.2601346,0.2601346" />
+        </Part>
+        <Part id="546" partType="Strut1" position="-0.2751389,0.05778772,0.4950762" rotation="85.00072,223.9593,19.99927" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.001358247,0,0,0,0.01467917,0" area="0.003395616,0,0,0,0.02289412,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2601346,0.2601346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.2601346,0.2601346" />
+        </Part>
+        <Part id="547" partType="Strut1" position="-0.2877927,0.06088763,0.4581814" rotation="85.00088,223.9598,29.9998" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0.003289087,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2770862,0.2770862" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.2770862,0.2770862" />
+        </Part>
+        <Part id="548" partType="Strut1" position="-0.2948337,0.06398565,0.417726" rotation="85.38731,161.367,337.5856" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.01063903,0.01732771" area="0,0,0,0,0.01144706,0.02289412" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2601346,0.2601346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.2601346,0.2601346" />
+        </Part>
+        <Part id="549" partType="Strut1" position="-0.2951932,0.06703264,0.3778048" rotation="85.38756,161.3671,347.5856" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0,0.0002130583,0,0,0.006284661,0" area="0,0.003395616,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2601346,0.2601346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.2601346,0.2601346" />
+        </Part>
+        <Part id="550" partType="Strut1" position="-0.2590303,0.07859665,0.2392254" rotation="85.38786,161.3674,357.5861" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.008933197,0.02639558" area="0,0,0,0,0.01144706,0.03434118" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2601346,0.2601346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.016472E-06,0.3752148,-7.388681E-05" topScale="0.2601346,0.2601346" />
+        </Part>
+        <Part id="551" partType="Strut1" position="-0.195322,0.09280664,0.07529402" rotation="85.38794,161.3674,12.58593" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0,0.003329035,0,0,0.007406922,0" area="0,0.006791232,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2601346,0.2601346" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.565635E-07,0.2085517,-2.345868E-05" topScale="0.2601346,0.2601346" />
+        </Part>
+        <Part id="552" partType="Strut1" position="-0.343451,0.08728272,0.264338" rotation="355.3912,163.7908,277.3051" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0.001597937,0.007084187,0,0,0.01387114,0" area="0.003395616,0.01018685,0,0,0.02289412,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.2060757,0.2060757" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.312766E-07,0.08055642,-1.177192E-05" topScale="0.2060757,0.2060757" />
+        </Part>
+        <Part id="553" partType="Strut1" position="-0.3872337,0.09309059,0.2521105" rotation="355.3911,163.7908,277.3052" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.003235823,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="554" partType="Strut1" position="-0.4064803,0.09672862,0.2447872" rotation="358.2235,154.7079,287.5621" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.0008788654,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="555" partType="Strut1" position="-0.4237375,0.1046217,0.2349143" rotation="2.461547,145.6586,297.527" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.002410222,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="556" partType="Strut1" position="-0.4399366,0.1145657,0.2214355" rotation="358.1638,132.1913,292.4532" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.002330325,0.003368984,0,0,0,0" area="0.003395616,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="557" partType="Strut1" position="-0.454505,0.1243916,0.2027493" rotation="1.9904,122.9507,292.4406" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="558" partType="Strut1" position="-0.4681034,0.1338966,0.1793199" rotation="3.480359,118.1723,287.2125" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.001731099,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="559" partType="Strut1" position="-0.5037818,0.1621308,0.09318542" rotation="4.946043,113.3789,286.8601" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.0033823,0.002809706,0,0,0.01979668,0" area="0.01018685,0.006791232,0,0,0.02289412,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.001013E-06,0.2419835,-4.354853E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="560" partType="Strut1" position="-0.5342827,0.1891698,0.01679277" rotation="352.1993,105.453,302.0591" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="561" partType="Strut1" position="-0.5385265,0.1992838,0.006699562" rotation="352.1993,105.453,322.059" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0,0.004567437,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1930003,0.1930003" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1930003,0.1930003" />
+        </Part>
+        <Part id="562" partType="Strut1" position="-0.5421162,0.2121238,0.0003757477" rotation="352.1993,105.453,342.0591" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0,0.002956184,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="563" partType="Strut1" position="-0.5475669,0.2379758,-0.005990982" rotation="349.0329,106.1938,346.9382" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.002490119,0.002530067,0,0,0,0" area="0.003395616,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.427077E-06,0.05037365,-2.261531E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="564" partType="Strut1" position="-0.5611639,0.2996587,-0.009861469" rotation="349.0329,106.1938,355.9881" name="(AM-SAP) YF-100" materials="2,2,2,2,2" mirrored="true" texture="Default">
+          <Drag drag="0.008295957,0.01085266,0,0,0.01068392,0" area="0.01018685,0.01358246,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.35,0.35,0.35" />
+          <Fuselage bottomScale="0.1603065,0.1603065" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.661583E-06,0.1570965,-4.371686E-05" topScale="0.1603065,0.1603065" />
+        </Part>
+        <Part id="565" partType="Fuselage1" position="-0.1339989,-0.3984134,0.6490593" rotation="-7.710513E-05,126.46,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0.02436854,0,0,0,0.02177186,0.02118829" area="0.03395617,0,0,0,0.03434118,0.03434118" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.12214,0.12214" offset="-4.110601E-08,0.05282998,-2.543871E-09" topScale="0.1740532,0.1740532" />
+          <FuelTank capacity="4.045178" fuel="4.045178" />
+        </Part>
+        <Part id="566" partType="NoseCone1" position="-0.1339979,-0.5301297,0.6490593" rotation="-7.710513E-05,126.46,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0207865,0,0,0.02545288,0.02235544,0.02240033" area="0.03395617,0,0,0.03434118,0.03434118,0.03434118" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1661592,0.1661592" offset="3.507609E-09,0.07888183,-5.334544E-08" topScale="0,0" />
+          <FuelTank capacity="2.50869036" />
+        </Part>
+        <Part id="567" partType="Fuselage1" position="-0.1301131,-0.5231664,0.6455741" rotation="1.609954E-05,193.96,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.005725941,0,0,0,0.009786115,0.01001057" area="0.006791232,0,0,0,0.01144706,0.01144706" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.05991477,0.05991477" offset="-5.001214E-08,0.115705,-6.54452E-09" topScale="0.05991477,0.05991477" />
+          <FuelTank capacity="1.43536556" fuel="1.43536556" />
+        </Part>
+        <Part id="568" partType="Fuselage1" position="-0.1301131,-0.6592677,0.645575" rotation="-1.76684E-05,63.96006,6.698621E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004780495,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="569" partType="Fuselage1" position="-0.1266675,-0.6876833,0.643806" rotation="2.860142E-05,27.18822,14.50007" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="570" partType="Fuselage1" position="-0.1162381,-0.7155509,0.6384478" rotation="3.841981E-05,27.18822,27.49106" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003289087,0,0,0,0.009157648,0.004713496" area="0.003395616,0,0,0,0.01144706,0.01144706" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="571" partType="Fuselage1" position="-0.1022716,-0.7377605,0.6312742" rotation="5.720284E-05,27.18821,42.49105" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002250428,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="572" partType="Fuselage1" position="-0.08098412,-0.7593637,0.6203384" rotation="8.708491E-05,27.18822,52.49102" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="573" partType="Fuselage1" position="-0.05634594,-0.7735076,0.6076822" rotation="4.183491E-05,27.18822,67.49113" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003049397,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="574" partType="Fuselage1" position="-0.03134632,-0.7816396,0.5948415" rotation="6.232547E-05,27.18821,82.49112" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002956184,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="575" partType="Fuselage1" position="-0.001238823,-0.7836137,0.5793762" rotation="3.841981E-05,27.18811,92.49109" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="576" partType="Fuselage1" position="0.02778864,-0.7797108,0.5644655" rotation="5.976416E-06,27.18811,102.4911" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0029695,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="577" partType="Fuselage1" position="0.05700016,-0.770927,0.5478363" rotation="358.9198,32.07044,107.4451" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0007989685,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="578" partType="Fuselage1" position="0.08611155,-0.7589788,0.5275459" rotation="357.0165,36.69704,112.2809" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001677834,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="579" partType="Fuselage1" position="0.1128736,-0.7431679,0.5065718" rotation="343.7402,29.59865,118.477" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002743125,0,0,0,0.007317141,0" area="0.003395616,0,0,0,0.01144706,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="580" partType="Fuselage1" position="0.1302333,-0.7270937,0.4913177" rotation="343.7402,29.59863,133.477" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.00614999" area="0,0,0,0,0,0.01144706" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="581" partType="Fuselage1" position="0.2071962,-0.6119788,0.4089899" rotation="343.7402,29.59863,138.4769" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01592611,0.00134493,0,0,0.009965677,0.009965677" area="0.02716493,0.003395616,0,0,0.01144706,0.01144706" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="3.427156E-06,0.3613291,7.357169E-07" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="16.2845955" fuel="16.2845955" />
+        </Part>
+        <Part id="582" partType="Fuselage1" position="0.281775,-0.4970415,0.3263144" rotation="353.805,47.94173,135.744" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.002716493,0,0,0,0,0.004713496" area="0.003395616,0,0,0,0,0.01144706" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="583" partType="Fuselage1" position="0.2955236,-0.4716375,0.3050032" rotation="350.2377,51.48014,135.2525" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00245017,0.002556699,0,0,0,0" area="0.003395616,0.003395616,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="584" partType="Fuselage1" position="0.3095598,-0.4430964,0.2794847" rotation="350.2377,51.48014,135.2525" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00169115,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="585" partType="Fuselage1" position="0.3189669,-0.4182875,0.2608132" rotation="350.2377,51.48012,145.2525" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.00520729" area="0,0,0,0,0,0.01144706" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="586" partType="Fuselage1" position="0.3254113,-0.3899825,0.2432957" rotation="343.423,49.55854,150.4726" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.004367694,0,0,0,0,0" area="0.006791232,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="587" partType="Fuselage1" position="0.3270192,-0.3635867,0.2279963" rotation="339.0899,52.19406,159.6251" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1141999,0.1141999" offset="-1.012746E-08,0.05097008,3.153826E-08" topScale="0.1141999,0.1141999" />
+          <FuelTank capacity="2.29715" fuel="2.29715" />
+        </Part>
+        <Part id="588" partType="Fuselage1" position="0.3132858,-0.3164713,0.2163363" rotation="339.0899,52.19402,179.6251" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage8">
+          <Drag drag="0.002383589,0,0,0,0,0" area="0.003395616,0,0,0,0,0" />
+          <Config massScale="0" fuelLine="true" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1510887,0.1510887" offset="-3.65508E-07,0.1160495,1.211753E-06" topScale="0.1510887,0.1510887" />
+          <FuelTank capacity="9.15482" fuel="9.15482" />
+        </Part>
+        <Part id="589" partType="Fuselage1" position="0.4343357,0.7705619,-0.03803968" rotation="2.483159E-05,277.5,4.385355E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="6,1">
+          <Drag drag="0.03267781,0.01908203,0,0,0,0.02913389" area="0.0407474,0.02376932,0,0,0,0.03434118" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1801509,0.1801509" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.2091018,0.2091018" />
+          <FuelTank capacity="6.562666" fuel="6.562666" />
+        </Part>
+        <Part id="590" partType="Fuselage1" position="0.4343362,0.8706499,-0.03803873" rotation="2.483159E-05,277.5,4.385355E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.02729809,0.02570016,0,0,0,0.02747295" area="0.03395617,0.03056055,0,0,0,0.03434118" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1532463,0.1532463" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.1532463,0.1532463" />
+          <FuelTank capacity="4.06122446" fuel="4.06122446" />
+        </Part>
+        <Part id="591" partType="Fuselage1" position="0.4343357,0.970742,-0.03804064" rotation="2.483159E-05,277.5,4.385355E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="6,1">
+          <Drag drag="0.01604595,0.01596605,0,0,0.009471882,0.029089" area="0.0203737,0.0203737,0,0,0.01144706,0.03434118" />
+          <Config massScale="0" fuelLine="true" />
+          <Fuselage bottomScale="0.1731842,0.1731842" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.1731842,0.1731842" />
+          <FuelTank capacity="5.186729" fuel="5.186729" />
+        </Part>
+        <Part id="592" partType="NoseCone1" position="0.4343352,1.099669,-0.03803921" rotation="2.483159E-05,277.5,4.385355E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.02671218,0.02466149,0,0,0,0.01741749" area="0.03735178,0.03395617,0,0,0,0.03434118" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1739399,0.1739399" offset="3.507609E-09,0.07888183,-5.334544E-08" topScale="0,0" />
+          <FuelTank capacity="2.74913931" />
+        </Part>
+        <Part id="593" partType="Fuselage1" position="0.4364548,1.13217,-0.03602886" rotation="7.527962E-05,195,1.299339E-06" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01147851,0.01384879,0,0,0.007451812,0" area="0.01358246,0.01697808,0,0,0.01144706,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1283423,0.1283423" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.1283423,0.1283423" />
+          <FuelTank capacity="2.84850264" fuel="2.84850264" />
+        </Part>
+        <Part id="594" partType="Fuselage1" position="0.4364557,1.202233,-0.03602934" rotation="8.265049E-05,195,179.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="6,1">
+          <Drag drag="0.01206443,0.01186468,0,0,0,0.02576711" area="0.01697808,0.01697808,0,0,0,0.03434118" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.3496379,0.3496379" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.3496379,0.3496379" />
+          <FuelTank capacity="21.1404381" fuel="21.1404381" />
+        </Part>
+        <Part id="595" partType="Fuselage1" position="0.4364548,1.24227,-0.03602886" rotation="5.789425E-05,195.0001,180" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="6,1">
+          <Drag drag="0.003688572,0.003994843,0,0,0,0" area="0.01018685,0.01018685,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2115949,0.2115949" offset="-4.94541E-08,0.05004197,-7.997787E-09" topScale="0.3052624,0.3052624" />
+          <FuelTank capacity="11.675806" fuel="11.675806" />
+        </Part>
+        <Part id="596" partType="Fuselage1" position="-0.04242945,0.6085759,-0.228291" rotation="299.5068,347.5359,1.28153" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.01462112,0,0,0.03887512,0.02082916" area="0,0.03056055,0,0,0.04578824,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.4718048,0.4718048" offset="1.555309E-06,0.42336,2.314337E-06" topScale="0.4718048,0.4718048" />
+          <FuelTank capacity="325.669525" fuel="325.669525" />
+        </Part>
+        <Part id="597" partType="Fuselage1" position="-0.006899357,0.7139989,-0.4112048" rotation="299.5068,347.5362,1.281426" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.01069286,0,0,0.01153684,0.01584632" area="0,0.01697808,0,0,0.02289412,0.02289412" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.4629668,0.4629668" offset="4.327233E-06,0.1118436,3.285243E-06" topScale="0.3996397,0.3996397" />
+          <FuelTank capacity="72.02756" fuel="72.02756" />
+        </Part>
+        <Part id="598" partType="Fuselage1" position="0.02366018,0.804673,-0.5685306" rotation="299.5068,347.5362,1.281426" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00169115,0.01455454,0,0,0.02837076,0.02895433" area="0.003395616,0.03056055,0,0,0.03434118,0.04578824" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.4161628,0.4161628" offset="2.526214E-06,0.348496,2.412132E-06" topScale="0.4161628,0.4161628" />
+          <FuelTank capacity="208.577225" fuel="208.577225" />
+        </Part>
+        <Part id="599" partType="Fuselage1" position="0.05624342,0.90135,-0.7362728" rotation="299.5068,347.5362,1.281426" name="(AM-SAP) YF-100" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.05338441,0,0.009067867,0.01791128,0.02913389" area="0,0.07470357,0,0.02289412,0.03434118,0.04578824" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.4161628,0.4161628" offset="3.76254E-06,0.142321,1.629814E-06" topScale="0.2444421,0.2444421" />
+          <FuelTank capacity="54.86667" fuel="54.86667" />
+        </Part>
+        <Part id="600" partType="Fuselage1" position="0.1493249,0.7676139,-0.4974322" rotation="330.0345,174.7396,93.93052" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="f4d001e7-04d0-4bc3-badf-d85bc4d6ef08" texture="Default">
+          <Drag drag="0,0.01716451,0,0,0,0" area="0,0.02376932,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2746198,0.2534936" offset="0.01926233,0.3012741,1.97186E-05" topScale="0.2719592,0.2534936" />
+          <FuelTank capacity="72.12612" fuel="72.12612" />
+        </Part>
+        <Part id="601" partType="Fuselage1" position="0.2910314,0.770805,-0.4825568" rotation="330.0345,174.7396,93.93052" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="9df7d964-5639-43bb-ba9f-ef83dd0ae7db" texture="Default">
+          <Drag drag="0,0.001411511,0,0,0,0.01140217" area="0,0.003395616,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="602" partType="Fuselage1" position="0.2903023,0.7714009,-0.4822989" rotation="330.0345,174.7396,123.9306" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="82dd9f31-d78f-4465-bcab-5cd4e1a08699" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="603" partType="Fuselage1" position="0.3071246,0.7597049,-0.4875407" rotation="330.0345,174.7396,138.9305" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="197a4347-df77-45d0-96f4-5ee3fd81f903" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="604" partType="Fuselage1" position="0.3185816,0.7462829,-0.4942565" rotation="330.0345,174.7396,333.9305" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="36dd863e-a70e-41d8-8c38-b00b76ad4b15" texture="Default">
+          <Drag drag="0,0.003102661,0,0,0,0.009741224" area="0,0.003395616,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="605" partType="Fuselage1" position="0.3253946,0.7307309,-0.5026131" rotation="330.0347,174.7397,348.9305" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="179c4dd6-93c1-4fac-8232-4654301e750d" texture="Default">
+          <Drag drag="0,0.002583332,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="606" partType="Fuselage1" position="0.3350611,0.7094379,-0.5140338" rotation="330.0345,174.7395,-4.410159E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="8d98a001-b6de-40db-b4a9-e30ce891e8c1" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0,0.007643466,0,0,0,0.007631374" area="0,0.01358246,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2422341,0.2422341" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.2422341,0.2422341" />
+          <FuelTank capacity="10.834549" fuel="10.834549" />
+        </Part>
+        <Part id="607" partType="Fuselage1" position="0.3370252,0.6723979,-0.5352798" rotation="330.0345,174.7395,-4.410159E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="36820cba-59a2-4bf8-9ead-d47fa6198f1d" texture="Default">
+          <Drag drag="0,0.00262328,0,0,0,0.009965677" area="0,0.003395616,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1491668,0.1491668" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1909813,0.1909813" />
+          <FuelTank capacity="5.36782742" fuel="5.36782742" />
+        </Part>
+        <Part id="608" partType="Fuselage1" position="0.3389893,0.6353539,-0.5565262" rotation="330.0345,174.7395,-4.410159E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="ba025ff2-f193-4d30-ae57-4d337de30c06" texture="Default">
+          <Drag drag="0,0.00279639,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="609" partType="Fuselage1" position="0.3398151,0.611482,-0.5654054" rotation="345.0347,174.7396,-4.717006E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="f5c47216-5d26-4edf-916c-ad98a63737c9" texture="Default">
+          <Drag drag="0,0.005512883,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="610" partType="Fuselage1" position="0.3401651,0.5835229,-0.5691218" rotation="0.03469981,174.7396,-1.781127E-06" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="01505068-d72f-488f-bde2-655fb9474aa0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.01131239" area="0,0,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="611" partType="Fuselage1" position="0.3398528,0.5562058,-0.5656457" rotation="15.03463,174.7396,-5.60257E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="dcbe7b06-719e-427f-8486-b9ff7febadff" texture="Default">
+          <Drag drag="0,0.003169242,0,0,0.01135728,0" area="0,0.003395616,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="612" partType="Fuselage1" position="0.3389401,0.5306419,-0.5556469" rotation="30.03475,174.7396,-2.83532E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="8d9e6af0-81f6-459c-976c-c98f9e022718" texture="Default">
+          <Drag drag="0,0.00169115,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="613" partType="Fuselage1" position="0.3374271,0.508113,-0.5391426" rotation="45.03468,174.7395,-9.302752E-05" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="5fd595ea-d09d-47f1-b7e0-2753483905ce" texture="Default">
+          <Drag drag="0,0.002396906,0,0.004444153,0,0.00619488" area="0,0.003395616,0,0.01144706,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="614" partType="Fuselage1" position="0.3317318,0.4887529,-0.5201778" rotation="45.03481,174.7395,14.99991" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="4d742d5e-1f52-4a28-95ad-c6dcae779283" texture="Default">
+          <Drag drag="0,0.004021475,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="615" partType="Fuselage1" position="0.3202248,0.4712347,-0.503603" rotation="45.03478,174.7395,29.99992" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="5a00c5bc-e35d-4f57-8d2d-56b2f4f17efa" texture="Default">
+          <Drag drag="0,0,0,0,0,0.00839451" area="0,0,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="616" partType="Fuselage1" position="0.3019896,0.4563908,-0.4903331" rotation="45.0347,174.7395,44.9999" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="56d1d368-9933-4fa5-addf-1938e5203164" texture="Default">
+          <Drag drag="0,0.00303608,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="617" partType="Fuselage1" position="0.2794666,0.4451038,-0.4810357" rotation="45.03479,174.7395,59.99986" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="039b1581-bcb6-46c1-badf-0684a3cc95c2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="618" partType="Fuselage1" position="0.2554746,0.4380488,-0.4761267" rotation="45.0348,174.7395,74.99986" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="cb2bd746-acec-498b-9c66-8dbdbf7c8c40" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="619" partType="Fuselage1" position="0.2293415,0.4356439,-0.4760809" rotation="45.03477,174.7395,89.99986" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="2aa52c2a-9db3-474a-8dc7-1f363f566a95" texture="Default">
+          <Drag drag="0,0.005086767,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="1.254475E-05,0.05338145,3.109872E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17513561" fuel="4.17513561" />
+        </Part>
+        <Part id="620" partType="Fuselage1" position="0.09846354,0.4333758,-0.4958262" rotation="89.07339,80.75016,0.0002110797" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="9605bbd8-8abb-4870-b48e-dede27b8c41d" texture="Default">
+          <Drag drag="0,0.01556657,0,0,0,0" area="0,0.0203737,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="5.399097E-05,0.289273,0.0001725691" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="22.6249752" fuel="22.6249752" />
+        </Part>
+        <Part id="621" partType="Fuselage1" position="-0.1188736,0.764601,-0.5512581" rotation="329.9087,163.2891,264.6188" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="f4d001e7-04d0-4bc3-badf-d85bc4d6ef08" mirrored="true" texture="Default">
+          <Drag drag="0,0.01918856,0,0,0.003456563,0" area="0,0.02716493,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2746198,0.2534936" offset="-0.01926233,0.3012741,1.97186E-05" topScale="0.2719592,0.2534936" />
+          <FuelTank capacity="72.12612" fuel="72.12612" />
+        </Part>
+        <Part id="622" partType="Fuselage1" position="-0.2553811,0.764666,-0.5922203" rotation="329.9087,163.2892,264.6187" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="9df7d964-5639-43bb-ba9f-ef83dd0ae7db" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="623" partType="Fuselage1" position="-0.2548199,0.7652739,-0.5917034" rotation="329.9087,163.289,234.6189" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="82dd9f31-d78f-4465-bcab-5cd4e1a08699" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="624" partType="Fuselage1" position="-0.2680607,0.7532409,-0.6029792" rotation="329.9087,163.2892,219.6187" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="197a4347-df77-45d0-96f4-5ee3fd81f903" mirrored="true" texture="Default">
+          <Drag drag="0,0.00279639,0,0,0.009696334,0" area="0,0.003395616,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="625" partType="Fuselage1" position="-0.2757468,0.739604,-0.6135383" rotation="329.9087,163.2892,24.61878" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="36dd863e-a70e-41d8-8c38-b00b76ad4b15" mirrored="true" texture="Default">
+          <Drag drag="0,0.003701888,0,0,0.006868236,0" area="0,0.006791232,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="626" partType="Fuselage1" position="-0.2784715,0.7239469,-0.6238089" rotation="329.9087,163.2892,9.618756" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="179c4dd6-93c1-4fac-8232-4654301e750d" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2191492,0.2191492" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.2191492,0.2191492" />
+          <FuelTank capacity="8.867887" fuel="8.867887" />
+        </Part>
+        <Part id="627" partType="Fuselage1" position="-0.2825208,0.7024999,-0.6379809" rotation="329.9087,163.2891,358.5493" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="8d98a001-b6de-40db-b4a9-e30ce891e8c1" mirrored="true" texture="Fuselage9" textureTiling="7,1">
+          <Drag drag="0,0.007829892,0,0,0.005656195,0" area="0,0.01018685,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.2422341,0.2422341" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.2422341,0.2422341" />
+          <FuelTank capacity="10.834549" fuel="10.834549" />
+        </Part>
+        <Part id="628" partType="Fuselage1" position="-0.2753344,0.6655169,-0.6581793" rotation="329.9087,163.2891,358.5493" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="36820cba-59a2-4bf8-9ead-d47fa6198f1d" mirrored="true" texture="Default">
+          <Drag drag="0,0.007297246,0,0,0.009651444,0" area="0,0.01018685,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1491668,0.1491668" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1909813,0.1909813" />
+          <FuelTank capacity="5.36782742" fuel="5.36782742" />
+        </Part>
+        <Part id="629" partType="Fuselage1" position="-0.2681494,0.6285349,-0.6783786" rotation="329.9087,163.2893,358.5492" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="ba025ff2-f193-4d30-ae57-4d337de30c06" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="630" partType="Fuselage1" position="-0.2649684,0.6046849,-0.6867862" rotation="344.9045,162.9002,358.7" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="f5c47216-5d26-4edf-916c-ad98a63737c9" mirrored="true" texture="Default">
+          <Drag drag="0,0.005526199,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="631" partType="Fuselage1" position="-0.2632542,0.5767429,-0.690228" rotation="359.9008,162.5639,358.7449" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="01505068-d72f-488f-bde2-655fb9474aa0" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0.01059414" area="0,0,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="632" partType="Fuselage1" position="-0.2637172,0.5494218,-0.6867838" rotation="14.8971,162.2277,358.7012" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="dcbe7b06-719e-427f-8486-b9ff7febadff" mirrored="true" texture="Default">
+          <Drag drag="0,0.001704466,0,0,0.01059414,0" area="0,0.006791232,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="633" partType="Fuselage1" position="-0.2661815,0.5238448,-0.6770949" rotation="29.89291,161.84,358.5521" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="8d9e6af0-81f6-459c-976c-c98f9e022718" mirrored="true" texture="Default">
+          <Drag drag="0,0.004926973,0,0,0,0" area="0,0.006791232,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="634" partType="Fuselage1" position="-0.2706685,0.5012799,-0.6611872" rotation="44.88721,161.3111,358.2282" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="5fd595ea-d09d-47f1-b7e0-2753483905ce" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0.009112759" area="0,0,0,0,0,0.01144706" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="635" partType="Fuselage1" position="-0.2723112,0.4819668,-0.6414094" rotation="44.88722,161.3111,343.2284" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="4d742d5e-1f52-4a28-95ad-c6dcae779283" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.009202539,0" area="0,0,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="636" partType="Fuselage1" position="-0.2677164,0.4646308,-0.6216006" rotation="44.8872,161.3111,328.2284" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="5a00c5bc-e35d-4f57-8d2d-56b2f4f17efa" mirrored="true" texture="Default">
+          <Drag drag="0,0.002503435,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="637" partType="Fuselage1" position="-0.2556963,0.4501259,-0.6022601" rotation="44.8872,161.3111,313.2284" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="56d1d368-9933-4fa5-addf-1938e5203164" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0.00839451,0" area="0,0,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="638" partType="Fuselage1" position="-0.2382665,0.4392857,-0.5849447" rotation="44.8872,161.3112,298.2283" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="039b1581-bcb6-46c1-badf-0684a3cc95c2" mirrored="true" texture="Default">
+          <Drag drag="0,0.00203737,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="639" partType="Fuselage1" position="-0.2178802,0.4327287,-0.5711284" rotation="44.8872,161.3111,283.2282" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="cb2bd746-acec-498b-9c66-8dbdbf7c8c40" mirrored="true" texture="Default">
+          <Drag drag="0,0.001664518,0,0,0,0" area="0,0.003395616,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-9.813734E-06,0.05343154,2.045024E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17905331" fuel="4.17905331" />
+        </Part>
+        <Part id="640" partType="Fuselage1" position="-0.1937437,0.4308898,-0.5609932" rotation="44.88722,161.3111,268.2283" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="2aa52c2a-9db3-474a-8dc7-1f363f566a95" mirrored="true" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-1.254475E-05,0.05338145,3.109872E-05" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="4.17513561" fuel="4.17513561" />
+        </Part>
+        <Part id="641" partType="Fuselage1" position="-0.06536293,0.4315369,-0.5287051" rotation="89.67136,84.45451,187.9014" name="(AM-SAP) YF-100" materials="2,2,2,2,2" symmetryId="9605bbd8-8abb-4870-b48e-dede27b8c41d" mirrored="true" texture="Default">
+          <Drag drag="0,0.01735093,0,0,0.002334303,0" area="0,0.02716493,0,0,0.01144706,0" />
+          <Config massScale="0" partScale="0.4,0.4,0.4" />
+          <Fuselage bottomScale="0.1504419,0.1504419" offset="-5.399097E-05,0.289273,0.0001725691" topScale="0.1504419,0.1504419" />
+          <FuelTank capacity="22.6249752" fuel="22.6249752" />
+        </Part>
+      </Parts>
+      <Connections>
+        <Connection partA="425" partB="426" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="427" partB="426" attachPointsA="0" attachPointsB="1" />
+        <Connection partA="428" partB="426" attachPointsA="4" attachPointsB="5" />
+        <Connection partA="490" partB="426" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="596" partB="426" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="429" partB="428" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="430" partB="428" attachPointsA="1" attachPointsB="5" />
+        <Connection partA="431" partB="428" attachPointsA="1" attachPointsB="0" symmetryId="daefb86d-06d0-42c0-afe0-fa98ee07c043" />
+        <Connection partA="458" partB="428" attachPointsA="1" attachPointsB="0" symmetryId="daefb86d-06d0-42c0-afe0-fa98ee07c043" />
+        <Connection partA="485" partB="428" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="432" partB="431" attachPointsA="1" attachPointsB="2" symmetryId="8ad6fe35-cda8-4557-ba26-824d6aa449e5" />
+        <Connection partA="433" partB="432" attachPointsA="1" attachPointsB="2" symmetryId="4c8277bf-c201-4afc-ad9d-bd4fbef8b59f" />
+        <Connection partA="434" partB="433" attachPointsA="1" attachPointsB="2" symmetryId="dd040ebd-0c67-48e0-bcbe-be22fdcdb308" />
+        <Connection partA="435" partB="434" attachPointsA="1" attachPointsB="2" symmetryId="10786ed9-bbf8-4de3-842b-85923055fd89" />
+        <Connection partA="436" partB="435" attachPointsA="1" attachPointsB="2" symmetryId="4f1dab30-0b8d-414e-a48c-881a44aed97a" />
+        <Connection partA="437" partB="436" attachPointsA="1" attachPointsB="2" symmetryId="eb1dccd4-7f5e-411c-96a6-ec1aba27b5ad" />
+        <Connection partA="438" partB="437" attachPointsA="1" attachPointsB="2" symmetryId="54ab896d-6fed-41a3-a01b-03207e30aeff" />
+        <Connection partA="439" partB="438" attachPointsA="1" attachPointsB="2" symmetryId="29723082-cee2-4803-9ae8-76c84d298438" />
+        <Connection partA="440" partB="439" attachPointsA="1" attachPointsB="2" symmetryId="ac184f42-460c-4c2a-b677-fb2f3f00c56d" />
+        <Connection partA="441" partB="440" attachPointsA="1" attachPointsB="2" symmetryId="ee911cb2-5061-4859-8b15-9c5f02e8ccb9" />
+        <Connection partA="442" partB="441" attachPointsA="1" attachPointsB="2" symmetryId="2639b888-9178-4532-88f0-f2222e63500d" />
+        <Connection partA="443" partB="442" attachPointsA="1" attachPointsB="2" symmetryId="1afbd795-06f8-456a-a724-495d68835ed2" />
+        <Connection partA="444" partB="443" attachPointsA="1" attachPointsB="2" symmetryId="26514132-2ab1-489b-8b5f-9db79f6c7769" />
+        <Connection partA="445" partB="444" attachPointsA="1" attachPointsB="2" symmetryId="cd922a85-6f42-4a18-9cdd-e0b7a8326043" />
+        <Connection partA="446" partB="445" attachPointsA="1" attachPointsB="2" symmetryId="66d7ebea-6eb1-4c70-b203-ae23c19b3305" />
+        <Connection partA="447" partB="446" attachPointsA="1" attachPointsB="2" symmetryId="be3645da-a353-420b-b046-e38846e48852" />
+        <Connection partA="448" partB="447" attachPointsA="1" attachPointsB="2" symmetryId="3a7c5f5e-cde2-4e10-98d1-e17ea91f701b" />
+        <Connection partA="449" partB="448" attachPointsA="1" attachPointsB="2" symmetryId="c3ebbf6f-be0e-4d5c-a08b-3ccdaa782d93" />
+        <Connection partA="450" partB="449" attachPointsA="1" attachPointsB="2" symmetryId="be6a7bd6-81dc-4e71-b819-90822f1951cc" />
+        <Connection partA="451" partB="450" attachPointsA="1" attachPointsB="2" symmetryId="97eeea7a-4868-4477-9ae3-9be567460f2e" />
+        <Connection partA="452" partB="451" attachPointsA="1" attachPointsB="2" symmetryId="d05505af-a978-49e6-b5f6-05b3001fd9a4" />
+        <Connection partA="453" partB="452" attachPointsA="1" attachPointsB="2" symmetryId="aae86a11-4cc6-4cc4-9f46-5c06df334b9a" />
+        <Connection partA="454" partB="453" attachPointsA="1" attachPointsB="2" symmetryId="16045a2e-45d8-4a0d-9f2f-3bb2f4b72c93" />
+        <Connection partA="455" partB="454" attachPointsA="1" attachPointsB="2" symmetryId="ee3d2115-76d8-424f-a9d5-283d527f5892" />
+        <Connection partA="456" partB="455" attachPointsA="1" attachPointsB="2" symmetryId="07ed705f-44c0-4b8f-9607-d46df68cd40f" />
+        <Connection partA="457" partB="456" attachPointsA="1" attachPointsB="2" symmetryId="a317f6b3-5e1b-413c-873e-a48d20b6b266" />
+        <Connection partA="459" partB="458" attachPointsA="1" attachPointsB="2" symmetryId="8ad6fe35-cda8-4557-ba26-824d6aa449e5" />
+        <Connection partA="460" partB="459" attachPointsA="1" attachPointsB="2" symmetryId="4c8277bf-c201-4afc-ad9d-bd4fbef8b59f" />
+        <Connection partA="461" partB="460" attachPointsA="1" attachPointsB="2" symmetryId="dd040ebd-0c67-48e0-bcbe-be22fdcdb308" />
+        <Connection partA="462" partB="461" attachPointsA="1" attachPointsB="2" symmetryId="10786ed9-bbf8-4de3-842b-85923055fd89" />
+        <Connection partA="463" partB="462" attachPointsA="1" attachPointsB="2" symmetryId="4f1dab30-0b8d-414e-a48c-881a44aed97a" />
+        <Connection partA="464" partB="463" attachPointsA="1" attachPointsB="2" symmetryId="eb1dccd4-7f5e-411c-96a6-ec1aba27b5ad" />
+        <Connection partA="465" partB="464" attachPointsA="1" attachPointsB="2" symmetryId="54ab896d-6fed-41a3-a01b-03207e30aeff" />
+        <Connection partA="466" partB="465" attachPointsA="1" attachPointsB="2" symmetryId="29723082-cee2-4803-9ae8-76c84d298438" />
+        <Connection partA="467" partB="466" attachPointsA="1" attachPointsB="2" symmetryId="ac184f42-460c-4c2a-b677-fb2f3f00c56d" />
+        <Connection partA="468" partB="467" attachPointsA="1" attachPointsB="2" symmetryId="ee911cb2-5061-4859-8b15-9c5f02e8ccb9" />
+        <Connection partA="469" partB="468" attachPointsA="1" attachPointsB="2" symmetryId="2639b888-9178-4532-88f0-f2222e63500d" />
+        <Connection partA="470" partB="469" attachPointsA="1" attachPointsB="2" symmetryId="1afbd795-06f8-456a-a724-495d68835ed2" />
+        <Connection partA="471" partB="470" attachPointsA="1" attachPointsB="2" symmetryId="26514132-2ab1-489b-8b5f-9db79f6c7769" />
+        <Connection partA="472" partB="471" attachPointsA="1" attachPointsB="2" symmetryId="cd922a85-6f42-4a18-9cdd-e0b7a8326043" />
+        <Connection partA="473" partB="472" attachPointsA="1" attachPointsB="2" symmetryId="66d7ebea-6eb1-4c70-b203-ae23c19b3305" />
+        <Connection partA="474" partB="473" attachPointsA="1" attachPointsB="2" symmetryId="be3645da-a353-420b-b046-e38846e48852" />
+        <Connection partA="475" partB="474" attachPointsA="1" attachPointsB="2" symmetryId="3a7c5f5e-cde2-4e10-98d1-e17ea91f701b" />
+        <Connection partA="476" partB="475" attachPointsA="1" attachPointsB="2" symmetryId="c3ebbf6f-be0e-4d5c-a08b-3ccdaa782d93" />
+        <Connection partA="477" partB="476" attachPointsA="1" attachPointsB="2" symmetryId="be6a7bd6-81dc-4e71-b819-90822f1951cc" />
+        <Connection partA="478" partB="477" attachPointsA="1" attachPointsB="2" symmetryId="97eeea7a-4868-4477-9ae3-9be567460f2e" />
+        <Connection partA="479" partB="478" attachPointsA="1" attachPointsB="2" symmetryId="d05505af-a978-49e6-b5f6-05b3001fd9a4" />
+        <Connection partA="480" partB="479" attachPointsA="1" attachPointsB="2" symmetryId="aae86a11-4cc6-4cc4-9f46-5c06df334b9a" />
+        <Connection partA="481" partB="480" attachPointsA="1" attachPointsB="2" symmetryId="16045a2e-45d8-4a0d-9f2f-3bb2f4b72c93" />
+        <Connection partA="482" partB="481" attachPointsA="1" attachPointsB="2" symmetryId="ee3d2115-76d8-424f-a9d5-283d527f5892" />
+        <Connection partA="483" partB="482" attachPointsA="1" attachPointsB="2" symmetryId="07ed705f-44c0-4b8f-9607-d46df68cd40f" />
+        <Connection partA="484" partB="483" attachPointsA="1" attachPointsB="2" symmetryId="a317f6b3-5e1b-413c-873e-a48d20b6b266" />
+        <Connection partA="486" partB="485" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="487" partB="486" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="488" partB="487" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="489" partB="488" attachPointsA="0" attachPointsB="5" />
+        <Connection partA="491" partB="490" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="589" partB="490" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="492" partB="491" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="493" partB="492" attachPointsA="1,2" attachPointsB="1,5" />
+        <Connection partA="495" partB="492" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="494" partB="493" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="494" partB="495" attachPointsA="2,4" attachPointsB="2,4" />
+        <Connection partA="497" partB="494" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="496" partB="495" attachPointsA="1,3,5" attachPointsB="1,0,5" />
+        <Connection partA="498" partB="497" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="499" partB="498" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="500" partB="499" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="501" partB="500" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="502" partB="501" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="503" partB="502" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="504" partB="503" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="505" partB="504" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="506" partB="505" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="507" partB="506" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="508" partB="507" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="509" partB="508" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="510" partB="509" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="511" partB="510" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="588" partB="510" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="512" partB="511" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="513" partB="512" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="514" partB="513" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="515" partB="514" attachPointsA="2,3" attachPointsB="1,0" />
+        <Connection partA="516" partB="515" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="517" partB="516" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="518" partB="517" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="519" partB="518" attachPointsA="3" attachPointsB="1" />
+        <Connection partA="520" partB="519" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="565" partB="519" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="521" partB="520" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="522" partB="521" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="544" partB="521" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="523" partB="522" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="524" partB="523" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="525" partB="524" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="526" partB="525" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="527" partB="526" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="528" partB="527" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="529" partB="528" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="530" partB="529" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="531" partB="530" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="532" partB="531" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="533" partB="532" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="534" partB="533" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="535" partB="534" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="536" partB="535" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="537" partB="536" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="538" partB="537" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="539" partB="538" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="540" partB="539" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="541" partB="540" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="542" partB="541" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="543" partB="542" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="545" partB="544" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="546" partB="545" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="547" partB="546" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="548" partB="547" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="549" partB="548" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="550" partB="549" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="551" partB="550" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="552" partB="550" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="553" partB="552" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="554" partB="553" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="555" partB="554" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="556" partB="555" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="557" partB="556" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="558" partB="557" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="559" partB="558" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="560" partB="559" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="561" partB="560" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="562" partB="561" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="563" partB="562" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="564" partB="563" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="566" partB="565" attachPointsA="1,2" attachPointsB="2,4" />
+        <Connection partA="567" partB="565" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="568" partB="567" attachPointsA="2,3,4" attachPointsB="2,0,4" />
+        <Connection partA="569" partB="568" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="570" partB="569" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="571" partB="570" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="572" partB="571" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="573" partB="572" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="574" partB="573" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="575" partB="574" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="576" partB="575" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="577" partB="576" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="578" partB="577" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="579" partB="578" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="580" partB="579" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="581" partB="580" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="582" partB="581" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="583" partB="582" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="584" partB="583" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="585" partB="584" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="586" partB="585" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="587" partB="586" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="588" partB="587" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="590" partB="589" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="591" partB="590" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="593" partB="590" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="592" partB="591" attachPointsA="1,2" attachPointsB="2,4" />
+        <Connection partA="594" partB="593" attachPointsA="2,3,4" attachPointsB="2,0,4" />
+        <Connection partA="595" partB="594" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="597" partB="596" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="598" partB="597" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="599" partB="598" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="600" partB="598" attachPointsA="3" attachPointsB="0" symmetryId="0f399f9f-e292-42d8-97de-ff00e06b701d" />
+        <Connection partA="621" partB="598" attachPointsA="3" attachPointsB="0" symmetryId="0f399f9f-e292-42d8-97de-ff00e06b701d" />
+        <Connection partA="601" partB="600" attachPointsA="1,5" attachPointsB="2,4" symmetryId="fe1114da-cda2-4162-a26d-6cebcf1bddc0" />
+        <Connection partA="602" partB="601" attachPointsA="1,3,5" attachPointsB="2,0,4" symmetryId="7f1a7d19-9696-4e09-badf-48624e18fd66" />
+        <Connection partA="604" partB="601" attachPointsA="3" attachPointsB="0" symmetryId="8fb2bda7-df7e-4aa8-af72-049b12b4a4e1" />
+        <Connection partA="603" partB="602" attachPointsA="1,3,5" attachPointsB="2,0,4" symmetryId="5d9d124e-460e-4e12-8c70-439549b71d4b" />
+        <Connection partA="604" partB="603" attachPointsA="2,4" attachPointsB="2,4" symmetryId="9c3db372-60e3-422d-8507-3aacd5d10555" />
+        <Connection partA="605" partB="604" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="ca1fceef-ba7f-46f9-8e87-f469e99c63f3" />
+        <Connection partA="606" partB="605" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="a75dd440-0e4e-4677-b95e-c0feffb66afc" />
+        <Connection partA="607" partB="606" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="7f786a7d-a932-491d-a888-3589eb290214" />
+        <Connection partA="608" partB="607" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="978d34bd-006c-4405-a5bb-5d3911d4c6bf" />
+        <Connection partA="609" partB="608" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="841d7085-bfc3-45a9-b60c-6a16be290e49" />
+        <Connection partA="610" partB="609" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="8392bbfc-4b5a-468f-8e9b-5cb10bbc162f" />
+        <Connection partA="611" partB="610" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="249ff7f6-939d-4ddf-a673-acac95f4729d" />
+        <Connection partA="612" partB="611" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="ede477ef-4964-4926-99a1-74b50472caec" />
+        <Connection partA="613" partB="612" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="a9445148-be5b-463c-8f28-0cedd570dfa8" />
+        <Connection partA="614" partB="613" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="ace9ffc3-369f-4dbc-b836-bba8357dea0d" />
+        <Connection partA="615" partB="614" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="18128402-3cd5-4404-93c9-64472c59ba69" />
+        <Connection partA="616" partB="615" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="b392ee05-6e3d-42b1-b020-42991c4f7cf2" />
+        <Connection partA="617" partB="616" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="8ea4413e-9f01-44ba-968e-179e9a408ebf" />
+        <Connection partA="618" partB="617" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="b2be0ccc-cebb-465d-999b-8cee93412010" />
+        <Connection partA="619" partB="618" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="d0d50e4d-8fcc-4768-b013-1323d6fff99f" />
+        <Connection partA="620" partB="619" attachPointsA="2,3,4" attachPointsB="1,0,5" symmetryId="f30a2d0f-45ca-4445-a2f9-b70f632f111f" />
+        <Connection partA="622" partB="621" attachPointsA="1" attachPointsB="2" symmetryId="fe1114da-cda2-4162-a26d-6cebcf1bddc0" />
+        <Connection partA="623" partB="622" attachPointsA="1" attachPointsB="2" symmetryId="7f1a7d19-9696-4e09-badf-48624e18fd66" />
+        <Connection partA="625" partB="622" attachPointsA="3" attachPointsB="0" symmetryId="8fb2bda7-df7e-4aa8-af72-049b12b4a4e1" />
+        <Connection partA="624" partB="623" attachPointsA="1" attachPointsB="2" symmetryId="5d9d124e-460e-4e12-8c70-439549b71d4b" />
+        <Connection partA="625" partB="624" attachPointsA="2" attachPointsB="2" symmetryId="9c3db372-60e3-422d-8507-3aacd5d10555" />
+        <Connection partA="626" partB="625" attachPointsA="2" attachPointsB="1" symmetryId="ca1fceef-ba7f-46f9-8e87-f469e99c63f3" />
+        <Connection partA="627" partB="626" attachPointsA="2" attachPointsB="1" symmetryId="a75dd440-0e4e-4677-b95e-c0feffb66afc" />
+        <Connection partA="628" partB="627" attachPointsA="2" attachPointsB="1" symmetryId="7f786a7d-a932-491d-a888-3589eb290214" />
+        <Connection partA="629" partB="628" attachPointsA="2" attachPointsB="1" symmetryId="978d34bd-006c-4405-a5bb-5d3911d4c6bf" />
+        <Connection partA="630" partB="629" attachPointsA="2" attachPointsB="1" symmetryId="841d7085-bfc3-45a9-b60c-6a16be290e49" />
+        <Connection partA="631" partB="630" attachPointsA="2" attachPointsB="1" symmetryId="8392bbfc-4b5a-468f-8e9b-5cb10bbc162f" />
+        <Connection partA="632" partB="631" attachPointsA="2" attachPointsB="1" symmetryId="249ff7f6-939d-4ddf-a673-acac95f4729d" />
+        <Connection partA="633" partB="632" attachPointsA="2" attachPointsB="1" symmetryId="ede477ef-4964-4926-99a1-74b50472caec" />
+        <Connection partA="634" partB="633" attachPointsA="2" attachPointsB="1" symmetryId="a9445148-be5b-463c-8f28-0cedd570dfa8" />
+        <Connection partA="635" partB="634" attachPointsA="2" attachPointsB="1" symmetryId="ace9ffc3-369f-4dbc-b836-bba8357dea0d" />
+        <Connection partA="636" partB="635" attachPointsA="2" attachPointsB="1" symmetryId="18128402-3cd5-4404-93c9-64472c59ba69" />
+        <Connection partA="637" partB="636" attachPointsA="2" attachPointsB="1" symmetryId="b392ee05-6e3d-42b1-b020-42991c4f7cf2" />
+        <Connection partA="638" partB="637" attachPointsA="2" attachPointsB="1" symmetryId="8ea4413e-9f01-44ba-968e-179e9a408ebf" />
+        <Connection partA="639" partB="638" attachPointsA="2" attachPointsB="1" symmetryId="b2be0ccc-cebb-465d-999b-8cee93412010" />
+        <Connection partA="640" partB="639" attachPointsA="2" attachPointsB="1" symmetryId="d0d50e4d-8fcc-4768-b013-1323d6fff99f" />
+        <Connection partA="641" partB="640" attachPointsA="2" attachPointsB="1" symmetryId="f30a2d0f-45ca-4445-a2f9-b70f632f111f" />
+      </Connections>
+      <Collisions />
+      <Bodies />
+    </Assembly>
+  </DesignerPart>
+</DesignerParts>

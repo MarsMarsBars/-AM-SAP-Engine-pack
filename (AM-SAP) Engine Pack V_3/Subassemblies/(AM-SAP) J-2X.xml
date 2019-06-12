@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DesignerParts>
+  <DesignerPart name="(AM-SAP) J-2X" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: Vac=1,318kn, Isp: Vac=448s" order="1000">
+    <Assembly xmlVersion="8">
+      <Parts>
+        <Part id="1211" partType="Fuselage1" position="-0.1185994,1.6629,0.05197716" rotation="-2.390566E-05,180,9.906052E-13" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.09882212,0.006721132,0,0,0.1178362,0.1407806" area="0.1252156,0.03912987,0,0,0.1868526,0.2102092" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1866704,0.1866704" offset="4.32084E-15,0.2894132,5.020775E-08" topScale="0.1866704,0.1866704" />
+          <FuelTank capacity="34.8507156" fuel="34.8507156" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1212" partType="Fuselage1" position="-0.1186008,0.6845963,0.05197883" rotation="-2.390566E-05,180,9.906052E-13" name="(AM-SAP) J-2X" materials="6,0,0,0,4" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1781852,0.1781852" offset="1.122208E-14,0.6888129,4.625292E-08" topScale="0.1781852,0.1781852" />
+          <FuelTank capacity="75.57656" fuel="75.57656" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1213" partType="Fuselage1" position="-0.1186023,0.06706595,0.0519793" rotation="-1.366038E-05,180,5.634907E-05" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Fuselage4" textureTiling="20,5" textureOffset="0,0.35">
+          <Drag drag="0.344527,0.4118918,0,1.354682,0.658335,0.6435426" area="0.547818,0.6182517,0,1.354682,0.8992277,0.8758711" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.7202877,0.7202877" offset="-2.329297E-20,0.8271033,-5.684307E-14" topScale="0.1967016,0.1967016" />
+          <FuelTank capacity="666.154236" fuel="666.154236" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1214" partType="Fuselage1" position="-0.1162014,-0.6367667,0.9031787" rotation="19.445,180.0001,270.0001" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.115272,0,0.008472484,0,0,0.01167829" area="0.1408675,0,0.01167829,0,0,0.01167829" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2256594,0.2256594" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.2256594,0.2256594" />
+          <FuelTank capacity="31.078043" fuel="31.078043" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1215" partType="Fuselage1" position="-0.3462358,-0.6378019,0.8465316" rotation="3.331329,160.675,268.4511" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.09737968,0,0.03485168,0.008289294,0.01465511,0" area="0.1330415,0,0.04671315,0.01167829,0.04671315,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2256594,0.2256594" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.2042498,0.2042498" />
+          <FuelTank capacity="28.2227383" fuel="28.2227383" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1216" partType="Fuselage1" position="-0.5833182,-0.6500475,0.714596" rotation="2.428899,139.3742,267.2078" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.04272061,0,0.04066793,0.01282322,0.04950678,0" area="0.08608571,0,0.04671315,0.02335658,0.09342629,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2035203,0.2035203" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.177556,0.177556" />
+          <FuelTank capacity="22.1912727" fuel="22.1912727" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1217" partType="Fuselage1" position="-0.7778606,-0.665386,0.5339029" rotation="1.772848,126.9807,266.7515" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.03296116,0,0.042683,0,0.05591839,0" area="0.07825974,0,0.05839144,0,0.09342629,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1768382,0.1768382" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1648599,0.1648599" />
+          <FuelTank capacity="17.8217278" fuel="17.8217278" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1218" partType="Fuselage1" position="-0.892355,-0.6795094,0.3092499" rotation="1.316597,104.8983,266.3232" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.001534505,0.002025547,0.03846966,0,0.08971673,0" area="0.007825974,0.007825974,0.04671315,0,0.1167829,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.166287,0.166287" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.14274,0.14274" />
+          <FuelTank capacity="14.5988741" fuel="14.5988741" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1219" partType="Fuselage1" position="-0.9162822,-0.6996701,0.01090956" rotation="359.9807,84.9412,266.095" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.002240377,0.01547946,0,0.06755088,0" area="0,0.01565195,0.02335658,0,0.09342629,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1440822,0.1440822" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1257884,0.1257884" />
+          <FuelTank capacity="11.1291676" fuel="11.1291676" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1220" partType="Fuselage1" position="-0.8399253,-0.7201059,-0.2831285" rotation="358.6472,64.98375,266.3365" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.01040394,0.03256182,0,0.05225462,0" area="0,0.0313039,0.04671315,0,0.08174801,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1242578,0.1242578" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1217792,0.1217792" />
+          <FuelTank capacity="9.236392" fuel="9.236392" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1221" partType="Fuselage1" position="-0.6661162,-0.7381656,-0.5341034" rotation="357.4763,45.00604,87.01897" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.03876159,0.01896004,0,0.03439371,0" area="0,0.07043377,0.02335658,0,0.05839144,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1012372,0.1012372" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1189207,0.1189207" />
+          <FuelTank capacity="7.411196" fuel="7.411196" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1222" partType="Fuselage1" position="-0.410171,-0.7501943,-0.6896043" rotation="356.405,18.23836,88.47422" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.05284835,0.02894384,0,0.006091029,0" area="0,0.08608571,0.03503487,0,0.02335658,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1010933,0.1010933" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1010933,0.1010933" />
+          <FuelTank capacity="6.237227" fuel="6.237227" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1223" partType="Fuselage1" position="-0.1113997,-0.7579086,-0.7302053" rotation="3.876108,176.4432,271.2396" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.04744689,0,0,0,0.02326498" area="0,0.05478182,0,0,0,0.02335658" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1010933,0.1010933" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1010933,0.1010933" />
+          <FuelTank capacity="6.237227" fuel="6.237227" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1224" partType="Fuselage1" position="0.08705044,-0.7615106,-0.7043841" rotation="4.157818,158.8919,271.1381" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.002823489,0,0,0,0" area="0,0.007825974,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.09731086,0.09731086" offset="0.001635355,0.0609964,1.097092E-06" topScale="0.1010933,0.1010933" />
+          <FuelTank capacity="2.07463145" fuel="2.07463145" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1225" partType="Fuselage1" position="0.1031981,-0.6488869,0.8708792" rotation="356.4596,9.853832,269.0198" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.05852602,0,0.0148383,0.007235959,0,0.02766151" area="0.07825974,0,0.02335658,0.01167829,0,0.04671315" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2176983,0.2176983" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.2042498,0.2042498" />
+          <FuelTank capacity="27.1738968" fuel="27.1738968" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1226" partType="Fuselage1" position="0.3314347,-0.6640723,0.7775249" rotation="356.7979,38.494,268.1447" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.05499665,0,0.01529627,0,0,0.0590784" area="0.09391168,0,0.02335658,0,0,0.1051046" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2002892,0.2002892" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.177556,0.177556" />
+          <FuelTank capacity="21.80913" fuel="21.80913" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1227" partType="Fuselage1" position="0.5047317,-0.6744909,0.5890114" rotation="357.4328,54.49319,267.3344" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.02461346,0,0.02908123,0,0,0.05207143" area="0.05478182,0,0.04671315,0,0,0.08174801" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1768382,0.1768382" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1648599,0.1648599" />
+          <FuelTank capacity="17.8217278" fuel="17.8217278" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1228" partType="Fuselage1" position="0.6281319,-0.6899765,0.3288567" rotation="358.4987,74.47783,266.6177" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003007629,0.00316108,0.0263334,0,0,0.07780945" area="0.02347792,0.01565195,0.03503487,0,0,0.1051046" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.166287,0.166287" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1306531,0.1306531" />
+          <FuelTank capacity="13.517746" fuel="13.517746" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1229" partType="Fuselage1" position="0.6768351,-0.7088945,0.02598095" rotation="0.575337,269.4519,273.6552" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0.01580004,0,0,0.06402449" area="0,0,0.03503487,0,0,0.09342629" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1180636,0.1180636" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1291009,0.1291009" />
+          <FuelTank capacity="9.327121" fuel="9.327121" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1230" partType="Fuselage1" position="0.632309,-0.7269409,-0.2495396" rotation="359.2914,289.411,273.6317" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.008838748,0.01900584,0,0,0.03402733" area="0,0.0313039,0.02335658,0,0,0.04671315" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1012372,0.1012372" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1189207,0.1189207" />
+          <FuelTank capacity="7.411196" fuel="7.411196" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1231" partType="Fuselage1" position="0.496738,-0.7415769,-0.4583359" rotation="357.8236,314.3766,272.9929" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.02783592,0,0,0,0.02734093" area="0,0.0626078,0,0,0,0.04671315" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1010933,0.1010933" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1010933,0.1010933" />
+          <FuelTank capacity="6.237227" fuel="6.237227" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1232" partType="Fuselage1" position="0.2704983,-0.7539108,-0.6178305" rotation="356.9314,334.3781,271.5111" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.04170784,0,0,0,0.008472484" area="0,0.0626078,0,0,0,0.02335658" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1010933,0.1010933" offset="-2.318972E-07,0.1766055,4.075697E-07" topScale="0.1010933,0.1010933" />
+          <FuelTank capacity="6.237227" fuel="6.237227" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1233" partType="Fuselage1" position="-0.06137609,-0.08311486,-0.5583613" rotation="2.684922E-05,352.5002,-6.030637E-05" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Default">
+          <Drag drag="0,0.02786661,0,0,0.03462269,0.00590784" area="0,0.03912987,0,0,0.04671315,0.01167829" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2261324,0.2261324" offset="1.859553E-07,0.05167161,-4.282992E-07" topScale="0.2847242,0.2847242" />
+          <FuelTank capacity="11.7012644" fuel="11.7012644" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1234" partType="Fuselage1" position="-0.06121206,0.04864621,-0.559608" rotation="2.684922E-05,352.5002,-6.030637E-05" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Default">
+          <Drag drag="0,0.05861808,0.01167829,0,0.04025574,0" area="0,0.07043377,0.01167829,0,0.04671315,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2847242,0.2847242" offset="1.434221E-07,0.08007295,-4.842765E-08" topScale="0.2847242,0.2847242" />
+          <FuelTank capacity="22.4324741" fuel="22.4324741" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1235" partType="Fuselage1" position="-0.06121016,0.2088068,-0.5596089" rotation="2.684922E-05,352.5002,-6.030637E-05" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Default">
+          <Drag drag="0,0.05030107,0.01273162,0,0.0524378,0.01854787" area="0,0.07825974,0.02335658,0,0.08174801,0.03503487" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2802233,0.2802233" offset="1.434221E-07,0.08007295,-4.842765E-08" topScale="0.184883,0.184883" />
+          <FuelTank capacity="15.1744709" fuel="15.1744709" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1236" partType="Fuselage1" position="-0.06120968,0.4924397,-0.5596063" rotation="-6.730903E-05,352.5002,-0.0001392678" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Default">
+          <Drag drag="0,0.04916554,0,0,0.02995137,0.07075669" area="0,0.0626078,0,0,0.03503487,0.08174801" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1839253,0.1839253" offset="7.07784E-08,0.203542,2.979954E-07" topScale="0.1494227,0.1494227" />
+          <FuelTank capacity="19.6101284" fuel="19.6101284" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1237" partType="Fuselage1" position="-0.06121159,0.5162425,-0.5596082" rotation="-6.730903E-05,352.5002,-0.0001392678" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Fuselage8">
+          <Drag drag="0,0,0,0,0.02935601,0" area="0,0,0,0,0.03503487,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1690969,0.1690969" offset="1.773369E-07,0.05181354,3.296863E-07" topScale="0.1855061,0.1855061" />
+          <FuelTank capacity="5.63275146" fuel="5.63275146" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1238" partType="Fuselage1" position="-0.06121063,0.5369363,-0.5596101" rotation="-6.730903E-05,352.5002,-0.0001392678" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Default">
+          <Drag drag="0,0.0477231,0,0,0,0" area="0,0.0626078,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.17032,0.17032" offset="1.773369E-07,0.05181354,3.296863E-07" topScale="0.17032,0.17032" />
+          <FuelTank capacity="5.194182" fuel="5.194182" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1239" partType="Fuselage1" position="-0.06121016,0.6406016,-0.5596075" rotation="0.0003128162,352.499,0.0002298212" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Fuselage8">
+          <Drag drag="0,0.02289481,0,0,0.0296308,0.01845628" area="0,0.0313039,0,0,0.03503487,0.02335658" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1933995,0.1933995" offset="1.773369E-07,0.05181354,3.296863E-07" topScale="0.1643657,0.1643657" />
+          <FuelTank capacity="5.7421484" fuel="5.7421484" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1240" partType="Fuselage1" position="-0.06121016,0.8003476,-0.5596123" rotation="0.0001293865,352.5002,4.206286E-05" name="(AM-SAP) J-2X" materials="4,6,6,6,6" texture="Fuselage9" textureTiling="10,10">
+          <Drag drag="0,0.04471548,0,0,0.05953637,0.05949058" area="0,0.0626078,0,0,0.07006972,0.07006972" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1567269,0.1567269" cornerRadiuses="0.8029557,0.8029557,0.8029557,0.8029557,0.8029557,0.8029557,0.8029557,0.8029557" offset="1.476802E-07,0.1079035,-3.762527E-07" topScale="0.1567269,0.1567269" />
+          <FuelTank capacity="9.652504" fuel="9.652504" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1241" partType="Fuselage1" position="-0.06121159,0.9445505,-0.5596161" rotation="0.0001293865,352.5002,4.206286E-05" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Default">
+          <Drag drag="0,0,0,0,0.03054674,0.03054674" area="0,0,0,0,0.03503487,0.03503487" />
+          <Config massScale="0" partScale="0.7,0.7,0.7" />
+          <Fuselage bottomScale="0.2679241,0.2679241" offset="1.773369E-07,0.05181354,3.296863E-07" topScale="0.2679241,0.2679241" />
+          <FuelTank capacity="12.8531446" fuel="12.8531446" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1242" partType="Fuselage1" position="-0.06120968,1.090408,-0.5596142" rotation="0.0001344856,352.5002,0.0004331682" name="(AM-SAP) J-2X" materials="4,6,6,6,6" texture="Fuselage9" textureTiling="10,10">
+          <Drag drag="0,0,0,0,0.06026913,0.06026913" area="0,0,0,0,0.07006972,0.07006972" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1594046,0.1594046" cornerRadiuses="0.8029557,0.8029557,0.8029557,0.8029557,0.8029557,0.8029557,0.8029557,0.8029557" offset="1.863158E-07,0.1095522,3.725264E-08" topScale="0.1594046,0.1594046" />
+          <FuelTank capacity="10.1377182" fuel="10.1377182" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1243" partType="Fuselage1" position="-0.06121016,1.237625,-0.5596106" rotation="0.0001344856,352.5002,0.0004331682" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Default">
+          <Drag drag="0,0,0,0,0.03068413,0.03068413" area="0,0,0,0,0.03503487,0.03503487" />
+          <Config massScale="0" partScale="0.7,0.7,0.7" />
+          <Fuselage bottomScale="0.2734715,0.2734715" offset="2.1263E-07,0.05371726,3.193046E-07" topScale="0.2734715,0.2734715" />
+          <FuelTank capacity="13.8829136" fuel="13.8829136" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1244" partType="Fuselage1" position="-0.06121111,1.311357,-0.5596097" rotation="0.0001344856,352.5002,0.0004331682" name="(AM-SAP) J-2X" materials="2,6,6,6,6" texture="Default">
+          <Drag drag="0,0,0,0,0.01158669,0.0115409" area="0,0,0,0,0.03503487,0.03503487" />
+          <Config massScale="0" partScale="0.7,0.7,0.7" />
+          <Fuselage bottomScale="0.2678741,0.2678741" offset="2.804754E-07,0.0515945,6.865147E-07" topScale="0.1919031,0.1919031" />
+          <FuelTank capacity="9.50857449" fuel="9.50857449" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1245" partType="Fuselage1" position="0.1070547,0.05670047,-0.7036905" rotation="270,270.0076,0" name="(AM-SAP) J-2X" materials="2,5,5,5,5" texture="Default">
+          <Drag drag="0,0.0269459,0.009434225,0,0,0.01167829" area="0,0.0313039,0.01167829,0,0,0.01167829" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="9.013346E-08,0.1077667,1.629812E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="6.14180374" fuel="6.14180374" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1246" partType="Fuselage1" position="0.2525959,0.05669999,-0.6891396" rotation="270,255.0098,0" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.02599451,0.02033396,0,0,0" area="0,0.0313039,0.02335658,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="8.19563E-08,0.07272237,1.78813E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="4.14456844" fuel="4.14456844" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1247" partType="Fuselage1" position="0.3415437,0.0567019,-0.647891" rotation="270.0198,235.0107,0" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.01537574,0.01740294,0,0,0.02876065" area="0,0.02347792,0.02335658,0,0,0.04671315" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="8.19563E-08,0.07272237,1.78813E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="4.14456844" fuel="4.14456844" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1248" partType="Fuselage1" position="0.4094043,0.05670285,-0.5805767" rotation="270,215.0048,0" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.01730921,0.01946381,0,0,0.01112872" area="0,0.02347792,0.02335658,0,0,0.02335658" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="8.19563E-08,0.07272237,1.78813E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="4.14456844" fuel="4.14456844" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1249" partType="Fuselage1" position="0.4510932,0.05670285,-0.4900463" rotation="270,195.0065,0" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.01712508,0.007006973,0,0,0.02587542" area="0,0.02347792,0.01167829,0,0,0.04671315" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="8.19563E-08,0.07272237,1.78813E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="4.14456844" fuel="4.14456844" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1250" partType="Fuselage1" position="0.4666734,0.1313913,-0.03371358" rotation="279.9997,179.9994,0.000843799" name="(AM-SAP) J-2X" materials="4,4,4,4,4" texture="Default">
+          <Drag drag="0.006230089,0.005063866,0,0,0,0.1512224" area="0.04695585,0.03912987,0,0,0,0.1868526" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="1.0156E-06,0.4344453,-6.407499E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="24.75976" fuel="24.75976" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1251" partType="Fuselage1" position="0.46667,0.2163756,0.4482973" rotation="279.9997,179.9999,180.0001" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0.001166224,0,0,0,0.02092933" area="0,0.007825974,0,0,0,0.02335658" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="1.542048E-07,0.05498697,1.695007E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="3.1337986" fuel="3.1337986" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1252" partType="Fuselage1" position="0.4519382,0.2323606,0.5389524" rotation="279.9999,179.9999,165.0003" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.00942186,0,0.006136826,0,0.009159442,0.03911082" area="0.01565195,0,0.01167829,0,0.01167829,0.04671315" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="8.19563E-08,0.07272237,1.78813E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="4.14456844" fuel="4.14456844" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1253" partType="Fuselage1" position="0.4085088,0.2500067,0.6390154" rotation="279.9999,179.9999,150.0003" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01350364,0.003836262,0.01822729,0,0.009571617,0.01758613" area="0.02347792,0.007825974,0.02335658,0,0.01167829,0.03503487" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="8.19563E-08,0.07272237,1.78813E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="4.14456844" fuel="4.14456844" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1254" partType="Fuselage1" position="0.3455853,0.2634113,0.7150583" rotation="279.9999,179.9999,130" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01780026,0,0.01140351,0,0,0.0114493" area="0.0313039,0,0.01167829,0,0,0.02335658" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="8.19563E-08,0.07272237,1.78813E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="4.14456844" fuel="4.14456844" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1255" partType="Fuselage1" position="0.1111407,0.2698686,0.7516959" rotation="279.9997,179.9998,95.00032" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.06625992,0.006813202,0.01080814,0,0,0" area="0.07825974,0.007825974,0.02335658,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1124368,0.1124368" offset="5.876479E-07,0.2413492,-2.486575E-07" topScale="0.1284205,0.1284205" />
+          <FuelTank capacity="12.1139336" fuel="12.1139336" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1256" partType="RocketEngine1" position="-0.1186023,1.639618,0.0519762" rotation="-1.366038E-05,180,5.634907E-05" name="(AM-SAP) J-2X Nozzle" activationStage="0" stageOverride="true" materials="2,2,2,2,4" nozzleExtensionTexture="RocketEngine_Extension4">
+          <Drag drag="4.766209,4.492939,0.5464524,1.312091,5.326352,5.214284" area="6.393812,5.979042,2.323981,3.702011,7.100373,6.948556" />
+          <Config massScale="1.15" partScale="0.65,0.65,0.65" />
+          <FuelSource fuelTankPartIds="1211,1212,1213" fuelType="LOX/LH2" totalCapacity="776.581543" totalFuel="776.581543" />
+          <RocketEngine chamberPressure="4000" engineSubTypeId="GasGenerator2" mass="21.6489086" nozzleSize="2.2" nozzleThroatSize="0.0104" price="3274431" size="1.01" />
+        </Part>
+        <Part id="1257" partType="Fuselage1" position="-0.1096535,0.5305147,0.7077603" rotation="4.999956,177.5001,9.822423E-05" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.003437291,0,0,0,0.03173747,0.01012118" area="0.01565195,0,0,0,0.03503487,0.01167829" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.163888,0.163888" offset="8.940695E-08,0.1578076,1.788133E-07" topScale="0.163888,0.163888" />
+          <FuelTank capacity="14.6475458" fuel="14.6475458" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1258" partType="Fuselage1" position="-0.1104379,0.3039131,0.7406056" rotation="9.483529,182.5694,0.8792088" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.01255225,0,0,0,0.04657576,0" area="0.01565195,0,0,0,0.05839144,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1284205,0.1284205" offset="9.013346E-08,0.1077667,1.629812E-07" topScale="0.1638365,0.1638365" />
+          <FuelTank capacity="7.991305" fuel="7.991305" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1259" partType="Fuselage1" position="-0.1117215,0.1037643,0.7819104" rotation="14.48302,182.6485,0.8957022" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0396823,0,0,0,0.05536883,0.04167546" area="0.05478182,0,0,0,0.08174801,0.05839144" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1895046,0.1895046" offset="9.013346E-08,0.1077667,1.629812E-07" topScale="0.1404244,0.1404244" />
+          <FuelTank capacity="10.2093945" fuel="10.2093945" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1260" partType="Fuselage1" position="-0.1127987,-0.1533561,0.8484483" rotation="14.48302,182.6485,0.8957088" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.07620351,0,0,0,0.09338051,0.09214398" area="0.1017376,0,0,0,0.1167829,0.1167829" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1910289,0.1910289" offset="8.940695E-08,0.1578076,1.788133E-07" topScale="0.1910289,0.1910289" />
+          <FuelTank capacity="19.9007111" fuel="19.9007111" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1261" partType="Fuselage1" position="-0.1136551,-0.3574803,0.9012711" rotation="14.48302,182.6485,0.8956869" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.0198258,0,0,0,0.02166208,0.02202846" area="0.02347792,0,0,0,0.02335658,0.02335658" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1566244,0.1566244" offset="9.061097E-08,0.05302098,1.443545E-07" topScale="0.1566244,0.1566244" />
+          <FuelTank capacity="4.494788" fuel="4.494788" fuelType="LOX/LH2" />
+        </Part>
+        <Part id="1262" partType="Fuselage1" position="-0.1158557,-0.567487,0.9346938" rotation="9.483507,182.5693,0.8792263" name="(AM-SAP) J-2X" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0.04017334,0,0,0,0.0148383,0.007602337" area="0.04695585,0,0,0,0.02335658,0.01167829" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1604443,0.1604443" offset="-0.0004330708,0.1724532,-0.008993261" topScale="0.1913399,0.1913399" />
+          <FuelTank capacity="18.485096" fuel="18.485096" fuelType="LOX/LH2" />
+        </Part>
+      </Parts>
+      <Connections>
+        <Connection partA="1211" partB="1212" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1213" partB="1212" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1257" partB="1212" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1234" partB="1212" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1214" partB="1213" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1215" partB="1213" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1216" partB="1213" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1217" partB="1213" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1218" partB="1213" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1232" partB="1213" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1233" partB="1213" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1256" partB="1213" attachPointsA="0" attachPointsB="1" />
+        <Connection partA="1215" partB="1214" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1225" partB="1214" attachPointsA="1,5" attachPointsB="1,5" />
+        <Connection partA="1216" partB="1215" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1217" partB="1216" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1218" partB="1217" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1219" partB="1218" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1220" partB="1219" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1221" partB="1220" attachPointsA="2,4" attachPointsB="2,4" />
+        <Connection partA="1222" partB="1221" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1223" partB="1222" attachPointsA="3" attachPointsB="1" />
+        <Connection partA="1224" partB="1223" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1226" partB="1225" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1227" partB="1226" attachPointsA="3" attachPointsB="2" />
+        <Connection partA="1228" partB="1227" attachPointsA="3" attachPointsB="2" />
+        <Connection partA="1229" partB="1228" attachPointsA="3" attachPointsB="2" />
+        <Connection partA="1230" partB="1229" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1231" partB="1230" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1232" partB="1231" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1233" partB="1234" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1234" partB="1235" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1245" partB="1234" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="1235" partB="1236" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1237" partB="1236" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1238" partB="1237" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1239" partB="1238" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1240" partB="1239" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1241" partB="1240" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1242" partB="1241" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1243" partB="1242" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1244" partB="1243" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1246" partB="1245" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1247" partB="1246" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1248" partB="1247" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1249" partB="1248" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1250" partB="1249" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="1251" partB="1250" attachPointsA="2,4" attachPointsB="2,4" />
+        <Connection partA="1252" partB="1251" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1253" partB="1252" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1254" partB="1253" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1255" partB="1254" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1258" partB="1257" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1259" partB="1258" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1260" partB="1259" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1261" partB="1260" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="1262" partB="1261" attachPointsA="2,4" attachPointsB="1,5" />
+      </Connections>
+      <Collisions />
+      <Bodies />
+    </Assembly>
+  </DesignerPart>
+</DesignerParts>

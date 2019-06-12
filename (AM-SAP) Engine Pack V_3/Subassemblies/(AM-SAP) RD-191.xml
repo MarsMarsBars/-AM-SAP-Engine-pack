@@ -1,0 +1,866 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DesignerParts>
+  <DesignerPart name="(AM-SAP) RD-191" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: KeraLOX, Thrust: SL=1,927kn Vac=2,093kn, Isp: SL=310s Vac=337s" order="1000">
+    <Assembly xmlVersion="8">
+      <Parts>
+        <Part name="RD-191" id="859" partType="Fuselage1" position="-0.07183266,1.34829,-0.2873843" rotation="-2.418705E-05,180,1.462822E-08" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.05,0.05,0.05" />
+          <Fuselage bottomScale="4.309858,4.309858" offset="-0.0592586,0.3308652,0.03832046" topScale="4.309858,4.309858" />
+          <FuelTank capacity="21238.291" fuel="21238.291" />
+        </Part>
+        <Part name="RD-191" id="860" partType="Fuselage1" position="-0.07507706,1.308211,-0.2852833" rotation="-2.418705E-05,180,1.462822E-08" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0,0,0,0,0.01461995,0.01428768" area="0,0,0,0,0.04236463,0.04236463" />
+          <Config massScale="0" partScale="0.05,0.05,0.05" />
+          <Fuselage bottomScale="1.318422,1.318422" offset="-0.005642489,0.4706333,0.003649347" topScale="3.873793,3.873793" />
+          <FuelTank capacity="11846.5322" fuel="11846.5322" />
+        </Part>
+        <Part name="RD-191" id="861" partType="Fuselage1" position="-0.07538414,1.22853,-0.2850854" rotation="-2.418705E-05,180,1.462822E-08" materials="3,3,3,3,3" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.05,0.05,0.05" />
+          <Fuselage bottomScale="0.9521935,0.9521935" offset="-0.0005351185,1.122756,0.0003473854" topScale="0.9521935,0.9521935" />
+          <FuelTank capacity="3517.859" fuel="3517.859" />
+        </Part>
+        <Part name="RD-191" id="862" partType="Fuselage1" position="-0.07536507,1.084169,-0.2864791" rotation="0.8148869,179.9941,0.02157285" materials="5,5,5,5,5" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.05,0.05" offset="-5.494448E-07,0.05337408,9.511303E-07" topScale="0.05,0.05" />
+          <FuelTank capacity="0.461119" fuel="0.461119" />
+        </Part>
+        <Part name="RD-191" id="863" partType="Fuselage1" position="-0.07541466,0.9046957,-0.2839192" rotation="0.8148869,179.9941,0.02157285" materials="5,5,5,5,5" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.05,0.05" offset="-5.136746E-07,0.1259704,8.808344E-07" topScale="0.05,0.05" />
+          <FuelTank capacity="1.08830619" fuel="1.08830619" />
+        </Part>
+        <Part name="RD-191" id="864" partType="Fuselage1" position="-0.07567024,0.2438917,-0.274505" rotation="0.8148869,179.9941,0.02157285" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1506961,0.1506961" offset="7.44194E-07,0.534304,1.643458E-06" topScale="0.1506961,0.1506961" />
+          <FuelTank capacity="41.93098" fuel="41.93098" />
+        </Part>
+        <Part name="RD-191" id="865" partType="Fuselage1" position="-0.0759182,-0.3414669,-0.2661626" rotation="0.8148869,179.9941,0.02157285" materials="9,9,9,9,9" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.2278565,0.2278565" offset="6.024011E-07,0.05060828,8.842946E-07" topScale="0.1535811,0.1535811" />
+          <FuelTank capacity="6.441781" fuel="6.441781" />
+        </Part>
+        <Part name="RD-191" id="866" partType="Fuselage1" position="-0.07594872,-0.4425697,-0.2647197" rotation="0.8148869,179.9941,0.02157285" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.3675808,0.3675808" offset="6.216223E-07,0.05044273,1.033999E-06" topScale="0.2215631,0.2215631" />
+          <FuelTank capacity="15.4357166" fuel="15.4357166" />
+        </Part>
+        <Part name="RD-191" id="867" partType="Fuselage1" position="-0.07600594,-0.5435939,-0.2632614" rotation="0.8148869,179.9941,0.02157285" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.3767622,0.3767622" offset="6.216223E-07,0.05044273,1.033999E-06" topScale="0.3767622,0.3767622" />
+          <FuelTank capacity="24.744339" fuel="24.744339" />
+        </Part>
+        <Part name="RD-191" id="868" partType="Fuselage1" position="-0.07600021,-0.646719,-0.2618166" rotation="0.8148869,179.9941,0.02157285" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.296472,0.296472" offset="4.977497E-07,0.05263674,8.799445E-07" topScale="0.3721477,0.3721477" />
+          <FuelTank capacity="20.4164619" fuel="20.4164619" />
+        </Part>
+        <Part name="RD-191" id="869" partType="Fuselage1" position="-0.07604408,-0.7520814,-0.260317" rotation="0.8148869,179.9941,0.02157285" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.3498544,0.3498544" offset="4.977497E-07,0.05263674,8.799445E-07" topScale="0.2962563,0.2962563" />
+          <FuelTank capacity="19.0274467" fuel="19.0274467" />
+        </Part>
+        <Part name="RD-191" id="870" partType="Fuselage1" position="-0.07609749,-0.8880367,-0.258376" rotation="0.8148869,179.9941,0.02157285" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.1104803" area="0,0,0,0,0,0.1270939" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.3853463,0.3853463" offset="4.925867E-07,0.08320353,8.371281E-07" topScale="0.3482245,0.3482245" />
+          <FuelTank capacity="38.7149734" fuel="38.7149734" />
+        </Part>
+        <Part name="RD-191" id="871" partType="Fuselage1" position="-0.07615089,-1.026512,-0.2563887" rotation="0.8148869,179.9941,0.02157285" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.4658619,0.4658619" offset="4.67417E-07,0.05513332,6.974553E-07" topScale="0.4098323,0.4098323" />
+          <FuelTank capacity="36.57581" fuel="36.57581" />
+        </Part>
+        <Part name="RD-191" id="872" partType="Strut1" position="-0.4726124,-0.9336491,-0.5132313" rotation="0.8148604,179.9942,0.02168738" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0.01179564,0.01511836" area="0,0,0,0,0.04236463,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.297498E-07,0.2522707,-1.576459E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="873" partType="Strut1" position="-0.4622822,-0.7398987,-0.5391967" rotation="26.82767,182.302,12.57388" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.145902E-07,0.09404203,-3.10788E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="874" partType="Strut1" position="-0.4270344,-0.6725192,-0.5999613" rotation="63.65786,150.4469,3.197057" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.145902E-07,0.09404203,-3.10788E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="875" partType="Strut1" position="-0.3469219,-0.6436763,-0.6622519" rotation="72.28564,178.7761,63.66283" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.221955E-07,0.1216076,3.895973E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="876" partType="Strut1" position="-0.1827259,-0.6310601,-0.6982517" rotation="72.28557,178.7748,83.71684" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="7.79982E-07,0.1848993,8.048158E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="877" partType="Fuselage1" position="-0.07618713,-1.132124,-0.2548821" rotation="0.8148869,179.9941,0.02157285" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.1731135,0.1727813" area="0,0,0,0,0.2118232,0.2118232" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.5343648,0.5343648" offset="6.216223E-07,0.05044273,1.033999E-06" topScale="0.5343648,0.5343648" />
+          <FuelTank capacity="49.7756424" fuel="49.7756424" />
+        </Part>
+        <Part name="RD-191" id="878" partType="Strut1" position="0.3203983,-0.9338946,-0.5131462" rotation="0.8148869,179.9941,0.02157285" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0.04203236,0.04186622" area="0,0,0,0,0.04236463,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.297498E-07,0.2522707,-1.576459E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="879" partType="Strut1" position="0.310257,-0.7401104,-0.5391419" rotation="26.82941,177.7072,347.4747" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.145902E-07,0.09404203,-3.10788E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="880" partType="Strut1" position="0.2781277,-0.678504,-0.5953519" rotation="62.93771,209.6951,357.6939" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.145902E-07,0.09404203,-3.10788E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="881" partType="Strut1" position="0.1985817,-0.647387,-0.6569409" rotation="71.83294,182.6973,298.5732" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-4.221955E-07,0.1216076,3.895973E-07" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="882" partType="Strut1" position="0.03368187,-0.6324739,-0.6957092" rotation="71.83334,182.6964,278.5172" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-4.430719E-06,0.1871955,5.053954E-06" topScale="0.05,0.05" />
+        </Part>
+        <Part name="RD-191" id="883" partType="Strut1" position="-0.07380104,-1.806547,-0.2449031" rotation="0.6154842,164.896,180.5785" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03771283,0.01395541" area="0,0,0,0,0.04236463,0.04236463" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="1.332993,1.332993" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.388396E-12,0.05291478,-3.60329E-06" topScale="1.365084,1.365084" />
+        </Part>
+        <Part name="RD-191" id="993" partType="Strut1" position="-0.07287407,-1.732566,-0.2454722" rotation="0.6154746,164.896,180.5785" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03771283,0.01395541" area="0,0,0,0,0.04236463,0.04236463" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="1.294561,1.294561" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.388396E-12,0.05291478,-3.60329E-06" topScale="1.319675,1.319675" />
+        </Part>
+        <Part name="RD-191" id="884" partType="Strut1" position="-0.5417404,-1.445067,-0.5551362" rotation="344.801,232.3079,180.6833" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0.02541878" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.032992E-06,0.5179192,-5.774199E-07" topScale="0.04567607,0.04567607" />
+        </Part>
+        <Part name="RD-191" id="885" partType="Strut1" position="-0.6105423,-1.772583,-0.6031742" rotation="349.8006,232.3685,180.6699" materials="2,2,2,2,2">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.04668211,0.04839062" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-4.198712E-06,0.05160298,-0.00142313" topScale="0.03378527,0.03378527" />
+        </Part>
+        <Part name="RD-191" id="886" partType="RocketEngine1" position="-0.07531929,1.140133,-0.2872312" rotation="0.8146407,179.994,0.02111815" activationStage="0" materials="0,0,0,0,0" nozzleExtensionTexture="RocketEngine_Extension4">
+          <Drag drag="0,0,0,0,1.359656,1.874344" area="0,0,0,0,1.694585,2.372419" />
+          <Config massScale="0.84" partScale="0.8,0.8,0.8" />
+          <FuelSource fuelTankPartIds="859,860,861,862,863,864,865,866,867,868,869,870,871,877" totalCapacity="36857.3" totalFuel="36857.3" />
+          <RocketEngine chamberPressure="3600" engineSubTypeId="Staged1" mass="27.2609749" nozzleSize="1.43999994" nozzleThroatSize="0.0145" nozzleTypeId="Delta" price="7584204" size="0.95" />
+        </Part>
+        <Part name="RD-191" id="887" partType="Fuselage1" position="-0.3671322,-0.8163085,0.03167534" rotation="349.2078,135.1035,359.429" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.02737152,0.02737152" offset="8.410625E-09,0.06121727,-1.497055E-07" topScale="0.05,0.05" />
+          <FuelTank capacity="0.32563284" fuel="0.32563284" />
+        </Part>
+        <Part name="RD-191" id="888" partType="Fuselage1" position="-0.3751583,-0.7154112,0.03828096" rotation="0.591648,134.9904,359.439" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.05,0.05" offset="5.966247E-09,0.05075423,-3.917942E-07" topScale="0.05,0.05" />
+          <FuelTank capacity="0.438485116" fuel="0.438485116" />
+        </Part>
+        <Part name="RD-191" id="889" partType="Fuselage1" position="-0.3805542,-0.6416812,0.04265952" rotation="0.591648,134.9904,359.439" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.06357021,0.06357021" offset="5.966247E-09,0.05075423,-3.917942E-07" topScale="0.09068937,0.09068937" />
+          <FuelTank capacity="1.05416942" fuel="1.05416942" />
+        </Part>
+        <Part name="RD-191" id="890" partType="Fuselage1" position="-0.3754597,-0.587894,0.03685832" rotation="0.591648,134.9904,359.439" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.09362454,0.09362454" offset="5.966247E-09,0.05075423,-3.917942E-07" topScale="0.1239004,0.1239004" />
+          <FuelTank capacity="2.088182" fuel="2.088182" />
+        </Part>
+        <Part name="RD-191" id="891" partType="Fuselage1" position="-0.3731499,-0.4846439,0.03307915" rotation="0.591648,134.9904,359.439" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.123827,0.123827" offset="6.634152E-09,0.05245259,-4.617978E-07" topScale="0.07883257,0.07883257" />
+          <FuelTank capacity="1.89174092" fuel="1.89174092" />
+        </Part>
+        <Part name="RD-191" id="892" partType="Fuselage1" position="-0.3723812,-0.3796959,0.03085351" rotation="0.591648,134.9904,359.439" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.08327654,0.08327654" offset="6.634152E-09,0.05245259,-4.617978E-07" topScale="0.08327654,0.08327654" />
+          <FuelTank capacity="1.25705671" fuel="1.25705671" />
+        </Part>
+        <Part name="RD-191" id="893" partType="Fuselage1" position="-0.3727932,-0.2760544,0.029845" rotation="0.5917085,134.9905,179.439" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.05530478,0.05530478" offset="7.101144E-09,0.051119,-3.96441E-07" topScale="0.08101111,0.08101111" />
+          <FuelTank capacity="0.8303779" fuel="0.8303779" />
+        </Part>
+        <Part name="RD-191" id="894" partType="Fuselage1" position="-0.376606,-0.1957855,0.03255558" rotation="353.6179,135.0593,179.4357" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.05,0.05" offset="7.101144E-09,0.051119,-3.96441E-07" topScale="0.05,0.05" />
+          <FuelTank capacity="0.4416365" fuel="0.4416365" />
+        </Part>
+        <Part name="RD-191" id="895" partType="Strut1" position="-0.3896008,-0.1442919,0.02566481" rotation="15.73078,129.3882,85.09529" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="896" partType="Strut1" position="-0.4609032,-0.157218,-0.07288182" rotation="14.6378,119.0873,82.39034" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="897" partType="Strut1" position="-0.4954796,-0.1770473,-0.1754992" rotation="10.38615,95.29477,77.16113" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0.008971334" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="898" partType="Strut1" position="-0.4996204,-0.2018642,-0.2784282" rotation="7.356137,82.86228,75.23616" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.328279E-08,0.08183722,-9.468357E-07" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="899" partType="Strut1" position="-0.4780006,-0.2210212,-0.3418286" rotation="359.8362,56.39704,73.54208" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.328279E-08,0.08183722,-9.468357E-07" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="900" partType="Strut1" position="-0.4270287,-0.2473373,-0.4085605" rotation="8.46187,47.09435,70.19281" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.328279E-08,0.08183722,-9.468357E-07" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="901" partType="Strut1" position="-0.3755398,-0.2860584,-0.4610217" rotation="348.071,49.18923,51.84076" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.328279E-08,0.08183722,-9.468357E-07" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="902" partType="Strut1" position="-0.3276215,-0.3964887,-0.471225" rotation="345.7838,46.16439,11.27469" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0.03123353" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1195161,0.1195161" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.505535E-07,0.1832315,-5.339232E-07" topScale="0.1195161,0.1195161" />
+        </Part>
+        <Part name="RD-191" id="903" partType="Strut1" position="-0.3038082,-0.1402035,0.09788048" rotation="16.43433,150.1992,90.91995" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="904" partType="Strut1" position="-0.1944294,-0.1389494,0.1439037" rotation="15.62202,165.7866,88.02032" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="905" partType="Strut1" position="-0.0959301,-0.1367831,0.1682317" rotation="14.23815,168.187,89.54381" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0.04103555,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.409062E-06,0.05972693,-1.273966E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="906" partType="Fuselage1" position="-0.3500671,-0.9366417,0.01629496" rotation="349.2078,135.1035,359.4289" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.01391756,0.01391756" offset="8.410625E-09,0.06121727,-1.497055E-07" topScale="0.02803107,0.02803107" />
+          <FuelTank capacity="0.09657783" fuel="0.09657783" />
+        </Part>
+        <Part name="RD-191" id="907" partType="Fuselage1" position="0.2218342,-0.5509953,0.3926331" rotation="0.7459779,202.4961,0.3317983" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.5031221,0.5031221" offset="-7.526377E-07,0.1006574,1.985457E-06" topScale="0.5031221,0.5031221" />
+          <FuelTank capacity="88.0511551" fuel="88.0511551" />
+        </Part>
+        <Part name="RD-191" id="908" partType="Fuselage1" position="0.2216911,-0.4503279,0.3907617" rotation="0.7459779,202.4961,0.3317983" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.4716325,0.4716325" offset="-7.526377E-07,0.1006574,1.985457E-06" topScale="0.3382417,0.3382417" />
+          <FuelTank capacity="57.5536652" fuel="57.5536652" />
+        </Part>
+        <Part name="RD-191" id="909" partType="Fuselage1" position="0.2222538,-0.2976923,0.3879822" rotation="0.6596017,202.4956,0.7214158" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.03372557" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.3371381,0.3371381" offset="-4.612299E-06,0.2049359,8.338335E-06" topScale="0.3371381,0.3371381" />
+          <FuelTank capacity="80.49636" fuel="80.49636" />
+        </Part>
+        <Part name="RD-191" id="910" partType="Fuselage1" position="0.2236443,-0.1693583,0.3870958" rotation="0.6595954,202.4956,0.7214367" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.3372476,0.3372476" offset="-1.092596E-05,0.05169029,7.211126E-06" topScale="0.4287933,0.4287933" />
+          <FuelTank capacity="26.3304367" fuel="26.3304367" />
+        </Part>
+        <Part name="RD-191" id="911" partType="Fuselage1" position="0.2254276,-0.1176205,0.3896736" rotation="0.6596017,202.4956,0.7214158" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.03688215,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.4472783,0.4472783" offset="-1.092596E-05,0.05169029,7.211126E-06" topScale="0.4472783,0.4472783" />
+          <FuelTank capacity="35.7361031" fuel="35.7361031" />
+        </Part>
+        <Part name="RD-191" id="912" partType="Fuselage1" position="0.2258072,-0.06591511,0.3888639" rotation="0.6596017,202.4956,0.7214158" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.4269663,0.4269663" offset="-1.092596E-05,0.05169029,7.211126E-06" topScale="0.3323525,0.3323525" />
+          <FuelTank capacity="25.8810387" fuel="25.8810387" />
+        </Part>
+        <Part name="RD-191" id="913" partType="Fuselage1" position="0.2264786,0.02588606,0.3874332" rotation="0.6596017,202.4956,0.7214158" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.3194558,0.3194558" offset="-1.683972E-05,0.1318807,1.085863E-05" topScale="0.3194558,0.3194558" />
+          <FuelTank capacity="46.5099" fuel="46.5099" />
+        </Part>
+        <Part name="RD-191" id="914" partType="NoseCone1" position="0.2272854,0.136704,0.3857123" rotation="359.3404,22.49563,179.2785" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.1435414,0.03954032" area="0,0,0,0,0.2118232,0.04236463" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.3242494,0.3242494" offset="1.645632E-06,0.2007956,-6.157636E-07" topScale="0,0" />
+          <FuelTank capacity="24.3183365" />
+        </Part>
+        <Part name="RD-191" id="915" partType="Strut1" position="0.2322025,0.3695335,0.3754808" rotation="359.3404,22.49563,359.2785" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.5611165,0.5611165" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.5801473,0.5801473" />
+        </Part>
+        <Part name="RD-191" id="916" partType="Strut1" position="0.2326679,0.4336195,0.3744918" rotation="359.3404,22.49563,359.2785" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.5569214,0.5569214" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.4924607,0.4924607" />
+        </Part>
+        <Part name="RD-191" id="917" partType="Strut1" position="0.2238331,0.5813107,0.3514348" rotation="359.379,25.49074,359.2451" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.07376431,0" area="0,0,0,0,0.08472926,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.560021E-06,0.1931256,-2.387433E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="918" partType="Strut1" position="0.2231236,0.7239408,0.3455833" rotation="354.3795,25.55674,359.2415" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.04053714,0" area="0,0,0,0,0.08472926,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535113,0.3535113" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535113,0.3535113" />
+        </Part>
+        <Part name="RD-191" id="919" partType="Strut1" position="0.2187176,0.7882929,0.3343717" rotation="344.3804,25.69352,359.2161" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="920" partType="Strut1" position="0.2096272,0.8498566,0.3134248" rotation="334.3813,25.84453,359.1629" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="921" partType="Strut1" position="0.1943436,0.9179537,0.2792742" rotation="329.382,25.92921,359.1228" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.03272876" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3716553,0.3716553" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3716553,0.3716553" />
+        </Part>
+        <Part name="RD-191" id="922" partType="Strut1" position="0.1877365,0.9474204,0.2645018" rotation="319.3832,26.12975,359.0055" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="923" partType="Strut1" position="0.1680565,0.9944046,0.2217784" rotation="309.3849,26.40215,358.8105" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.05964275,0" area="0,0,0,0,0.08472926,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="924" partType="Strut1" position="0.1446667,1.031576,0.1715581" rotation="299.3878,26.823,358.4617" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.03355944" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="925" partType="Strut1" position="0.1184807,1.059916,0.1157519" rotation="289.393,27.62748,357.7261" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="926" partType="Strut1" position="0.05691528,1.062872,-0.0135051" rotation="270.9734,154.9479,230.5384" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.01777653,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.762918E-06,0.2791944,-1.78503E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="927" partType="Strut1" position="-0.01432228,1.054488,-0.1627135" rotation="285.6387,202.7852,182.8011" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="928" partType="Strut1" position="-0.03289032,1.037122,-0.2011302" rotation="300.6295,204.2077,181.4816" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.02508651" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="929" partType="Strut1" position="-0.04928207,1.007473,-0.2346295" rotation="315.6259,204.7441,181.056" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="930" partType="Strut1" position="-0.06219101,0.9706323,-0.2605804" rotation="330.6238,205.0577,180.8661" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3546118,0.3546118" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3546118,0.3546118" />
+        </Part>
+        <Part name="RD-191" id="931" partType="Strut1" position="-0.07058334,0.9247935,-0.2767909" rotation="345.6223,205.2892,180.7792" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.02026857" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-7.615232E-07,0.08618909,-1.780008E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="932" partType="Strut1" position="-0.07411385,0.8174665,-0.2809118" rotation="0.6210419,205.4908,180.7548" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3535114,0.3535114" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.173844E-06,0.1861057,-1.931492E-06" topScale="0.3535114,0.3535114" />
+        </Part>
+        <Part name="RD-191" id="933" partType="Strut1" position="0.2216988,-0.1112156,0.54775" rotation="270.9818,155.2958,79.69601" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1063722,0.1063722" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.019218E-06,0.09345752,-6.602527E-06" topScale="0.1249197,0.1249197" />
+        </Part>
+        <Part name="RD-191" id="934" partType="Strut1" position="0.2932091,-0.1110239,0.5936259" rotation="270.9818,155.2942,84.69742" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="935" partType="Strut1" position="0.329113,-0.1111155,0.6048409" rotation="270.981,155.2945,109.6972" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1389908,0.1389908" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1389908,0.1389908" />
+        </Part>
+        <Part name="RD-191" id="936" partType="Strut1" position="0.3755989,-0.1115232,0.6008567" rotation="270.9824,155.2922,129.6996" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="937" partType="Strut1" position="0.4269581,-0.1122322,0.5799346" rotation="270.9816,155.2918,144.6995" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="938" partType="Strut1" position="0.4627705,-0.1129622,0.5501926" rotation="270.9834,155.2908,164.7006" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="939" partType="Strut1" position="0.4923725,-0.1138859,0.5054431" rotation="270.9816,155.2966,179.6948" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="940" partType="Strut1" position="0.5114079,-0.1147432,0.4596641" rotation="270.9808,155.2986,189.6928" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1389908,0.1389908" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1389908,0.1389908" />
+        </Part>
+        <Part name="RD-191" id="941" partType="Strut1" position="0.5302944,-0.1164212,0.3617586" rotation="270.9832,155.2921,194.6991" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.046728E-05,0.1469239,-2.112744E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="942" partType="Strut1" position="0.5475101,-0.109684,0.2643571" rotation="289.0491,350.7138,359.2339" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.03954032" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="943" partType="Strut1" position="0.5549431,-0.0859642,0.2228427" rotation="309.0483,350.2979,359.603" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="944" partType="Strut1" position="0.562767,-0.04271889,0.1795819" rotation="319.048,350.2065,359.6688" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="945" partType="Strut1" position="0.5681229,0.002872944,0.1503737" rotation="334.0478,350.1112,359.722" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="946" partType="Strut1" position="0.5714741,0.0545187,0.1326722" rotation="349.0476,350.0378,359.7452" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.03189808,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.668889E-06,0.06200362,-9.151701E-06" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="947" partType="Strut1" position="0.5729733,0.1809168,0.1273323" rotation="359.0475,349.9937,359.7499" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-5.920216E-06,0.1721474,-1.240271E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="948" partType="Strut1" position="0.5739288,0.3145223,0.1252323" rotation="359.0475,349.9937,359.7499" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1389908,0.1389908" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-3.00762E-06,0.05051349,-1.233149E-05" topScale="0.1389908,0.1389908" />
+        </Part>
+        <Part name="RD-191" id="949" partType="Strut1" position="0.5748882,0.4481254,0.1231323" rotation="359.0475,349.9937,359.7499" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.03040285,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-5.920216E-06,0.1721474,-1.240271E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="950" partType="Strut1" position="0.5751419,0.5641255,0.1147348" rotation="344.1453,5.126596,359.4927" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-9.48404E-06,0.05832222,-1.71203E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="951" partType="Strut1" position="0.5737801,0.6099114,0.09477389" rotation="329.146,5.279595,359.4315" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-9.48404E-06,0.05832222,-1.71203E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="952" partType="Strut1" position="0.5714436,0.6493225,0.06427431" rotation="314.1468,5.490868,359.2993" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-9.48404E-06,0.05832222,-1.71203E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="953" partType="Strut1" position="0.568203,0.6789708,0.02436328" rotation="299.1484,5.863141,358.9981" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.03688215,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-9.48404E-06,0.05832222,-1.71203E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="954" partType="Strut1" position="0.5584602,0.6847005,-0.08761299" rotation="270.9826,155.291,209.7001" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.287943E-05,0.1974293,-3.138233E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="955" partType="Strut1" position="0.5406971,0.6828837,-0.2104212" rotation="270.9824,155.2883,229.7032" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-9.48404E-06,0.05832222,-1.71203E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="956" partType="Strut1" position="0.5148106,0.6824064,-0.251545" rotation="270.9828,155.2884,244.7032" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1368099,0.1368099" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-9.48404E-06,0.05832222,-1.71203E-05" topScale="0.1368099,0.1368099" />
+        </Part>
+        <Part name="RD-191" id="957" partType="Strut1" position="0.4804935,0.6822019,-0.2792172" rotation="270.982,155.2906,264.7011" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-9.48404E-06,0.05832222,-1.71203E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="958" partType="Strut1" position="0.2539501,0.6830587,-0.3270648" rotation="270.9828,155.2868,284.7052" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1250571,0.1250571" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.304782E-05,0.3748098,-2.296015E-05" topScale="0.1250571,0.1250571" />
+        </Part>
+        <Part name="RD-191" id="959" partType="Strut1" position="0.152092,-0.1403971,0.09789193" rotation="16.41323,209.799,269.1188" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="960" partType="Strut1" position="0.2378445,-0.144495,0.02568245" rotation="15.69732,230.6066,274.933" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="961" partType="Strut1" position="0.3091908,-0.1574802,-0.07281184" rotation="14.60021,240.905,277.631" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="962" partType="Strut1" position="0.3437386,-0.17735,-0.1754528" rotation="10.3429,264.6935,282.8425" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0.01079883" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="963" partType="Strut1" position="0.3478832,-0.2021971,-0.2783667" rotation="7.313684,277.1241,284.7587" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.328279E-08,0.08183722,-9.468357E-07" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="964" partType="Strut1" position="0.3262691,-0.2212925,-0.3417513" rotation="359.8007,303.5898,286.4337" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.328279E-08,0.08183722,-9.468357E-07" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="965" partType="Strut1" position="0.2752991,-0.2476153,-0.4084902" rotation="8.430667,312.8887,289.778" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.328279E-08,0.08183722,-9.468357E-07" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="966" partType="Strut1" position="0.2238159,-0.2863493,-0.4609659" rotation="348.0382,310.8033,308.1311" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.328279E-08,0.08183722,-9.468357E-07" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="967" partType="Strut1" position="0.1757927,-0.3966479,-0.471153" rotation="345.7523,313.8302,348.6944" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.1195161,0.1195161" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-1.505535E-07,0.1832315,-5.339232E-07" topScale="0.1195161,0.1195161" />
+        </Part>
+        <Part name="RD-191" id="968" partType="Strut1" position="0.04264641,-0.1390162,0.1438866" rotation="15.61193,194.212,272.023" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.343801E-07,0.1092264,-1.322464E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="969" partType="Strut1" position="-0.05587006,-0.1368074,0.1682239" rotation="14.22948,191.8104,270.4996" materials="0,0,0,0,0">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.08583516,0.08583516" cornerRadiuses="1,1,1,1,1,1,1,1" offset="2.409062E-06,0.05972693,-1.273966E-06" topScale="0.08583516,0.08583516" />
+        </Part>
+        <Part name="RD-191" id="970" partType="Strut1" position="-0.01310921,-0.2839575,0.3869082" rotation="285.8907,178.5325,271.5137" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.159301,0.159301" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.505535E-07,0.1832315,-5.339232E-07" topScale="0.2223293,0.2223293" />
+        </Part>
+        <Part name="RD-191" id="971" partType="Strut1" position="-0.1551476,-0.2829485,0.3868893" rotation="285.8907,178.5319,271.5141" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.2398542,0.2398542" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.2398542,0.2398542" />
+        </Part>
+        <Part name="RD-191" id="972" partType="Strut1" position="-0.219244,-0.2824702,0.3868757" rotation="285.8906,178.5304,271.515" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.2158623,0.2158623" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.2158623,0.2158623" />
+        </Part>
+        <Part name="RD-191" id="973" partType="Strut1" position="-0.2493458,-0.2779603,0.385645" rotation="292.006,134.8671,313.0735" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.2158623,0.2158623" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.2158623,0.2158623" />
+        </Part>
+        <Part name="RD-191" id="974" partType="Strut1" position="-0.2754707,-0.267333,0.3826686" rotation="303.9709,115.0905,330.6694" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.2158623,0.2158623" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.2158623,0.2158623" />
+        </Part>
+        <Part name="RD-191" id="975" partType="Strut1" position="-0.299284,-0.2497711,0.3777128" rotation="317.5473,105.1963,338.2248" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.2158623,0.2158623" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.2158623,0.2158623" />
+        </Part>
+        <Part name="RD-191" id="976" partType="Strut1" position="-0.3343678,-0.1832151,0.3588325" rotation="336.9037,97.07687,342.6886" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.03854351,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.2158623,0.2158623" cornerRadiuses="1,1,1,1,1,1,1,1" offset="8.044265E-07,0.1529291,-1.480799E-06" topScale="0.2370305,0.2370305" />
+        </Part>
+        <Part name="RD-191" id="977" partType="Strut1" position="-0.3849354,-0.07446814,0.3279767" rotation="336.9037,97.07692,342.6886" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.02408969,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.2674925,0.2674925" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.2674925,0.2674925" />
+        </Part>
+        <Part name="RD-191" id="978" partType="Strut1" position="-0.4355049,0.0342679,0.2971289" rotation="336.9037,97.07692,342.6886" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.05814754,0" area="0,0,0,0,0.08472926,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.2262673,0.2262673" cornerRadiuses="1,1,1,1,1,1,1,1" offset="8.044265E-07,0.1529291,-1.480799E-06" topScale="0.3184355,0.3184355" />
+        </Part>
+        <Part name="RD-191" id="979" partType="Strut1" position="-0.4860725,0.1430049,0.2662733" rotation="336.9037,97.07692,342.6886" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3552967,0.3552967" cornerRadiuses="1,1,1,1,1,1,1,1" offset="-2.989923E-07,0.0533963,-1.17036E-06" topScale="0.3552967,0.3552967" />
+        </Part>
+        <Part name="RD-191" id="980" partType="Strut1" position="-0.5549679,0.2988672,0.2220449" rotation="337.9807,96.71488,342.8276" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.1030042,0.06545752" area="0,0,0,0,0.1270939,0.08472926" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3084361,0.3084361" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.770289E-06,0.2569365,-2.173086E-06" topScale="0.3658835,0.3658835" />
+        </Part>
+        <Part name="RD-191" id="981" partType="Strut1" position="-0.6289768,0.4668183,0.1743712" rotation="337.9807,96.71488,342.8276" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.03904192,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3660749,0.3660749" cornerRadiuses="1,1,1,1,1,1,1,1" offset="4.650838E-06,0.05900184,-1.90997E-06" topScale="0.4304955,0.4304955" />
+        </Part>
+        <Part name="RD-191" id="982" partType="Strut1" position="-0.6569309,0.5302424,0.1563594" rotation="337.9808,96.71497,342.8276" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.449236,0.449236" cornerRadiuses="1,1,1,1,1,1,1,1" offset="6.235371E-06,0.06032621,-2.540175E-06" topScale="0.449236,0.449236" />
+        </Part>
+        <Part name="RD-191" id="983" partType="Strut1" position="-0.6852703,0.5945253,0.1381059" rotation="337.9808,96.71497,342.8276" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.01794267,0.04020487" area="0,0,0,0,0.04236463,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.4226595,0.4226595" cornerRadiuses="1,1,1,1,1,1,1,1" offset="6.319295E-06,0.06063186,-2.531631E-06" topScale="0.3805338,0.3805338" />
+        </Part>
+        <Part name="RD-191" id="984" partType="Strut1" position="-0.7136803,0.6589794,0.1198071" rotation="337.9807,96.71488,342.8276" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.04053714,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3982944,0.3982944" cornerRadiuses="1,1,1,1,1,1,1,1" offset="6.319295E-06,0.06063186,-2.531631E-06" topScale="0.3982944,0.3982944" />
+        </Part>
+        <Part name="RD-191" id="985" partType="Strut1" position="-0.7719803,0.7912598,0.08227289" rotation="337.9807,96.71488,342.8276" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0.02093311,0" area="0,0,0,0,0.04236463,0" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3221983,0.3221983" cornerRadiuses="1,1,1,1,1,1,1,1" offset="7.672123E-06,0.1882099,-3.535903E-06" topScale="0.369419,0.369419" />
+        </Part>
+        <Part name="RD-191" id="986" partType="Strut1" position="-0.8302727,0.9235256,0.04472303" rotation="337.9807,96.71488,342.8276" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.03721442" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3977639,0.3977639" cornerRadiuses="1,1,1,1,1,1,1,1" offset="6.319295E-06,0.06063186,-2.531631E-06" topScale="0.3977639,0.3977639" />
+        </Part>
+        <Part name="RD-191" id="987" partType="Strut1" position="-0.856493,0.9830134,0.02782941" rotation="337.9807,96.71488,342.8276" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0.0333933" area="0,0,0,0,0,0.04236463" />
+          <Config massScale="0" partScale="0.6,0.6,0.6" />
+          <Fuselage bottomScale="0.3485126,0.3485126" cornerRadiuses="1,1,1,1,1,1,1,1" offset="1.048824E-05,0.05129279,-4.876233E-06" topScale="0.2505482,0.2505482" />
+        </Part>
+        <Part name="RD-191" id="988" partType="Fuselage1" position="0.221796,-0.6516643,0.3940772" rotation="0.7459913,202.4961,0.3317813" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.3678292,0.3678292" offset="-7.526377E-07,0.1006574,1.985457E-06" topScale="0.4682549,0.4682549" />
+          <FuelTank capacity="61.0818024" fuel="61.0818024" />
+        </Part>
+        <Part name="RD-191" id="989" partType="Fuselage1" position="0.2217617,-0.7523403,0.3955137" rotation="0.7459913,202.4961,0.3317813" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.3590682,0.3590682" offset="-7.526377E-07,0.1006574,1.985457E-06" topScale="0.3590682,0.3590682" />
+          <FuelTank capacity="44.84791" fuel="44.84791" />
+        </Part>
+        <Part name="RD-191" id="990" partType="Fuselage1" position="0.2217331,-0.8304086,0.3966237" rotation="0.7459857,202.4961,0.3318096" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" partScale="0.5,0.5,0.5" />
+          <Fuselage bottomScale="0.2782851,0.2782851" offset="-1.693365E-06,0.05546079,2.942342E-06" topScale="0.3590682,0.3590682" />
+          <FuelTank capacity="19.5680962" fuel="19.5680962" />
+        </Part>
+        <Part name="RD-191" id="991" partType="Fuselage1" position="-0.2162495,0.5875998,-0.4043844" rotation="359.5209,52.49487,359.3406" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.1649044,0.03891358" cornerRadiuses="0,0,0,0,0,0,0,0" offset="-0.001242111,0.05200258,0.002973394" topScale="0.1624648,0.0372079" />
+          <FuelTank capacity="1.42551112" fuel="1.42551112" />
+        </Part>
+        <Part name="RD-191" id="992" partType="Fuselage1" position="-0.212347,0.4320664,-0.4109743" rotation="359.5209,52.49487,359.3406" materials="0,0,0,0,0" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config massScale="0" />
+          <Fuselage bottomScale="0.05018433,0.03663198" cornerRadiuses="0,0,0,0,0,0,0,0" offset="-0.006657831,0.1032599,0.0006111473" topScale="0.1639131,0.04017827" />
+          <FuelTank capacity="1.802774" fuel="1.802774" />
+        </Part>
+      </Parts>
+      <Connections>
+        <Connection partA="859" partB="860" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="860" partB="861" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="862" partB="861" attachPointsA="2,4" attachPointsB="1,5" symmetryId="7c1cdec0-0506-4172-819c-cbf997ccc1e5" />
+        <Connection partA="863" partB="862" attachPointsA="2" attachPointsB="1" symmetryId="5d71ac75-5923-4e2a-b2c5-072ac7e2f357" />
+        <Connection partA="864" partB="863" attachPointsA="2,4" attachPointsB="1,5" symmetryId="bf7b60be-ec38-4d1b-bd2d-23c5acd3a5aa" />
+        <Connection partA="864" partB="865" attachPointsA="1,5" attachPointsB="2,4" symmetryId="b30855de-750f-43b3-882f-23f1113ff34f" />
+        <Connection partA="991" partB="864" attachPointsA="3" attachPointsB="0" symmetryId="8167259a-844b-4d96-ae3b-21e0e4caa812" />
+        <Connection partA="992" partB="864" attachPointsA="3" attachPointsB="0" symmetryId="e711fc02-580b-4d2d-928f-3ba719e6e3fa" />
+        <Connection partA="865" partB="866" attachPointsA="1,5" attachPointsB="2,4" symmetryId="9bcf7d93-dfa8-4679-9dc3-4586e21509c1" />
+        <Connection partA="866" partB="867" attachPointsA="1,5" attachPointsB="2,4" symmetryId="90120a4e-3344-4cf6-b149-b7f2b44b48e4" />
+        <Connection partA="902" partB="866" attachPointsA="1" attachPointsB="0" symmetryId="05ab9fc6-d468-406c-a36a-ed60903323a9" />
+        <Connection partA="967" partB="866" attachPointsA="1" attachPointsB="0" symmetryId="05ab9fc6-d468-406c-a36a-ed60903323a9" />
+        <Connection partA="867" partB="868" attachPointsA="1,5" attachPointsB="2,4" symmetryId="449d0cee-c712-4fb2-9f1e-d84b1497b3fd" />
+        <Connection partA="891" partB="867" attachPointsA="3" attachPointsB="0" symmetryId="5bbbb69c-1c2e-4774-9e71-3d102ebbf277" />
+        <Connection partA="890" partB="867" attachPointsA="3" attachPointsB="0" symmetryId="df5c8ecd-a825-4259-b244-a0b3da411ed2" />
+        <Connection partA="907" partB="867" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="868" partB="869" attachPointsA="1,5" attachPointsB="2,4" symmetryId="f598444c-0282-4199-9555-2bd13008ae3d" />
+        <Connection partA="869" partB="870" attachPointsA="1,5" attachPointsB="2,4" symmetryId="2c74573c-a4a0-4856-997b-4d1d64ecaa05" />
+        <Connection partA="888" partB="869" attachPointsA="3" attachPointsB="0" symmetryId="3b643038-5054-481a-b478-d1924c6fbdf3" />
+        <Connection partA="870" partB="871" attachPointsA="1,5" attachPointsB="2,4" symmetryId="1832e23e-c1cc-4a49-ab5a-cbcce3083618" />
+        <Connection partA="887" partB="870" attachPointsA="3" attachPointsB="0" symmetryId="697e45d3-b5d1-42ba-b2da-eb99e75b148b" />
+        <Connection partA="906" partB="870" attachPointsA="3" attachPointsB="0" symmetryId="eed06339-0a25-4ca0-a7bc-f34cf87041d3" />
+        <Connection partA="872" partB="871" attachPointsA="1" attachPointsB="0" symmetryId="178bf2b7-41e7-481b-95b0-22525e293b18" />
+        <Connection partA="877" partB="871" attachPointsA="2,4" attachPointsB="1,5" symmetryId="dc75d428-0e58-4062-8f1b-9ce755d12b38" />
+        <Connection partA="873" partB="872" attachPointsA="1" attachPointsB="2" symmetryId="7e48073a-eec5-490d-ac59-7b6a995aba57" />
+        <Connection partA="874" partB="873" attachPointsA="1" attachPointsB="2" symmetryId="43fdc065-c37c-485d-bf8d-17bf47f7a64b" />
+        <Connection partA="875" partB="874" attachPointsA="1" attachPointsB="2" symmetryId="71adb7c1-2fb1-415f-8f35-4184cf29b75f" />
+        <Connection partA="876" partB="875" attachPointsA="1" attachPointsB="2" symmetryId="bac5eed6-e3ad-4238-863b-5e5f1a7fccf1" />
+        <Connection partA="878" partB="877" attachPointsA="1" attachPointsB="0" symmetryId="49fe5ddb-2085-4e3c-a8cd-2d401d4f554c" />
+        <Connection partA="883" partB="877" attachPointsA="1" attachPointsB="0" symmetryId="05225dca-1c77-4b5d-9920-9a6fde0c83bb" />
+        <Connection partA="884" partB="877" attachPointsA="1" attachPointsB="0" symmetryId="0e2a08b7-4b19-4e7a-87c3-47bd76bee546" />
+        <Connection partA="886" partB="877" attachPointsA="0" attachPointsB="1" symmetryId="d425a4cd-d0ae-443e-bb2f-9776b2b62015" />
+        <Connection partA="879" partB="878" attachPointsA="1" attachPointsB="2" symmetryId="7e48073a-eec5-490d-ac59-7b6a995aba57" />
+        <Connection partA="880" partB="879" attachPointsA="1" attachPointsB="2" symmetryId="43fdc065-c37c-485d-bf8d-17bf47f7a64b" />
+        <Connection partA="881" partB="880" attachPointsA="1" attachPointsB="2" symmetryId="71adb7c1-2fb1-415f-8f35-4184cf29b75f" />
+        <Connection partA="882" partB="881" attachPointsA="1" attachPointsB="2" symmetryId="bac5eed6-e3ad-4238-863b-5e5f1a7fccf1" />
+        <Connection partA="993" partB="883" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="885" partB="884" attachPointsA="1" attachPointsB="2" symmetryId="5b4e9697-1539-4f5c-ba86-50ac5e662768" />
+        <Connection partA="887" partB="888" attachPointsA="2,4" attachPointsB="1,5" symmetryId="6e97d22f-b1a2-4f90-ac68-f85fdeea87d5" />
+        <Connection partA="906" partB="887" attachPointsA="2" attachPointsB="1" symmetryId="228e44cf-0682-4e33-aca7-d675a2dff4a0" />
+        <Connection partA="888" partB="889" attachPointsA="2,4" attachPointsB="1,5" symmetryId="e66f1ec9-01a3-4a45-986a-7a3e1d5f4eed" />
+        <Connection partA="889" partB="890" attachPointsA="2,4" attachPointsB="1,5" symmetryId="d87b44c4-8fc6-4eca-8d9c-6673ee5cb3b9" />
+        <Connection partA="890" partB="891" attachPointsA="2,4" attachPointsB="1,5" symmetryId="8feb81c2-bd94-4a11-8b5a-8b5bfac58b7a" />
+        <Connection partA="892" partB="891" attachPointsA="1,5" attachPointsB="2,4" symmetryId="2361c27b-43c4-4dda-912d-aeec6590310b" />
+        <Connection partA="893" partB="892" attachPointsA="2,4" attachPointsB="2,4" symmetryId="d10d1dae-0538-413a-870b-627ce5b1c7a6" />
+        <Connection partA="894" partB="893" attachPointsA="2,4" attachPointsB="1,5" symmetryId="7d68f634-1bc4-4268-82fe-cba3b6c8ce3a" />
+        <Connection partA="894" partB="895" attachPointsA="3" attachPointsB="0" symmetryId="00775549-c1b7-49c6-90e2-3b53240a7688" />
+        <Connection partA="895" partB="896" attachPointsA="1" attachPointsB="2" symmetryId="71b57caf-7efd-4310-a251-d709b2cdbc24" />
+        <Connection partA="903" partB="895" attachPointsA="1" attachPointsB="2" symmetryId="d7355c5c-8a95-4652-ad58-bc86653b4976" />
+        <Connection partA="896" partB="897" attachPointsA="1" attachPointsB="2" symmetryId="e307b555-e691-45de-8ffe-4c03e3798a55" />
+        <Connection partA="897" partB="898" attachPointsA="1" attachPointsB="2" symmetryId="c05d5a6c-b84e-4f99-bc6b-dcdb96fcc006" />
+        <Connection partA="898" partB="899" attachPointsA="1" attachPointsB="2" symmetryId="e8425afd-8e7f-40df-bb36-6bc8623f6058" />
+        <Connection partA="899" partB="900" attachPointsA="1" attachPointsB="2" symmetryId="4d4203c3-99fe-45d8-9ee1-2419a6b80ab0" />
+        <Connection partA="900" partB="901" attachPointsA="1" attachPointsB="2" symmetryId="1bece6c6-e424-4fb4-9382-b230c6f61797" />
+        <Connection partA="901" partB="902" attachPointsA="1" attachPointsB="2" symmetryId="88cb783c-0630-4cd8-a46c-7a448b5e15a6" />
+        <Connection partA="904" partB="903" attachPointsA="1" attachPointsB="2" symmetryId="30b7d9ff-e662-49cc-a087-96afac37afb2" />
+        <Connection partA="905" partB="904" attachPointsA="1" attachPointsB="2" symmetryId="68a7d78a-9379-4a0c-aad8-795e724ee00d" />
+        <Connection partA="908" partB="907" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="988" partB="907" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="909" partB="908" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="910" partB="909" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="970" partB="909" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="911" partB="910" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="910" partB="959" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="912" partB="911" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="913" partB="912" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="933" partB="912" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="914" partB="913" attachPointsA="1,2" attachPointsB="2,4" />
+        <Connection partA="915" partB="914" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="916" partB="915" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="917" partB="916" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="918" partB="917" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="919" partB="918" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="920" partB="919" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="921" partB="920" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="922" partB="921" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="923" partB="922" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="924" partB="923" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="925" partB="924" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="926" partB="925" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="927" partB="926" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="928" partB="927" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="929" partB="928" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="930" partB="929" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="931" partB="930" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="932" partB="931" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="934" partB="933" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="935" partB="934" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="936" partB="935" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="937" partB="936" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="938" partB="937" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="939" partB="938" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="940" partB="939" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="941" partB="940" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="942" partB="941" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="943" partB="942" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="944" partB="943" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="945" partB="944" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="946" partB="945" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="947" partB="946" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="948" partB="947" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="949" partB="948" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="950" partB="949" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="951" partB="950" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="952" partB="951" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="953" partB="952" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="954" partB="953" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="955" partB="954" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="956" partB="955" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="957" partB="956" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="958" partB="957" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="959" partB="960" attachPointsA="1" attachPointsB="2" symmetryId="d7355c5c-8a95-4652-ad58-bc86653b4976" />
+        <Connection partA="968" partB="959" attachPointsA="1" attachPointsB="2" symmetryId="30b7d9ff-e662-49cc-a087-96afac37afb2" />
+        <Connection partA="960" partB="961" attachPointsA="1" attachPointsB="2" symmetryId="71b57caf-7efd-4310-a251-d709b2cdbc24" />
+        <Connection partA="961" partB="962" attachPointsA="1" attachPointsB="2" symmetryId="e307b555-e691-45de-8ffe-4c03e3798a55" />
+        <Connection partA="962" partB="963" attachPointsA="1" attachPointsB="2" symmetryId="c05d5a6c-b84e-4f99-bc6b-dcdb96fcc006" />
+        <Connection partA="963" partB="964" attachPointsA="1" attachPointsB="2" symmetryId="e8425afd-8e7f-40df-bb36-6bc8623f6058" />
+        <Connection partA="964" partB="965" attachPointsA="1" attachPointsB="2" symmetryId="4d4203c3-99fe-45d8-9ee1-2419a6b80ab0" />
+        <Connection partA="965" partB="966" attachPointsA="1" attachPointsB="2" symmetryId="1bece6c6-e424-4fb4-9382-b230c6f61797" />
+        <Connection partA="966" partB="967" attachPointsA="1" attachPointsB="2" symmetryId="88cb783c-0630-4cd8-a46c-7a448b5e15a6" />
+        <Connection partA="969" partB="968" attachPointsA="1" attachPointsB="2" symmetryId="68a7d78a-9379-4a0c-aad8-795e724ee00d" />
+        <Connection partA="971" partB="970" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="972" partB="971" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="973" partB="972" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="974" partB="973" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="975" partB="974" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="976" partB="975" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="977" partB="976" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="978" partB="977" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="979" partB="978" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="980" partB="979" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="981" partB="980" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="982" partB="981" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="983" partB="982" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="984" partB="983" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="985" partB="984" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="986" partB="985" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="987" partB="986" attachPointsA="1" attachPointsB="2" />
+        <Connection partA="989" partB="988" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="990" partB="989" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="992" partB="991" attachPointsA="2,4" attachPointsB="1,5" symmetryId="20562e7f-66d7-49aa-8f98-82c03480bbf3" />
+      </Connections>
+      <Collisions />
+      <Bodies />
+    </Assembly>
+  </DesignerPart>
+</DesignerParts>
