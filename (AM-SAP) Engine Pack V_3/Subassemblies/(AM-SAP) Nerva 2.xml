@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart name="(AM-SAP) Nerva 2" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: Liquid Hydrogen, Thrust: SL=399kn Vac=867kn, Isp: SL=380s Vac=825s" order="1000">
+  <DesignerPart iconType="File" name="(AM-SAP) Nerva 2" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: Liquid Hydrogen, Thrust: SL=399kn Vac=867kn, Isp: SL=380s Vac=825s" order="1000">
     <Assembly xmlVersion="9">
       <Parts>
         <Part id="2" partType="Fuselage1" position="0.004047275,1.118164,-0.07626057" rotation="6.830191E-06,-5.008956E-06,-6.378398E-13" materials="3,3,3,3,3" texture="Default">

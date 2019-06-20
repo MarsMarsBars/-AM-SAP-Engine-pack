@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart name="(AM-SAP) LR-87" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: KeraLOX, Thrust: SL=644kn Vac=728kn, Isp: SL=256s Vac=290s" order="1000">
+  <DesignerPart iconType="File" name="(AM-SAP) LR-87" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: KeraLOX, Thrust: SL=644kn Vac=728kn, Isp: SL=256s Vac=290s" order="1000">
     <Assembly xmlVersion="8">
       <Parts>
         <Part id="2" partType="Strut1" position="0.004815578,1.251844,0.02476755" rotation="0.1405403,0.0001958413,359.8594" name="(AM-SAP) LR-87" materials="0,0,0,0,0" texture="Default">

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart name="(AM-SAP) NK-39" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: KeraLOX, Thrust: Vac=402kn, Isp: Vac=352s" order="1000">
+  <DesignerPart iconType="File" name="(AM-SAP) NK-39" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: KeraLOX, Thrust: Vac=402kn, Isp: Vac=352s" order="1000">
     <Assembly xmlVersion="9">
       <Parts>
         <Part id="2" partType="Fuselage1" position="-0.204411,1.496329,-0.3085494" rotation="-2.390566E-05,1.183914E-05,180" materials="2,2,2,2,2" texture="Default">

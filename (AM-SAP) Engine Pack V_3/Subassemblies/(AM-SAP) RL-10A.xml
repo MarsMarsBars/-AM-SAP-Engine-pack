@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart name="(AM-SAP) RL-10A" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Isp: Vac=450s, Thrust: Vac=110kn" order="1000">
+  <DesignerPart iconType="File" name="(AM-SAP) RL-10A" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Isp: Vac=450s, Thrust: Vac=110kn" order="1000">
     <Assembly xmlVersion="8">
       <Parts>
         <Part id="1238" partType="RocketEngine1" position="0.04662085,0.7588511,0.1653957" rotation="-5.902347E-05,355.2397,-2.205478E-05" name="M engine" activationStage="0" materials="2,2,2,2,4">

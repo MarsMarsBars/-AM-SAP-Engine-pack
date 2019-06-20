@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart order="1000" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: SL=3,144kn Vac=3,543kn, Isp: SL=365s Vac=412s" category="Propulsion" name="(AM-SAP) RS-68A">
+  <DesignerPart iconType="File" order="1000" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: SL=3,144kn Vac=3,543kn, Isp: SL=365s Vac=412s" category="Propulsion" name="(AM-SAP) RS-68A">
     <Assembly xmlVersion="8">
       <Parts>
         <Part id="246" partType="Fuselage1" position="-0.03202701,1.300747,-0.01384544" rotation="6.843502E-06,-5.008957E-06,-9.797778E-13" name="(AM-SAP) RS-68A" materials="2,2,2,2,2" texture="Default">

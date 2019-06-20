@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart name="(AM-SAP) Raptor VAC" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: MethaLOX, Thrust: Vac= 1,900kn, Isp: Vac=380s" order="1000">
+  <DesignerPart iconType="File" name="(AM-SAP) Raptor VAC" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: MethaLOX, Thrust: Vac= 1,900kn, Isp: Vac=380s" order="1000">
     <Assembly xmlVersion="9">
       <Parts>
         <Part id="2" partType="Fuselage1" position="0.016392896,1.1472504000000001,6.824493600000001E-4" rotation="1.366038E-05,-5.008957E-06,-1.207781E-12" name="(AM-SAP) Raptor" materials="3,3,3,3,3" texture="Default">

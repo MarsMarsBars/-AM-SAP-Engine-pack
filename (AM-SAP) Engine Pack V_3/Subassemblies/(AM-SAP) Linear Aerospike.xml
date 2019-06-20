@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart name="(AM-SAP) Linear Aerospike" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: SL=2,378kn Vac=2,530kn, Isp: SL=339s Vac=361s" order="1000">
+  <DesignerPart iconType="File" name="(AM-SAP) Linear Aerospike" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: SL=2,378kn Vac=2,530kn, Isp: SL=339s Vac=361s" order="1000">
     <Assembly xmlVersion="8">
       <Parts>
         <Part id="1365" partType="Fuselage1" position="-0.04902172,1.141198,0.02892303" rotation="-1.366038E-05,180,-6.377711E-13" name="(AM-SAP) Linear Aerospike" materials="4,4,4,4,4" texture="Default">

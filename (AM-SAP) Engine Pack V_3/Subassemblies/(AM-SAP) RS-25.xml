@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart name="(AM-SAP) RS-25" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: SL=1,855kn Vac=2,300kn, Isp: SL=366s Vac=454s" order="1000">
+  <DesignerPart iconType="File" name="(AM-SAP) RS-25" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: SL=1,855kn Vac=2,300kn, Isp: SL=366s Vac=454s" order="1000">
     <Assembly xmlVersion="8">
       <Parts>
         <Part id="66" partType="Fuselage1" position="-0.2428131,0.4181788,0.08005905" rotation="1.024528E-05,-5.02259E-06,6.669657E-09" name="(AM-SAP) RS-25" materials="4,4,4,4,4" texture="Default">

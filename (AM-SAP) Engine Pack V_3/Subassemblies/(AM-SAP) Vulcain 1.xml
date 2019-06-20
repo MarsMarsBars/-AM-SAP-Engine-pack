@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DesignerParts>
-  <DesignerPart name="(AM-SAP) Vulcain 1" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: SL=1,095kn Vac=1,449kn, Isp: SL=325s Vac=430s" order="1000">
+  <DesignerPart iconType="File" name="(AM-SAP) Vulcain 1" category="Propulsion" description="Engine by Aerojet Mariodyne, Fuel: HydroLOX, Thrust: SL=1,095kn Vac=1,449kn, Isp: SL=325s Vac=430s" order="1000">
     <Assembly xmlVersion="8">
       <Parts>
         <Part id="5" partType="Fuselage1" position="0.01553154,0.8834665,0.01972437" rotation="-4.691929E-05,270,-1.271535E-05" materials="2,2,2,2,2" texture="Default">
