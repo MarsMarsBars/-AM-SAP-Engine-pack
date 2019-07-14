@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DesignerParts>
+  <DesignerPart iconType="File" order="1000" description="Engine by Aerojet Mariodyne, Fuel:KeraLOX, Thrust: Vac=467kn, Isp: Vac=316s" category="Propulsion" name="(AM-SAP) LR-91">
+    <Assembly xmlVersion="9">
+      <Parts>
+        <Part id="1" partType="Fuselage1" position="0.251297,0.8521776,-0.2430048" rotation="0.1594518,90.00001,0.159447" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="1.308638,1.308638" offset="-1.670947E-15,0.07926738,-1.889883E-08" topScale="1.308638,1.308638" />
+          <FuelTank capacity="469.111542" fuel="469.111542" />
+        </Part>
+        <Part id="2" partType="Fuselage1" position="0.2508545,0.6936293,-0.2434435" rotation="0.159476,90,0.1594422" materials="2,2,2,2,2" texture="Fuselage9" textureTiling="8,1" textureOffset="0,0.05000001">
+          <Drag drag="0,0,0,0,0.08824303,0.07442337" area="0,0,0,0,0.1616521,0.1616521" />
+          <Config />
+          <Fuselage bottomScale="0.08743936,0.08743936" offset="-5.267468E-19,0.1347574,4.263252E-14" topScale="0.3710102,0.3710102" />
+          <FuelTank capacity="27.5897141" fuel="27.5897141" subPriority="-1" />
+        </Part>
+        <Part id="3" partType="Fuselage1" position="0.2503242,0.5025921,-0.2439766" rotation="0.1594809,90,0.1594374" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03131614,0.0315697" area="0,0,0,0,0.03233042,0.03233042" />
+          <Config />
+          <Fuselage bottomScale="0.08390049,0.08390049" offset="-5.059941E-19,0.05626606,4.352073E-14" topScale="0.08390049,0.08390049" />
+          <FuelTank capacity="1.3687309" fuel="1.3687309" subPriority="-3" />
+        </Part>
+        <Part id="4" partType="Fuselage1" position="0.2500191,0.393527,-0.2442799" rotation="0.1594857,90,0.159447" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config />
+          <Fuselage bottomScale="0.2311307,0.2311307" offset="1.059443E-14,0.05279113,7.450637E-08" topScale="0.08390049,0.08390049" />
+          <FuelTank capacity="4.85592175" fuel="4.85592175" subPriority="-4" />
+        </Part>
+        <Part id="5" partType="Fuselage1" position="0.2497253,0.2879362,-0.2445736" rotation="0.1595002,89.99998,0.159447" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config />
+          <Fuselage bottomScale="0.23055,0.23055" offset="1.059443E-14,0.05279113,7.450637E-08" topScale="0.23055,0.23055" />
+          <FuelTank capacity="9.696917" fuel="9.696917" subPriority="-5" />
+        </Part>
+        <Part id="6" partType="Fuselage1" position="0.2495308,0.2171459,-0.2447691" rotation="0.1595147,90,0.1594615" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config />
+          <Fuselage bottomScale="0.2135562,0.2135562" offset="6.893822E-14,0.05053085,1.185754E-07" topScale="0.2135562,0.2135562" />
+          <FuelTank capacity="7.963859" fuel="7.963859" subPriority="-6" />
+        </Part>
+        <Part id="7" partType="Fuselage1" position="0.3301811,0.1175909,0.1898775" rotation="359.8252,187.4995,0.1373418" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.02916077,0.02928756" area="0,0,0,0,0.03233042,0.03233042" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6995075,0.6995075" offset="-6.837784E-08,0.08043373,1.455902E-08" topScale="0.6995075,0.6995075" />
+          <FuelTank capacity="136.008331" fuel="136.008331" subPriority="-7" />
+        </Part>
+        <Part id="8" partType="Fuselage1" position="0.3303185,0.1663837,0.190011" rotation="0.1353484,97.49993,0.1783524" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6969302,0.6969302" offset="-2.606333E-09,0.08219656,6.926905E-08" topScale="0.5150272,0.5150272" />
+          <FuelTank capacity="105.089638" fuel="105.089638" subPriority="-6" />
+        </Part>
+        <Part id="9" partType="Fuselage1" position="0.3305283,0.2424641,0.1902246" rotation="0.136849,97.49994,0.1798253" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config />
+          <Fuselage bottomScale="0.1569888,0.1569888" offset="-7.509345E-08,0.05141592,6.909264E-08" topScale="0.1569888,0.1569888" />
+          <FuelTank capacity="4.37902641" fuel="4.37902641" subPriority="-6" />
+        </Part>
+        <Part id="10" partType="Fuselage1" position="0.330719,0.3107386,0.1904163" rotation="0.1377849,97.49992,0.1792817" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.7370964,0.7370964" offset="2.641168E-16,0.05618215,1.129724E-09" topScale="0.7370964,0.7370964" />
+          <FuelTank capacity="105.484726" fuel="105.484726" subPriority="-5" />
+        </Part>
+        <Part id="11" partType="Fuselage1" position="0.3309364,0.3897209,0.1906376" rotation="0.1376037,97.49992,0.1787228" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6948306,0.6948306" offset="-2.122357E-06,0.2070679,8.124428E-09" topScale="0.3115468,0.3115468" />
+          <FuelTank capacity="189.943054" fuel="189.943054" subPriority="-4" />
+        </Part>
+        <Part id="12" partType="Fuselage1" position="0.3313637,0.5426903,0.191061" rotation="0.137312,97.49992,0.1787425" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.01166431,0.009762519" area="0,0,0,0,0.03233042,0.03233042" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.310308,0.310308" offset="-2.316978E-06,0.3027963,3.053987E-07" topScale="0.310308,0.310308" />
+          <FuelTank capacity="100.757919" fuel="100.757919" subPriority="-3" />
+        </Part>
+        <Part id="13" partType="Fuselage1" position="0.3316689,0.652173,0.19137" rotation="0.1372858,97.49995,0.1788836" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.01927147,0.036134" area="0,0,0,0,0.03233042,0.06466084" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3634452,0.3634452" offset="-5.600705E-06,0.06211914,4.754633E-07" topScale="0.3634452,0.3634452" />
+          <FuelTank capacity="28.3560562" fuel="28.3560562" subPriority="-2" />
+        </Part>
+        <Part id="14" partType="Fuselage1" position="0.3319244,0.7438374,0.1916265" rotation="0.137312,97.49992,0.1787425" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.310308,0.310308" offset="-4.958745E-06,0.2434116,6.692203E-07" topScale="0.310308,0.310308" />
+          <FuelTank capacity="80.99717" fuel="80.99717" subPriority="-1" />
+        </Part>
+        <Part id="15" partType="Fuselage1" position="0.3321762,0.8336716,0.1918821" rotation="0.1372858,97.49995,0.1788836" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.01965182,0.01977861" area="0,0,0,0,0.03233042,0.03233042" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3634452,0.3634452" offset="-1.216417E-05,0.05601723,1.010676E-06" topScale="0.3634452,0.3634452" />
+          <FuelTank capacity="25.5706711" fuel="25.5706711" />
+        </Part>
+        <Part id="16" partType="Fuselage1" position="0.3300476,0.06879711,0.189744" rotation="359.8646,277.4999,179.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6969302,0.6969302" offset="-2.606333E-09,0.08219656,6.926905E-08" topScale="0.5150272,0.5150272" />
+          <FuelTank capacity="105.089638" fuel="105.089638" subPriority="-7" />
+        </Part>
+        <Part id="17" partType="Fuselage1" position="0.3298416,-0.006646156,0.1895351" rotation="359.8646,277.4999,359.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config />
+          <Fuselage bottomScale="0.1569888,0.1569888" offset="-3.048113E-07,0.05078036,5.731473E-08" topScale="0.1569888,0.1569888" />
+          <FuelTank capacity="4.324896" fuel="4.324896" subPriority="-8" />
+        </Part>
+        <Part id="18" partType="Fuselage1" position="0.3296547,-0.07320213,0.1893482" rotation="359.8646,277.4999,359.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.02662505,0.05439118" area="0,0,0,0,0.03233042,0.06466084" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.5716027,0.5716027" offset="2.306572E-06,0.05256572,-1.113085E-05" topScale="0.5716027,0.5716027" />
+          <FuelTank capacity="59.35178" fuel="59.35178" subPriority="-9" />
+        </Part>
+        <Part id="19" partType="Fuselage1" position="0.3293724,-0.1613131,0.1891041" rotation="359.8646,277.4999,359.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.29832,0.29832" offset="2.388241E-05,0.2411039,-0.000113776" topScale="0.5261241,0.5261241" />
+          <FuelTank capacity="145.185623" fuel="145.185623" subPriority="-10" />
+        </Part>
+        <Part id="20" partType="Fuselage1" position="0.3288841,-0.2674894,0.1887903" rotation="359.8646,277.4999,359.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.258876,0.258876" offset="0.000112548,0.1127942,-0.0005347057" topScale="0.258876,0.258876" />
+          <FuelTank capacity="26.1223869" fuel="26.1223869" subPriority="-11" />
+        </Part>
+        <Part id="21" partType="Fuselage1" position="0.3283653,-0.2908812,0.1870737" rotation="359.8646,277.4999,339.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.258876,0.258876" offset="5.179749E-05,0.0583839,-0.0002465795" topScale="0.258876,0.258876" />
+          <FuelTank capacity="13.5213289" fuel="13.5213289" subPriority="-11" />
+        </Part>
+        <Part id="22" partType="Fuselage1" position="0.3277435,-0.2963018,0.1835756" rotation="359.8645,277.4999,319.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.258876,0.258876" offset="5.179749E-05,0.0583839,-0.0002465795" topScale="0.258876,0.258876" />
+          <FuelTank capacity="13.5213289" fuel="13.5213289" subPriority="-11" />
+        </Part>
+        <Part id="23" partType="Fuselage1" position="0.3268738,-0.3002987,0.1781902" rotation="359.8645,277.4999,299.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.258876,0.258876" offset="5.179749E-05,0.0583839,-0.0002465795" topScale="0.258876,0.258876" />
+          <FuelTank capacity="13.5213289" fuel="13.5213289" subPriority="-11" />
+        </Part>
+        <Part id="24" partType="Fuselage1" position="0.3256454,-0.3028278,0.1700258" rotation="359.8645,277.4999,279.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.258876,0.258876" offset="5.179749E-05,0.0583839,-0.0002465795" topScale="0.258876,0.258876" />
+          <FuelTank capacity="13.5213289" fuel="13.5213289" subPriority="-11" />
+        </Part>
+        <Part id="25" partType="Fuselage1" position="0.3150368,-0.3044682,0.09269047" rotation="359.8645,277.4999,269.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.02320183" area="0,0,0,0,0,0.03233042" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.258876,0.258876" offset="0.0002552872,0.2482397,-0.001158704" topScale="0.258876,0.258876" />
+          <FuelTank capacity="57.4906769" fuel="57.4906769" subPriority="-11" />
+        </Part>
+        <Part id="26" partType="Fuselage1" position="0.302166,-0.3039436,0.003350258" rotation="359.8645,277.4999,269.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3002658,0.3002658" offset="0.0005569221,0.05254916,-0.002510558" topScale="0.3002658,0.3002658" />
+          <FuelTank capacity="16.3726959" fuel="16.3726959" subPriority="-11" />
+        </Part>
+        <Part id="27" partType="Fuselage1" position="0.2892952,-0.3034163,-0.08598232" rotation="359.8645,277.4999,269.8217" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.02142683" area="0,0,0,0,0,0.03233042" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2046921,0.2046921" offset="0.0002552872,0.2482397,-0.001158704" topScale="0.258876,0.258876" />
+          <FuelTank capacity="46.297142" fuel="46.297142" subPriority="-11" />
+        </Part>
+        <Part id="28" partType="Fuselage1" position="0.2493477,0.1508408,-0.2449532" rotation="0.1595147,89.99998,0.1594566" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.7794733,0.7794733" offset="2.306572E-06,0.05256572,-1.113085E-05" topScale="0.7794733,0.7794733" />
+          <FuelTank capacity="110.369148" fuel="110.369148" subPriority="-7" />
+        </Part>
+        <Part id="29" partType="Fuselage1" position="0.2491264,0.06953239,-0.2451801" rotation="359.8405,270,179.8405" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0.06466085" area="0,0,0,0,0,0.09699126" />
+          <Config />
+          <Fuselage bottomScale="0.2135562,0.2135562" offset="7.199288E-14,0.06553137,1.230462E-07" topScale="0.2135562,0.2135562" />
+          <FuelTank capacity="10.328" fuel="10.328" subPriority="-7" />
+        </Part>
+        <Part id="30" partType="Fuselage1" position="0.2489014,-0.01177502,-0.2454071" rotation="359.8405,270,179.8405" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.7794733,0.7794733" offset="2.306572E-06,0.05256572,-1.113085E-05" topScale="0.7794733,0.7794733" />
+          <FuelTank capacity="110.369148" fuel="110.369148" subPriority="-8" />
+        </Part>
+        <Part id="31" partType="Fuselage1" position="0.2487106,-0.08084488,-0.2456026" rotation="359.8405,270,359.8405" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.02687863,0" area="0,0,0,0,0.03233042,0" />
+          <Config />
+          <Fuselage bottomScale="0.1438704,0.1438704" offset="4.371444E-14,0.05329536,7.429654E-08" topScale="0.2135562,0.2135562" />
+          <FuelTank capacity="5.956811" fuel="5.956811" subPriority="-9" />
+        </Part>
+        <Part id="32" partType="Fuselage1" position="0.2483978,-0.1940193,-0.2459164" rotation="359.8405,270,359.8405" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03169649,0.03195006" area="0,0,0,0,0.03233042,0.03233042" />
+          <Config />
+          <Fuselage bottomScale="0.1393461,0.1393461" offset="9.415827E-15,0.05987024,7.450488E-08" topScale="0.1393461,0.1393461" />
+          <FuelTank capacity="4.017381" fuel="4.017381" subPriority="-10" />
+        </Part>
+        <Part id="33" partType="Fuselage1" position="0.2480888,-0.30548,-0.2462273" rotation="359.8405,270,359.8405" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config />
+          <Fuselage bottomScale="0.1869442,0.1869442" offset="8.777896E-15,0.05158127,7.4501E-08" topScale="0.1401295,0.1401295" />
+          <FuelTank capacity="4.79978371" fuel="4.79978371" subPriority="-11" />
+        </Part>
+        <Part id="34" partType="RocketEngine1" position="0.2490807,0.05103588,-0.2452345" rotation="359.8405,270,359.8405" name="Pixie Engine" activationStage="0" materials="3,3,3,3,3" nozzleExtensionTexture="RocketEngine_Extension4">
+          <Drag drag="0,0,0,0,0.9439215,1.210553" area="0,0,0,0,1.260886,1.648851" />
+          <Config partScale="0.69,0.53,0.69" />
+          <RocketEngine chamberPressure="2630" engineSubTypeId="GasGenerator1" mass="6.878269" nozzleSize="6" nozzleThroatSize="0.0384" price="1146959" size="0.362" />
+        </Part>
+        <Part id="35" partType="Fuselage1" position="0.2478981,-0.3728352,-0.2464142" rotation="359.8405,270,359.8405" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6646637,0.6646637" offset="2.306572E-06,0.05256572,-1.113085E-05" topScale="0.6646637,0.6646637" />
+          <FuelTank capacity="80.2507553" fuel="80.2507553" subPriority="-12" />
+        </Part>
+        <Part id="36" partType="Inlet1" position="0.2475548,-0.4948902,-0.2467537" rotation="359.8404,270,359.8405" materials="2,2,2,2,2" texture="Fuselage4" textureTiling="2,6" textureOffset="0,0.2">
+          <Drag drag="0,0,0,0,0.1174038,0.0415858" area="0,0,0,0,0.1616521,0.06466084" />
+          <Config />
+          <Fuselage bottomScale="0.3480346,0.3480346" offset="8.846385E-07,0.1359109,-3.213057E-07" topScale="0.1852223,0.1852223" />
+          <Inlet />
+        </Part>
+        <Part id="37" partType="Inlet1" position="0.2469025,-0.7282143,-0.2474051" rotation="359.8404,270,359.8405" materials="2,2,2,2,2" texture="Fuselage4" textureTiling="2,6" textureOffset="0,0.2">
+          <Drag drag="0,0,0,0,0.1174038,0.0415858" area="0,0,0,0,0.1616521,0.06466084" />
+          <Config />
+          <Fuselage bottomScale="0.4489477,0.4489477" offset="4.072044E-07,0.09741047,-5.056623E-07" topScale="0.3486594,0.3486594" />
+          <Inlet />
+        </Part>
+        <Part id="38" partType="Inlet1" position="0.2464523,-0.8903379,-0.2478571" rotation="359.8404,270,359.8405" materials="2,2,2,2,2" texture="Fuselage4" textureTiling="2,6" textureOffset="0,0.2">
+          <Drag drag="0,0,0,0,0.1174038,0.0415858" area="0,0,0,0,0.1616521,0.06466084" />
+          <Config />
+          <Fuselage bottomScale="0.4761139,0.4761139" offset="3.495221E-07,0.06471244,-5.397592E-07" topScale="0.4489477,0.4489477" />
+          <Inlet />
+        </Part>
+        <Part id="39" partType="Fuselage1" position="-0.09323883,0.3139706,0.04702377" rotation="359.9707,142.4995,0.2236903" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config fuelLine="true" partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6894497,0.6894497" offset="2.641168E-16,0.05618215,1.129724E-09" topScale="0.6894497,0.6894497" />
+          <FuelTank capacity="92.28819" fuel="92.28819" subPriority="-5" />
+        </Part>
+        <Part id="40" partType="Fuselage1" position="-0.09309006,0.3662806,0.04717159" rotation="359.9707,142.4995,0.2236903" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6629445,0.6629445" offset="-9.509773E-07,0.118165,-6.052865E-10" topScale="0.3115468,0.3115468" />
+          <FuelTank capacity="101.147362" fuel="101.147362" subPriority="-4" />
+        </Part>
+        <Part id="41" partType="Fuselage1" position="-0.0929451,0.4181347,0.04731274" rotation="359.9707,142.4995,0.2236903" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.310308,0.310308" offset="-1.189065E-06,0.05466484,1.173815E-07" topScale="0.310308,0.310308" />
+          <FuelTank capacity="18.1901627" fuel="18.1901627" subPriority="-4" />
+        </Part>
+        <Part id="42" partType="Fuselage1" position="-0.09259796,0.5431051,0.04766464" rotation="359.9707,142.4995,0.2236583" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03892329,0.01800361" area="0,0,0,0,0.06466084,0.03233042" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2076583,0.2076583" offset="-5.816721E-06,0.3618693,5.908656E-07" topScale="0.2076583,0.2076583" />
+          <FuelTank capacity="53.9253426" fuel="53.9253426" subPriority="-3" />
+        </Part>
+        <Part id="43" partType="Fuselage1" position="-0.09223938,0.6703157,0.04801941" rotation="359.9707,142.4995,0.2236583" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2511671,0.2511671" offset="-5.600705E-06,0.06211914,4.754633E-07" topScale="0.2511671,0.2511671" />
+          <FuelTank capacity="13.5423307" fuel="13.5423307" subPriority="-1" />
+        </Part>
+        <Part id="44" partType="Fuselage1" position="-0.09201813,0.7490063,0.04823971" rotation="359.9707,142.4995,0.2236583" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2076583,0.2076583" offset="-5.818593E-06,0.2001607,5.637772E-07" topScale="0.2076583,0.2076583" />
+          <FuelTank capacity="29.8277149" fuel="29.8277149" subPriority="-1" />
+        </Part>
+        <Part id="45" partType="Fuselage1" position="-0.09230042,0.8276958,0.04911709" rotation="359.9707,142.4995,0.2236583" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.0234554,0" area="0,0,0,0,0.03233042,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2511671,0.2511671" offset="-5.600705E-06,0.06211914,4.754633E-07" topScale="0.2511671,0.2511671" />
+          <FuelTank capacity="13.5423307" fuel="13.5423307" />
+        </Part>
+        <Part id="46" partType="Fuselage1" position="-0.09342957,0.2456942,0.0468359" rotation="359.9707,142.4995,0.2236903" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config />
+          <Fuselage bottomScale="0.1421734,0.1421734" offset="-7.509345E-08,0.05141592,6.909264E-08" topScale="0.1421734,0.1421734" />
+          <FuelTank capacity="3.591507" fuel="3.591507" subPriority="-6" />
+        </Part>
+        <Part id="47" partType="Fuselage1" position="-0.09363937,0.169611,0.04662418" rotation="359.9707,142.4995,0.2236935" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6969302,0.6969302" offset="-2.606333E-09,0.08219656,6.926905E-08" topScale="0.5150272,0.5150272" />
+          <FuelTank capacity="105.089638" fuel="105.089638" subPriority="-6" />
+        </Part>
+        <Part id="48" partType="Fuselage1" position="-0.0937767,0.1208172,0.04648972" rotation="359.9707,142.4995,0.2236903" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.05654654,0" area="0,0,0,0,0.06466084,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6995075,0.6995075" offset="-6.837784E-08,0.08043373,1.455902E-08" topScale="0.6995075,0.6995075" />
+          <FuelTank capacity="136.008331" fuel="136.008331" subPriority="-7" />
+        </Part>
+        <Part id="49" partType="Fuselage1" position="-0.09391022,0.07202339,0.04635239" rotation="0.02929031,322.4995,179.7764" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.6969302,0.6969302" offset="-2.606333E-09,0.08219656,6.926905E-08" topScale="0.5150272,0.5150272" />
+          <FuelTank capacity="105.089638" fuel="105.089638" subPriority="-7" />
+        </Part>
+        <Part id="50" partType="Fuselage1" position="-0.09402466,0.03191948,0.04624081" rotation="0.02926996,322.4995,359.7763" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.4549443,0.4549443" offset="2.018117E-08,0.05147536,-3.059006E-08" topScale="0.4549443,0.4549443" />
+          <FuelTank capacity="36.8178558" fuel="36.8178558" subPriority="-8" />
+        </Part>
+        <Part id="51" partType="Fuselage1" position="-0.09410858,0.001029968,0.04615307" rotation="0.02924189,322.4995,359.7763" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.4947653,0.4947653" offset="2.018117E-08,0.05147536,-3.059006E-08" topScale="0.4947653,0.4947653" />
+          <FuelTank capacity="43.54522" fuel="43.54522" subPriority="-8" />
+        </Part>
+        <Part id="52" partType="Fuselage1" position="-0.09437943,-0.09671116,0.04588318" rotation="359.8209,262.4999,359.8628" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03537329,0" area="0,0,0,0,0.06466084,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3695792,0.3695792" offset="2.714608E-07,0.274283,-9.306722E-07" topScale="0.4751821,0.4751821" />
+          <FuelTank capacity="169.98317" fuel="169.98317" subPriority="-9" />
+        </Part>
+        <Part id="53" partType="Fuselage1" position="-0.09408951,-0.1725512,0.04573822" rotation="349.8208,262.524,359.8606" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="5.770979E-07,0.05188908,-2.310389E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="24.12301" fuel="24.12301" subPriority="-10" />
+        </Part>
+        <Part id="54" partType="Fuselage1" position="-0.09703445,-0.1837978,0.04532242" rotation="339.8208,262.5497,359.8539" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="5.770979E-07,0.05188908,-2.310389E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="24.12301" fuel="24.12301" subPriority="-10" />
+        </Part>
+        <Part id="55" partType="Fuselage1" position="-0.1025047,-0.1951132,0.04457664" rotation="329.8209,262.5791,359.8413" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="5.770979E-07,0.05188908,-2.310389E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="24.12301" fuel="24.12301" subPriority="-10" />
+        </Part>
+        <Part id="56" partType="Fuselage1" position="-0.1095352,-0.2048111,0.04362392" rotation="319.8208,262.6151,359.8205" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="5.770979E-07,0.05188908,-2.310389E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="24.12301" fuel="24.12301" subPriority="-10" />
+        </Part>
+        <Part id="57" partType="Fuselage1" position="-0.1178284,-0.2118158,0.04251385" rotation="309.8209,262.6638,359.7858" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="5.770979E-07,0.05188908,-2.310389E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="24.12301" fuel="24.12301" subPriority="-10" />
+        </Part>
+        <Part id="58" partType="Fuselage1" position="-0.1270409,-0.218194,0.04128551" rotation="299.8211,262.7388,359.7241" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="5.770979E-07,0.05188908,-2.310389E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="24.12301" fuel="24.12301" subPriority="-10" />
+        </Part>
+        <Part id="59" partType="Fuselage1" position="-0.1389923,-0.2227955,0.03970242" rotation="289.8212,262.8802,359.5952" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="5.770979E-07,0.05188908,-2.310389E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="24.12301" fuel="24.12301" subPriority="-10" />
+        </Part>
+        <Part id="60" partType="Fuselage1" position="-0.1501541,-0.22575,0.03822613" rotation="279.8216,263.2922,359.1953" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="5.770979E-07,0.05188908,-2.310389E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="24.12301" fuel="24.12301" subPriority="-10" />
+        </Part>
+        <Part id="61" partType="Fuselage1" position="-0.1818428,-0.2268133,0.03404903" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3667807,0.3667807" offset="1.126898E-06,0.1188977,-4.780788E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="55.2750435" fuel="55.2750435" subPriority="-10" />
+        </Part>
+        <Part id="62" partType="Fuselage1" position="-0.2328491,-0.2266483,0.02733135" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.400974,0.400974" offset="2.306572E-06,0.05256572,-1.113085E-05" topScale="0.400974,0.400974" />
+          <FuelTank capacity="29.2063713" fuel="29.2063713" subPriority="-10" />
+        </Part>
+        <Part id="63" partType="Fuselage1" position="-0.2838554,-0.2264833,0.02061462" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3001724,0.3001724" offset="1.126898E-06,0.1188977,-4.780788E-06" topScale="0.3667807,0.3667807" />
+          <FuelTank capacity="45.8446" fuel="45.8446" subPriority="-10" />
+        </Part>
+        <Part id="64" partType="Fuselage1" position="-0.3348618,-0.2263174,0.01389599" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.03207685,0" area="0,0,0,0,0.03233042,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.31203,0.31203" offset="2.306572E-06,0.05256572,-1.113085E-05" topScale="0.31203,0.31203" />
+          <FuelTank capacity="17.68634" fuel="17.68634" subPriority="-10" />
+        </Part>
+        <Part id="65" partType="Fuselage1" position="-0.3741035,-0.2261734,0.008723259" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2601528,0.2601528" offset="1.150163E-05,0.07934525,-5.086204E-05" topScale="0.2601528,0.2601528" />
+          <FuelTank capacity="18.557539" fuel="18.557539" subPriority="-10" />
+        </Part>
+        <Part id="66" partType="Fuselage1" position="-0.4126701,-0.2260227,0.003638268" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.276368,0.276368" offset="1.138926E-05,0.05029628,-5.245195E-05" topScale="0.276368,0.276368" />
+          <FuelTank capacity="13.27559" fuel="13.27559" subPriority="-10" />
+        </Part>
+        <Part id="67" partType="Fuselage1" position="-0.4425926,-0.2258959,-0.0003061295" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3031127,0.3031127" offset="1.138926E-05,0.05029628,-5.245195E-05" topScale="0.3031127,0.3031127" />
+          <FuelTank capacity="15.9693308" fuel="15.9693308" subPriority="-10" />
+        </Part>
+        <Part id="68" partType="Fuselage1" position="-0.4887238,-0.2256994,-0.006394386" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2329877,0.2329877" offset="2.452006E-05,0.104788,-0.0001144312" topScale="0.2329877,0.2329877" />
+          <FuelTank capacity="19.657135" fuel="19.657135" subPriority="-10" />
+        </Part>
+        <Part id="69" partType="Fuselage1" position="-0.5348587,-0.2255049,-0.01247978" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.3262823,0.3262823" offset="1.138926E-05,0.05029628,-5.245195E-05" topScale="0.3262823,0.3262823" />
+          <FuelTank capacity="18.503994" fuel="18.503994" subPriority="-10" />
+        </Part>
+        <Part id="70" partType="Fuselage1" position="-0.5909424,-0.2252378,-0.01988316" rotation="270.2238,45.034,217.466" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2546278,0.2546278" offset="5.178423E-05,0.1382455,-0.0002479067" topScale="0.2546278,0.2546278" />
+          <FuelTank capacity="30.9745789" fuel="30.9745789" subPriority="-10" />
+        </Part>
+        <Part id="71" partType="Fuselage1" position="-0.6182251,-0.225152,-0.02349281" rotation="289.8215,262.8797,359.5955" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2546278,0.2546278" offset="1.138926E-05,0.05029628,-5.245195E-05" topScale="0.2546278,0.2546278" />
+          <FuelTank capacity="11.269124" fuel="11.269124" subPriority="-10" />
+        </Part>
+        <Part id="72" partType="Fuselage1" position="-0.6214676,-0.2268448,-0.02393246" rotation="309.8211,262.6634,359.7859" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2546278,0.2546278" offset="1.138926E-05,0.05029628,-5.245195E-05" topScale="0.2546278,0.2546278" />
+          <FuelTank capacity="11.269124" fuel="11.269124" subPriority="-10" />
+        </Part>
+        <Part id="73" partType="Fuselage1" position="-0.6235733,-0.2294674,-0.02422237" rotation="329.821,262.5787,359.8414" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2546278,0.2546278" offset="1.138926E-05,0.05029628,-5.245195E-05" topScale="0.2546278,0.2546278" />
+          <FuelTank capacity="11.269124" fuel="11.269124" subPriority="-10" />
+        </Part>
+        <Part id="74" partType="Fuselage1" position="-0.6242599,-0.2323418,-0.02432632" rotation="349.821,262.5236,359.8607" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2546278,0.2546278" offset="1.138926E-05,0.05029628,-5.245195E-05" topScale="0.2546278,0.2546278" />
+          <FuelTank capacity="11.269124" fuel="11.269124" subPriority="-10" />
+        </Part>
+        <Part id="75" partType="Fuselage1" position="-0.6259613,-0.278141,-0.02467918" rotation="359.8209,262.4994,359.8629" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.02104647,0" area="0,0,0,0,0.03233042,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2546278,0.2546278" offset="5.344334E-05,0.1484667,-0.0002471738" topScale="0.2546278,0.2546278" />
+          <FuelTank capacity="33.26468" fuel="33.26468" subPriority="-11" />
+        </Part>
+        <Part id="76" partType="Fuselage1" position="-0.6263542,-0.3384018,-0.02492905" rotation="359.821,262.4995,359.8629" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.226224,0.226224" offset="0.0001156678,0.05239806,-0.0005359562" topScale="0.2546278,0.2546278" />
+          <FuelTank capacity="10.479126" fuel="10.479126" subPriority="-11" />
+        </Part>
+        <Part id="77" partType="Fuselage1" position="-0.6269341,-0.3693933,-0.02519035" rotation="359.8209,262.4994,359.8629" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config partScale="0.3,0.3,0.3" />
+          <Fuselage bottomScale="0.2281743,0.2281743" offset="0.0002505253,0.05090395,-0.001161271" topScale="0.2281743,0.2281743" />
+          <FuelTank capacity="9.158571" fuel="9.158571" subPriority="-12" />
+        </Part>
+        <Part id="78" partType="Inlet1" position="-0.6275139,-0.4580164,-0.02555656" rotation="0.1789615,82.4994,0.1372435" materials="2,2,2,2,2" texture="Default">
+          <Drag drag="0,0,0,0,0.0216804,0" area="0,0,0,0,0.03233042,0" />
+          <Config />
+          <Fuselage bottomScale="0.09925503,0.09925503" offset="2.530842E-08,0.0733479,3.785047E-09" topScale="0.06629275,0.06629275" />
+          <Inlet />
+        </Part>
+        <Part id="79" partType="Strut1" position="0.03939438,0.2231045,-0.09452915" rotation="270.222,45.04513,269.9541" materials="2,2,2,2,4" texture="Default">
+          <Drag drag="0,0,0,0,0,0" area="0,0,0,0,0,0" />
+          <Config />
+          <Fuselage bottomScale="0.05,0.05" cornerRadiuses="1,1,1,1,1,1,1,1" offset="5.382835E-07,0.09134977,-1.490004E-06" topScale="0.05,0.05" />
+        </Part>
+      </Parts>
+      <Connections>
+        <Connection partA="2" partB="1" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="2" partB="3" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="4" partB="3" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="5" partB="4" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="6" partB="5" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="39" partB="5" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="7" partB="6" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="28" partB="6" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="8" partB="7" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="16" partB="7" attachPointsA="1,3,5" attachPointsB="1,0,5" />
+        <Connection partA="9" partB="8" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="10" partB="9" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="11" partB="10" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="12" partB="11" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="13" partB="12" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="14" partB="13" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="15" partB="14" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="17" partB="16" attachPointsA="2,4" attachPointsB="2,4" />
+        <Connection partA="18" partB="17" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="19" partB="18" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="20" partB="19" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="21" partB="20" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="22" partB="20" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="23" partB="20" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="25" partB="20" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="22" partB="21" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="24" partB="21" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="23" partB="22" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="24" partB="23" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="25" partB="24" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="26" partB="25" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="27" partB="26" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="29" partB="28" attachPointsA="1,5" attachPointsB="1,5" />
+        <Connection partA="30" partB="29" attachPointsA="1,3,5" attachPointsB="2,0,4" />
+        <Connection partA="31" partB="30" attachPointsA="2,4" attachPointsB="2,4" />
+        <Connection partA="31" partB="32" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="32" partB="33" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="34" partB="33" attachPointsA="0" attachPointsB="1" />
+        <Connection partA="35" partB="33" attachPointsA="4" attachPointsB="5" />
+        <Connection partA="36" partB="35" attachPointsA="1" attachPointsB="5" />
+        <Connection partA="37" partB="36" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="38" partB="37" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="40" partB="39" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="46" partB="39" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="41" partB="40" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="41" partB="42" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="43" partB="42" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="44" partB="43" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="45" partB="44" attachPointsA="1,5" attachPointsB="2,4" />
+        <Connection partA="47" partB="46" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="48" partB="47" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="49" partB="48" attachPointsA="1,3,5" attachPointsB="1,0,5" />
+        <Connection partA="79" partB="48" attachPointsA="1" attachPointsB="0" />
+        <Connection partA="50" partB="49" attachPointsA="2,3,4" attachPointsB="2,0,4" />
+        <Connection partA="51" partB="50" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="52" partB="51" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="53" partB="52" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="54" partB="52" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="58" partB="52" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="59" partB="52" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="54" partB="53" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="55" partB="53" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="56" partB="53" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="57" partB="53" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="60" partB="53" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="61" partB="53" attachPointsA="3" attachPointsB="0" />
+        <Connection partA="55" partB="54" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="56" partB="55" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="57" partB="56" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="58" partB="57" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="59" partB="58" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="60" partB="59" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="61" partB="60" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="62" partB="61" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="63" partB="62" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="64" partB="63" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="65" partB="64" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="66" partB="65" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="67" partB="66" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="68" partB="67" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="69" partB="68" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="70" partB="69" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="71" partB="70" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="72" partB="71" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="73" partB="72" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="74" partB="73" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="75" partB="74" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="76" partB="75" attachPointsA="2,4" attachPointsB="1,5" />
+        <Connection partA="77" partB="76" attachPointsA="2,3,4" attachPointsB="1,0,5" />
+        <Connection partA="78" partB="77" attachPointsA="1" attachPointsB="5" />
+      </Connections>
+      <Collisions />
+      <Bodies />
+    </Assembly>
+  </DesignerPart>
+</DesignerParts>
